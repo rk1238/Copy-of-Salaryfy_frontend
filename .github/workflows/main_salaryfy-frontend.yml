@@ -1,7 +1,7 @@
 # Docs for the Azure Web Apps Deploy action: https://github.com/Azure/webapps-deploy
 # More GitHub Actions for Azure: https://github.com/Azure/actions
 
-name: Build and deploy Node.js app to Azure Web App - salaryfy-frontend
+name: Build and deploy React app to Azure Web App - salaryfy-frontend
 
 on:
   push:
@@ -19,18 +19,19 @@ jobs:
       - name: Set up Node.js version
         uses: actions/setup-node@v1
         with:
-          node-version: '18.x'
+          node-version: '14.x'
 
-      - name: npm install, build, and test
-        run: |
-          npm install --force
-          npm run build --if-present
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Build React app
+        run: npm run build
 
       - name: Upload artifact for deployment job
         uses: actions/upload-artifact@v2
         with:
-          name: node-app
-          path: .
+          name: react-app
+          path: build
 
   deploy:
     runs-on: ubuntu-latest
@@ -43,7 +44,7 @@ jobs:
       - name: Download artifact from build job
         uses: actions/download-artifact@v2
         with:
-          name: node-app
+          name: react-app
 
       - name: 'Deploy to Azure Web App'
         id: deploy-to-webapp
@@ -52,4 +53,4 @@ jobs:
           app-name: 'salaryfy-frontend'
           slot-name: 'Production'
           publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_F889D9CEE5A14EF7A9169CBEC41F9659 }}
-          package: .
+          package: build
