@@ -1,0 +1,150 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+/* html,
+body {
+    overflow-x: hidden;
+    background-color: #f3f8f8;
+    font-family: 'Poppins', sans-serif;
+} */
+
+.isa_agreement_pdf_section ul {
+    margin-top: 0;
+    margin-bottom: 1rem;
+    list-style: disc;
+}
+
+.isa_agreement_pdf_section .upper-alfa{
+    list-style: upper-alpha;
+    padding-left: 40px;
+    font-size: 16px;
+    font-weight: 400;
+}
+
+.isa_agreement_pdf_section  p {
+    opacity: 80%;
+    line-height: 20px;
+    color: #000;
+}
+
+.main-section {
+    
+}
+
+section.main-body-content {
+    padding: 65px 40px 0px;
+}
+
+.agreement-header{
+    background: #0E5F59;
+    padding: 30px 0;
+  }
+  
+  .agreement-header h1{
+    font-family: 'Lexend';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 30px;
+  line-height: 109.5%;
+  color: #FFFFFF;
+  text-align: center;
+  width: 100%;
+  
+  }
+  
+  .isa_agreement_pdf_section .main-section{
+    max-width: 950px;
+    width: 100%;
+    margin: auto;
+    margin-top: 25px;
+    margin-bottom: 25px;
+    background-color: #e6f3f221;
+    height: 600px;
+    overflow-x: scroll;
+    /* position: relative; */
+  }
+
+  .isa_agreement_pdf_section .main-section::-webkit-scrollbar{
+    display: none;
+  }
+  
+  .isa_agreement_pdf_section .main-section header{
+    display: flex;
+      justify-content: center;
+      align-items: center;
+      width: 100%;
+  }
+  
+  .isa_agreement_pdf_section .main-section header img{
+    width: 30%;
+  }
+
+  .isa_agreement_pdf_section .bottom_fixed_buttons{
+    position: fixed;
+    bottom: 0;
+    z-index: 4;
+    width: 100%;
+  }
+
+  .isa_agreement_pdf_section .Generate_pdf_btn{
+   
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    width: 950px;
+   
+    background: #9d9d9d;
+    /* height: 0px; */
+    padding: 13px 0;
+  
+    margin: auto;
+  }
+
+  .isa_agreement_pdf_section .Generate_pdf_btn .Generate_pdf{
+    padding: 7px 10px;
+  }
+
+  .isa_agreement_pdf_section .Generate_pdf_btn .sign{
+    padding: 7px 30px;
+  }
+
+
+
+  .isa_agreement_pdf_section .main-body-content .main-title{
+    font-family: 'Lexend';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 34px;
+    line-height: 109.5%;
+    color: #000;
+  }
+
+  .loader {
+    border: 6px solid #f3f3f3;
+    border-top: 6px solid #3498db;
+    border-radius: 50%;
+    width: 60px;
+    height: 60px;
+    animation: spin 2s linear infinite;
+  }
+  
+  @keyframes spin {
+    0% { transform: rotate(0deg); }
+    100% { transform: rotate(360deg); }
+  }
+
+  .loader-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background-color: rgba(0, 0, 0, 0.3); /* Add a semi-transparent background */
+    z-index: 999;
+  }
