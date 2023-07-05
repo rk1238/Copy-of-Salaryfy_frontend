@@ -53,4 +53,4 @@ jobs:
           app-name: 'salaryfy-frontend'
           slot-name: 'Production'
           publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_F889D9CEE5A14EF7A9169CBEC41F9659 }}
-          package: build
+          package: .
