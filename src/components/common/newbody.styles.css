@@ -1,0 +1,314 @@
+
+/* prakash-css */
+
+.landing-banner-title{
+    font-weight: 600;
+    font-size: 80px;
+    color: #005F59;
+    font-family: "Lexend";
+  }
+
+
+  .landing-banner-title-small{
+    font-weight: 600;
+    font-size: 50px;
+    color: #005F59;
+    font-family: "Lexend";
+  }
+
+  .landing-banner-title-large{
+    font-weight: 600;
+    font-size: 60px;
+    color: #005F59;
+    font-family: "Lexend";
+  }
+  
+  .job-change{
+    color:#FECD08 ;
+    font-weight: 600 !important;
+  }
+
+  .job-change-large{
+    color:#FECD08 ;
+    font-weight: 600 !important;
+  }
+
+  .landing-banner-sub-heading{
+    margin-top: 5px;
+  }
+
+  .landing-banner-sub-heading>p{
+    margin: 5px 0px;
+  }
+
+  .landing-banner-sub-heading-small{
+    margin-top: 5px;
+  }
+
+  .landing-banner-sub-heading-small>p{
+    margin: 5px 0px;
+    font-size: 14px;
+  }
+
+  .landing-banner-buttons-container{
+    display: flex;
+    align-items: center;
+    margin: 80px 0px;
+    gap: 20px;
+  }
+
+  .landing-banner-buttons-container-small{
+    display: flex;
+    align-items: center;
+    margin: 20px 0px;
+    gap: 20px;
+  }
+
+  .fresher-button{
+    width: 258px;
+    height: 66px;
+    border-radius: 13px;
+    border: none;
+    outline: none;
+    background-color:#FECD08 ;
+    color: #0E5F59;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 30px;
+    font-family: 'Lexend';
+  }
+
+  .fresher-button-large{
+    width: 200px;
+    height: 60px;
+    border-radius: 13px;
+    border: none;
+    outline: none;
+    background-color:#FECD08 ;
+    color: #0E5F59;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 30px;
+    font-family: 'Lexend';
+  }
+
+  .fresher-button-small{
+    width: 150px;
+    height: 45px;
+    border-radius: 13px;
+    border: none;
+    outline: none;
+    background-color:#FECD08 ;
+    color: #0E5F59;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 30px;
+    font-family: 'Lexend';
+  }
+
+  .experienced-button{
+    width: 289px;
+    height: 66px;
+    border-radius: 13px;
+    border: none;
+    outline: none;
+    background-color:#005F59 ;
+    color: #FFFFFF;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 30px;
+    font-family: 'Lexend';
+  }
+
+  .experienced-button-small{
+    width:170px;
+    height: 45px;
+    border-radius: 13px;
+    border: none;
+    outline: none;
+    background-color:#005F59 ;
+    color: #FFFFFF;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 30px;
+    font-family: 'Lexend';
+  }
+
+
+  .experienced-button-large{
+    width: 220px;
+    height: 60px;
+    border-radius: 13px;
+    border: none;
+    outline: none;
+    background-color:#005F59 ;
+    color: #FFFFFF;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 30px;
+    font-family: 'Lexend';
+  }
+
+  .trusted_partners{
+    color: #0E5F59;
+    line-height: 16.88px;
+    font-size: 16px;
+    font-weight: 400;
+    font-family: 'Lexend';
+  }
+
+  .trusted_partners-small{
+    color: #0E5F59;
+    line-height: 16.88px;
+    font-size: 14px;
+    font-weight: 400;
+    font-family: 'Lexend';
+  }
+
+
+  .landing-banner-image-container{
+    display: flex;
+    align-items: center;
+    gap: 50px;
+    margin: 20px 0px;
+  }
+
+  
+  .landing-banner-image-container-small{
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 50px;
+    margin: 20px auto;
+    width: 100%;
+  }
+
+  .flex-container{
+    display: flex;
+    justify-content: space-between;
+    /* flex-wrap: wrap; */
+    width: 100%;
+  }
+
+  .flex-container-medium{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    align-content: center;
+    /* flex-wrap: wrap; */
+    width: 100%;
+  }
+
+
+  .personImage{
+    margin-top: -45px !important;
+    z-index: -9 !important;
+  }
+
+  .personImageSmall{
+    margin-left: -30px !important;
+
+  }
+
+  .personImageLargeContainer{
+    margin-top: -45px !important;
+    margin-left: 100px !important;
+    z-index: -9 !important;
+  }
+
+  .personImageLarge{
+    width: 100%;
+  }
+
+
+  /* yellow strip section */
+
+  .landing-banner-section-strip{
+    background-color: #FECD08;
+    /* height: 188px; */
+    width: 100%;
+    margin: 0px;
+    display: flex;
+    justify-content: space-around;
+    padding: 30px;
+    margin-top: 10px;
+  }
+
+  .landing-banner-section-strip-small{
+    background-color: #FECD08;
+    /* height: 188px; */
+    width: 100%;
+    margin: 0px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    align-content: center;
+    padding: 30px;
+    margin-top: 10px;
+    margin: auto;
+  }
+
+  .landing-banner-section-strip>div{
+    display: flex;
+    justify-content: space-between;
+  }
+
+  .landing-banner-section-strip>div>div{
+    display: flex;
+    /* align-items: center; */
+    gap: 15px;
+
+  }
+
+
+  .landing-banner-section-strip-small>div{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 30px;
+    margin: 10px auto !important;
+    width: 80%;
+  }
+
+  .landing-banner-section-strip-small>div>div{
+    display: flex;
+    /* align-items: center; */
+    gap: 15px;
+  }
+
+
+  .landing-banner-section-strip-innercontainer>h3{
+    line-height: 37px;
+    font-weight: 600;
+    font-size: 36px;
+    font-family: 'Lexend';
+    color: #005F59;
+  }
+
+
+  .landing-banner-section-strip-innercontainer>p{
+    line-height: 18px;
+    font-weight: 400;
+    font-size: 18px;
+    font-family: 'Lexend';
+    color: #005F59;
+  }
+
+
+  .landing-banner-section-strip-innercontainer-medium>h3{
+    line-height: 37px;
+    font-weight: 600;
+    font-size: 25px;
+    font-family: 'Lexend';
+    color: #005F59;
+  }
+
+
+  .landing-banner-section-strip-innercontainer-medium>p{
+    line-height: 18px;
+    font-weight: 400;
+    font-size: 15px;
+    font-family: 'Lexend';
+    color: #005F59;
+  }
+

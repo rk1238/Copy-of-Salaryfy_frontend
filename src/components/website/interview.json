@@ -1,0 +1,48 @@
+[
+    {
+      "image": "lenskart",
+      "title": "Sales Associates(Frontend Sales)",
+      "company": "Lenskart",
+      "location": "Bangalore",
+      "jobType": "On-Site",
+      "noOfPosts": "38",
+      "date": "03 May 2023"
+    },
+    {
+      "image": "justdial",
+      "title": "Customer Representative(Frontend Sales)",
+      "company": "Just Dial",
+      "location": "Hydrabad",
+      "jobType": "On-Site",
+      "noOfPosts": "38",
+      "date": "04 May 2023"
+    },
+    {
+      "image": "trent",
+      "title": "Fashion Consultant(Frontend Sales)",
+      "company": "Tata Trent",
+      "location": "Bangalore & Hydrabad",
+      "jobType": "On-Site",
+      "noOfPosts": "38",
+      "date": "04 & 05 May 2023"
+    },
+    {
+      "image": "croma",
+      "title": "Customer Sales Representative(Frontend Sales)",
+      "company": "Croma",
+      "location": "Bangalore & Hydrabad",
+      "jobType": "On-Site",
+      "noOfPosts": "38",
+      "date": "04 & 05 May 2023"
+    },
+    {
+      "image": "hamleys",
+      "title": "Fun Consultant(Frontend Sales)",
+      "company": "Hamleys",
+      "location": "Bangalore & Hydrabad",
+      "jobType": "On-Site",
+      "noOfPosts": "38",
+      "date": "04 & 05 May 2023"
+    }
+  ]
+  

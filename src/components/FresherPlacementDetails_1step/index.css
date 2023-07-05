@@ -1,0 +1,82 @@
+.placement_details_instruction {
+    font-family: 'Lexend';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 138.5%;
+    /* or 19px */
+
+    margin: 0px;
+    color: #5B5B5B;
+}
+
+.placement_details_instruction_first_step_container {
+    padding: 20px;
+    background: #FFFFFF;
+    box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.08);
+    border-radius: 15px;
+    margin-bottom: 50px;
+}
+
+.placement_details_instruction_company_screening_question {
+    font-family: 'Lexend';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 109.5%;
+    /* identical to box height, or 20px */
+
+
+    color: #0E5F59;
+}
+
+
+.placement_details_instruction_question_container {
+    display: flex;
+    align-items: center;
+    gap: 20px;
+}
+
+
+.placement_details_instruction_question_container>p {
+    font-family: 'Lexend';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 138.5%;
+    /* or 22px */
+
+    margin: 0px;
+    color: #000000;
+}
+
+.placement_details_radio_container {
+    display: flex;
+    align-items: center;
+    gap: 30px;
+    margin-left: 20px;
+}
+
+.placement_details_radio_container>div>input {
+    margin: 20px 10px;
+}
+
+
+.placement_details_radio_container>div>label {
+    font-family: 'Lexend';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 20px;
+    /* identical to box height */
+
+
+    color: #005F59;
+}
+
+.placement_details_first_button_container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 30px;
+}

@@ -1,0 +1,98 @@
+.fresher_plan_table{
+    /* width: 1197px; */
+}
+
+ td, th {  
+    border: 1px solid rgba(14, 95, 89, 0.19);
+    text-align: left;
+    
+  }
+  
+  table {
+    border-collapse: collapse;
+    width: 100%;
+   
+  }
+  
+  th, td {
+    padding: 15px;
+  }
+
+.fresher_instant_table_plan{
+    font-family: 'Lexend';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 138.5%;
+/* identical to box height, or 28px */
+width: 305px;
+height: 70px;
+
+color: #000000;
+background-color: #0E5F591A;
+text-align: center;
+/* border-radius: 20px 0px 0px 0px; */
+/* border: 1px solid rgba(14, 95, 89, 0.19); */
+}
+
+/* .top_right{
+    border-radius: 0px 20px 0px 0px;
+}
+
+.bottom_left{
+    border-radius: 0px 0px 0px 20px;
+}
+
+.bottom_right{
+    border-radius: 0px 0px 20px 0px;
+} */
+
+.fresher_instant_table_title_green{
+   
+background: #0E5F59;
+border: 1px solid rgba(14, 95, 89, 0.19);
+
+
+}
+
+.fresher_instant_plan_table_container{
+    background: #FFFFFF;
+box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.08);
+border-radius: 15px;
+padding: 30px;
+margin: 40px auto;
+}
+
+.fresher_instant_table_title_green_image{
+    padding-left: 30px;
+}
+
+.fresher_instant_table_left_title{
+    font-family: 'Lexend';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 138.5%;
+/* or 22px */
+ border: 1px solid rgba(14, 95, 89, 0.19);
+
+color: #000000;
+width: 279px;
+height: 67px;
+background-color: #0E5F591A;
+text-align: left;
+padding-left: 30px;
+}
+
+.fresher_instant_table_content{
+    font-family: 'Lexend';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 138.5%;
+/* or 22px */
+
+text-align: center;
+
+color: #005F59;
+}

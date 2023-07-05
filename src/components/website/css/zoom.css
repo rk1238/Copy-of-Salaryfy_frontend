@@ -1,0 +1,56 @@
+ .right_certi_absolute {
+    /* position: absolute; */
+    right: 7%;
+    top: 20%;
+    width: 460px!important;
+    height: 330px!important;
+    z-index: 9;
+    margin-left: -43px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 100px;
+  }
+
+.right_certi_absolute .image-container {
+  padding: 5px;
+  display: flex;
+  flex-direction: row;
+  width: 100%;
+  height: 100%;
+}
+
+.right_certi_absolute .cursor-overlay {
+  display: none;
+  position: fixed;
+  pointer-events: none;
+  width: 100%!important;
+  height: 100%!important;
+}
+
+.right_certi_absolute .preview {
+  display: none;
+  margin-left: 15px;
+  width: 640px!important;
+  height: 500px!important;
+  border: 3px solid orange;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+  
+
+   #imageMagnifyer{
+    width: 100px;
+    /* height: 100px; */
+   }
+
+   #imageMagnifyer > div > div > div{
+          height: 10px!important;
+          width: 10px!important;
+          background-color: transparent!important;
+   }
+
+   #imageMagnifyer > div {
+    /* overflow: auto; */
+    cursor: pointer;
+}

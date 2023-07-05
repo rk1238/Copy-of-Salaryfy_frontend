@@ -1,0 +1,7672 @@
+
+/*================ MAIN RESPONSIVE FILE ==================*/
+
+/*Bootstrap responsive style*/
+@media (max-width: 2560px) {
+  .scholarship_row .irpUny {
+    width: 100%;
+    max-width: 13vw !important;
+    margin: auto;
+    margin-top: -105px !important;
+    background: transparent !important;
+  }
+
+  .MuiSlider-mark {
+    top: 16px !important;
+  }
+
+  .range-input-group .MuiSlider-markLabel {
+    top: 34px;
+  }
+
+  .irpUny {
+    width: 100%;
+    max-width: 14vw !important;
+    height: 17vh !important;
+  }
+
+  .kKESMY {
+    width: 100%;
+    max-width: 14vw !important;
+    height: 17vh !important;
+  }
+
+  .client-section .client-card-block .client-card-slide-block {
+    height: auto;
+  }
+}
+
+@media (max-width: 2160px) {
+  .scholarship_row .irpUny {
+    width: 100%;
+    max-width: 16vw !important;
+    margin: auto;
+    margin-top: -159px !important;
+  }
+}
+
+@media (max-width: 1920px) {
+  .irpUny {
+    max-width: 18vw !important;
+  }
+
+  .kKESMY {
+    max-width: 18vw !important;
+    height: 17vh !important;
+  }
+}
+
+@media (max-width: 1699px) {
+  .scholarship_row .irpUny {
+    max-width: 21vw !important;
+  }
+
+  .scholarship_row .kKESMY {
+    max-width: 21vw !important;
+    height: 17vh !important;
+  }
+}
+
+@media (min-width: 1499px) {
+  .container.custom-container {
+    max-width: 1300px;
+  }
+
+  .MuiSlider-mark {
+    top: 8px !important;
+  }
+
+  .well_place_program
+    .program-left-wrapper
+    .skilled-based-inner-wrapper
+    .inner-item
+    .technical-list
+    ul.skill-list
+    li {
+    margin: 0px 2px;
+    padding: 2px 21px;
+  }
+
+  .scholarship_row .kKESMY {
+    max-width: 20vw !important;
+    height: 11vh !important;
+  }
+}
+
+@media (min-width: 1699px) {
+  .container.custom-container {
+    max-width: 1540px;
+  }
+}
+
+@media (min-width: 1599px) {
+}
+
+/*General Responsive style*/
+
+@media (max-width: 1699px) {
+  .process-block {
+    min-height: 450px;
+  }
+  .media-wrapper .media-box p {
+    min-height: 198px;
+  }
+}
+
+@media (max-width: 1599px) {
+  .theme-header .navbar-nav li a {
+    padding: 20px 15px;
+  }
+  .theme-header .navbar-nav > li > a {
+    padding: 12px 15px;
+  }
+  .theme-header .navbar-nav li:last-child a {
+    padding-right: 40px;
+  }
+  .movement-sec .absolute-image-1 {
+    width: 750px;
+  }
+  .movement-sec .absolute-image-2 {
+    left: 23%;
+    bottom: -72%;
+  }
+  .movement-sec .absolute-image-3 {
+    bottom: -56%;
+  }
+
+  .scholarship_row .irpUny {
+    margin-top: -119px !important;
+  }
+
+  .irpUny {
+    max-width: 20vw !important;
+    height: 28vh !important;
+  }
+
+  .scholarship_row .kKESMY {
+    max-width: 20vw !important;
+    height: 28vh !important;
+  }
+}
+
+@media (max-width: 1499px) {
+  .testimonial-sec .testimonial-block {
+    padding: 30px 67px 10px;
+  }
+
+  .process-block {
+    min-height: 547px;
+  }
+
+  .process-block .title {
+    min-height: 108px;
+  }
+
+  .movement-sec .absolute-image-1 {
+    width: 685px;
+  }
+  .movement-sec .absolute-image-2 {
+    left: 25%;
+  }
+  .media-wrapper .media-box p {
+    min-height: 264px;
+  }
+
+  .landing-banner .landing-banner-sec .banner-img {
+    height: 100%;
+  }
+
+  .landing-banner .landing-banner-sec .banner-img img {
+    height: 100%;
+    object-fit: cover;
+  }
+
+  .theme-header .navbar-nav li a,
+  .theme-header .navbar-right .header-login-btn .sub-menu li a {
+    font-size: 13px;
+  }
+
+  .theme-header .navbar-nav li {
+    position: relative;
+    margin: 0 2px;
+  }
+
+  .green_block_test p {
+    font-weight: 600;
+    font-size: 27.3104px;
+  }
+
+  .scholarship_row .irpUny {
+    margin-top: -119px !important;
+  }
+}
+
+@media (min-width: 991px) and (max-width: 1199px) {
+  .theme-header .navbar-right .theme_btn {
+    display: none;
+  }
+  .theme-header .navbar-nav li:last-child a {
+    padding-right: 0;
+  }
+}
+
+@media (max-width: 1299px) {
+  .landing-banner .landing-banner-sec .fixed-timer-box .round-box {
+    width: 457px;
+    height: 474px;
+  }
+
+  .landing-banner .landing-banner-sec .fixed-timer-box .round-box h2 {
+    font-size: 58.232px;
+  }
+
+  .landing-banner .landing-banner-sec .fixed-timer-box {
+    top: 17%;
+  }
+
+  .structure-row-wrapper {
+    margin-top: -93px;
+  }
+
+  .skill-center-div .skill-wrapper .arrow-4 {
+    bottom: -45%;
+    left: 38%;
+  }
+
+  .skill-center-div .skill-wrapper.skill-wrapper-block .arrow-3 {
+    bottom: -34%;
+    left: 28%;
+  }
+
+  .client-section .client-card-block .card-right-content h4 {
+    font-size: 59.8718px;
+  }
+
+  .custom-control-label {
+    font-size: 20px;
+  }
+
+  .eligiblity-option-body .question-block .question {
+    font-size: 21px;
+  }
+
+  .scholarship_row .irpUny {
+    width: 100%;
+    max-width: 26vw !important;
+  }
+
+  .career-ready-sec .career-ready-block h5 {
+    font-size: 54px;
+  }
+
+  .well_place_program
+    .program-left-wrapper
+    .skilled-based-inner-wrapper
+    .inner-item
+    .technical-list
+    ul.skill-list
+    li {
+    padding: 2px 18px;
+  }
+
+  .client-section .client-card-block {
+    margin-right: -100px;
+    margin-left: 68px;
+  }
+
+  .well_place_program
+    .program-left-wrapper
+    .skilled-based-inner-wrapper
+    .roadmap-success-section
+    .career-wrapper-sec
+    .inner-wrapper
+    ul
+    li {
+    font-size: 6.8692px;
+    margin: 2px 0;
+  }
+}
+
+@media (max-width: 1199px) {
+  h1,
+  .theme-banner .banner-content .banner-title {
+    font-size: 50px;
+  }
+  .theme-banner .banner-content h1,
+  .theme-banner .banner-content .banner-title {
+    line-height: 75px;
+  }
+  .movement-sec.section {
+    padding-bottom: 80px;
+  }
+  .movement-sec .section-title {
+    margin-top: 0;
+  }
+  .testimonial-sec .testimonial-block {
+    padding: 30px 37px 10px;
+  }
+  .learning-sec .learning-list li a {
+    font-size: 20px;
+  }
+  .free-demo-box h3,
+  .free-demo-box h2 {
+    line-height: 52px;
+  }
+  .media-wrapper .media-box p {
+    min-height: 297px;
+  }
+
+  .landing-banner .landing-banner-sec .banner-img {
+    height: 100%;
+    display: flex;
+    align-items: flex-end;
+  }
+
+  .landing-banner .landing-banner-sec .banner-img img {
+    height: auto;
+    object-fit: contain;
+  }
+  .landing-banner .landing-banner-sec .banner-left-block h1 {
+    font-size: 30.8206px;
+  }
+
+  .landing-banner .landing-banner-sec .banner-left-block p {
+    font-size: 17.0657px;
+    line-height: 105.5%;
+    padding: 0px 0 16px;
+  }
+
+  .landing-banner .landing-banner-sec .fixed-timer-box {
+    top: 5%;
+  }
+
+  .landing-skills .skill-wrapper h3 {
+    font-size: 38px;
+  }
+
+  .structure-row-wrapper .technical-options .financial-aid-list li {
+    padding-bottom: 16px;
+    padding-left: 24px;
+    font-size: 16px;
+  }
+
+  .structure-row-wrapper
+    .technical-options
+    .faq-sec
+    .skill-center-div
+    .skill-wrapper.skill-wrapper-block
+    h6 {
+    font-size: 16px;
+  }
+
+  .program-section .program-block h6 {
+    font-size: 26.3104px;
+  }
+
+  .job-guarantee-section .guarantee-block-1 ul li {
+    margin: 15px 8px;
+    padding: 8px 36px;
+  }
+
+  .job-guarantee-section .guarantee-block-1 ul li a {
+    font-size: 17px;
+  }
+
+  .job-guarantee-section .guarantee-block-1 h6 {
+    font-size: 31.2063px;
+  }
+
+  .job-guarantee-section .guarantee-block-1 p {
+    font-size: 19px;
+    padding-bottom: 5px;
+  }
+
+  .video-section .video-box {
+    /* height: 510px; */
+  }
+
+  .client-section .client-card-block {
+    margin-right: -10px;
+  }
+}
+
+@media (max-width: 1269px) {
+  .skill-programs-section .program-cards .top-block h4 {
+    font-size: 25.1605px;
+  }
+}
+
+@media (max-width: 1199px) {
+  .eligiblity-filds-block-2.select-status {
+    padding: 42px 44px;
+    width: 94%;
+  }
+
+  .select-status .nav-tabs .nav-item .nav-link {
+    font-size: 18px;
+    padding: 7px 42px;
+  }
+
+  .row.eligiblity-form-filds p {
+    font-size: 14px;
+  }
+
+  .skill-programs-section .program-cards .top-block h4 {
+    font-size: 20.1605px;
+  }
+
+  .skill-programs-section .program-cards .bottom-block {
+    padding: 26px 15px;
+  }
+
+  .skill-programs-section .program-cards .top-block {
+    padding: 26px 15px;
+  }
+
+  .programs-btn.transparent {
+    padding: 5px 10px;
+  }
+
+  .skill-programs-section .program-cards .bottom-block ul li {
+    font-size: 17px;
+    margin: 6px 0;
+  }
+
+  .theme-header.theme_header_mobile .navbar-nav li a,
+  .theme-header.theme_header_mobile
+    .navbar-right
+    .header-login-btn
+    .sub-menu
+    li
+    a {
+    font-size: 9px;
+  }
+
+  .eligiblity-form-sec.student-dashboard.select-plan .nav-pills .nav-link {
+    padding: 9px 12px;
+  }
+
+  .green_block_test p {
+    font-weight: 600;
+    font-size: 21.3104px;
+  }
+
+  .theme-header .header-bottom {
+    position: relative;
+    margin-top: 0px;
+  }
+
+  .landing-banner .landing-banner-sec .fixed-timer-box .round-box h2 {
+    font-size: 52.232px;
+  }
+
+  .landing-banner .landing-banner-sec .fixed-timer-box .round-box {
+    width: 457px;
+    height: 441px;
+  }
+
+  .career-ready-sec .career-ready-block h5 {
+    font-size: 45px;
+  }
+
+  .landing-placed-section .inner-wrapper h4 {
+    font-size: 36px;
+  }
+
+  .client-section .main-heading {
+    font-size: 47px;
+  }
+
+  .well_place_program
+    .program-left-wrapper
+    .skilled-based-inner-wrapper
+    .inner-item
+    .technical-list
+    p {
+    font-size: 11px;
+    padding: 4px 30px;
+  }
+
+  .job_ready_wrapper .inner-wrapper p {
+    font-size: 9.1936px;
+    margin-top: 6px;
+    max-width: 85%;
+  }
+
+  .well_place_program
+    .program-left-wrapper
+    .skilled-based-inner-wrapper
+    .roadmap-success-section
+    .career-wrapper-sec
+    .inner-wrapper
+    p {
+    font-size: 9.843px;
+  }
+
+  .theme-header.theme_header_mobile .navbar-right {
+    margin-top: 0;
+  }
+
+  .both-route-chart .increase-chart-graph h4 {
+    font-size: 21px;
+  }
+
+  .both-route-chart .increase-chart-graph p {
+    line-height: 17px;
+    font-size: 13px;
+  }
+  .both-route-chart
+    .increase-chart-graph
+    .increase-chart-graph-slider
+    ul
+    li
+    span {
+    font-size: 14.3636px;
+    line-height: 111%;
+    height: 25px;
+    width: 25px;
+  }
+
+  .both-route-chart .increase-chart-graph .increase-chart-graph-slider ul li p {
+    font-size: 11.6818px;
+    text-align: left;
+  }
+
+  .both-route-chart .border_radius_chart .increase-chart-graph {
+    padding: 70px 6px 30px;
+  }
+
+  .job_ready_wrapper .inner-wrapper ul li {
+    font-size: 7.7863px;
+  }
+
+  .well_place_program .accordion.style-2 .card .card-body p {
+    margin: 6px 0 4px;
+    font-size: 8px;
+  }
+
+  .job_ready_wrapper .inner-wrapper {
+    height: 116px;
+  }
+
+  .client-section .client-card-block .card-right-content h4 {
+    font-size: 33.8718px;
+    line-height: 41px;
+  }
+
+  .well_place_program {
+    padding-top: 25px;
+  }
+
+  .direct-placement .increase-chart-graph h4 {
+    font-size: 45px;
+    line-height: 91%;
+  }
+
+  .eligiblity-form-sec.student-dashboard.about_page
+    .tab-content
+    .Three_sectin_about
+    .about_inner
+    p {
+    font-size: 19px;
+  }
+
+  .eligiblity-result-modal .score-miter h6 {
+    line-height: 41px;
+    width: 100%;
+    font-size: 29px;
+  }
+
+  .irpUny {
+    max-width: 25vw !important;
+    height: 23vh !important;
+  }
+
+  .scholarship_row .kKESMY {
+    max-width: 25vw !important;
+    height: 16vh !important;
+  }
+  .eligiblity-form-sec {
+    position: relative;
+    padding: 149px 0 60px;
+  }
+
+  .client-section .client-card-block .client-card-slide-block {
+    height: auto;
+    overflow: hidden;
+  }
+
+  .theme-header .navbar-right {
+    margin-top: 0px;
+  }
+
+  .landing-section-heading h2 {
+    font-size: 48px;
+  }
+
+  .review-sec {
+    padding: 3px 0;
+  }
+
+  .recommended-plan.enrollment-wrapper.direct-placement-card-2.direct-placement-width {
+    max-width: 100%;
+  }
+
+  .roadmap-success-section .career-wrapper-sec .inner-wrapper {
+    max-width: 100%;
+  
+}
+}
+
+@media (max-width: 991px) {
+  .theme-header .header-bottom {
+    margin-top: 0;
+  }
+
+  .input-form {
+    width: 96%;
+  }
+
+  .eligiblity-form-sec.student-dashboard .input-form .form-group label {
+    font-size: 14px;
+  }
+
+  .eligiblity-form-sec.student-dashboard .input-form .form-group input {
+    padding: 20px 10px;
+  }
+
+  .theme-header .header-top {
+    display: none;
+  }
+
+  .theme-header .navbar-nav {
+    display: none;
+  }
+
+  .theme-header .navbar-toggler {
+    display: flex;
+  }
+
+  .learning-sec .subject-descr {
+    margin-top: 30px;
+  }
+
+  .alumni-sec .rating-block {
+    display: inline-block;
+  }
+  .alumni-sec .rating-block + .rating-block {
+    margin-left: 50px;
+    margin-top: 0;
+  }
+
+  .alumni-sec .alumni-image {
+    margin-top: 40px;
+  }
+
+  .support-sec .support-list {
+    flex-direction: column;
+  }
+
+  .support-sec .support-list li + li {
+    padding-left: 0;
+    margin-left: 0;
+    padding-top: 26px;
+    margin-top: 26px;
+  }
+
+  .support-sec .support-list li + li:before {
+    left: 50%;
+    top: 0;
+    transform: translate(-50%, 0);
+    width: 100%;
+    height: 2px;
+  }
+
+  .mobile-app-sec .qr-block {
+    max-width: 100%;
+    text-align: center;
+    margin-bottom: 50px;
+  }
+
+  .qr-block .app-store-block {
+    justify-content: center;
+  }
+
+  .mobile-app-sec .mobile-app-content .title {
+    margin-left: 0;
+    text-align: center;
+  }
+  .testimonial-sec .testimonial-block {
+    padding: 30px 15px 10px;
+  }
+
+  .Fund-sec .fund-image {
+    text-align: center;
+  }
+
+  .learning-sec .learning-image img {
+    width: 250px;
+  }
+  .address_section .contact-forms {
+    margin-top: 0;
+  }
+
+  #login-screen.modal-dialog {
+    margin: 10rem 20px;
+  }
+
+  .video-section .video-box {
+    /* height: 510px; */
+  }
+
+  .client-section .client-card-block {
+    margin-right: -10px;
+    margin-left: 42px;
+  }
+
+  .program-section .program-block {
+    margin-bottom: 20px;
+  }
+
+  .program-section .program-block h6 {
+    font-size: 31.3104px;
+  }
+
+  .client-section .client-card-block .card-right-content h4 {
+    font-size: 31.8718px;
+  }
+  .client-section .client-card-block .card-right-content .card-flex p strong {
+    font-size: 14px;
+  }
+  .client-section .client-card-block .card-right-content .card-flex a {
+    font-size: 15px;
+  }
+
+  .client-section .client-card-block .card-right-content .line-para {
+    font-size: 15px;
+    line-height: 22px;
+    padding: 24px 0 28px;
+  }
+
+  .client-section .client-card-block .card-right-content .company-logo p {
+    font-size: 14px;
+    line-height: 22px;
+  }
+
+  .job-guarantee-section .guarantee-block-1 ul li {
+    margin: 15px 21px;
+    padding: 8px 45px;
+  }
+
+  .job-guarantee-section .guarantee-block-1 {
+    margin-top: 44px;
+  }
+
+  .job-guarantee-section .guarantee-block {
+    max-width: 600px;
+    margin: inherit;
+  }
+
+  .review-sec .review-slide {
+    margin-right: -10px;
+    margin-left: 10px;
+  }
+
+  .eligiblity-filds-block-2.select-status {
+    padding: 59px 29px;
+  }
+  .select-status .element-select-status a {
+    font-size: 19px;
+  }
+  .theme-header .navbar-right {
+    margin-top: 0px;
+  }
+  .navbar {
+    align-items: center !important;
+  }
+  .navbar {
+    justify-content: space-between !important;
+    padding: 1rem 0rem !important;
+  }
+
+  .eligiblity-filds-block-2.select-status.top_margin {
+    padding: 59px 29px;
+    margin-top: 27px;
+    width: 100%;
+  }
+
+  .sign-in-modal .ready-list h2 {
+    font-size: 47px;
+  }
+
+  .sign-in-modal#ReadyModal .modal-dialog {
+    width: 76vw;
+  }
+
+  .eligiblity-option-body {
+    padding: 40px 0;
+  }
+
+  .eligiblity-option-body .number-list {
+    max-width: 332px;
+    margin: auto;
+    margin-top: 93px;
+  }
+
+  .eligiblity-option-body .number-list .nav-pills {
+    display: flex;
+    justify-content: flex-start;
+    padding: 6px 0px;
+    flex-wrap: nowrap;
+    overflow-x: scroll;
+  }
+
+  .eligiblity-option-body .number-list .nav-pills::-webkit-scrollbar {
+    display: none;
+  }
+
+  .direct-placement-route .eligiblity-result-modal .doughnut-chart {
+    border-radius: 36px 36px 0px 40px;
+  }
+
+  .canvas-div #doughnut-percentage {
+    top: 18%;
+    left: 44%;
+  }
+
+  .direct-placement-route {
+    height: 100%;
+  }
+
+  .show_more_btn {
+    border-radius: 0px 62px 66px 72px;
+  }
+
+  .sticky-fixed-section {
+    width: 102%;
+    padding: 12px 13px;
+  }
+
+  .landing-skills .skill-img-sec p {
+    font-size: 17px;
+  }
+
+  .skill-center-div .skill-wrapper p,
+  .skill-center-div .skill-wrapper select {
+    font-size: 16px;
+  }
+
+  .financial-aid-list li {
+    padding-bottom: 16px;
+  }
+
+  .financial-aid-list li:after {
+    top: -32px;
+  }
+
+  .skill-center-div .skill-wrapper .arrow-4 {
+    bottom: -37%;
+    left: 32%;
+  }
+
+  .skill-center-div .skill-wrapper.skill-wrapper-block .arrow-3 {
+    bottom: -31%;
+    left: 42%;
+  }
+
+  .career-ready-sec .career-right-block {
+    justify-content: flex-start;
+    margin-top: 33px;
+  }
+
+  .desktop_img {
+    display: none;
+  }
+  #FixedTimerOuterDiv {
+    display: none;
+  }
+
+  .mobile_img {
+    display: block;
+  }
+
+  .sign-in-modal.ReadyModal .modal-dialog {
+    max-width: 67vw;
+  }
+
+  .sign-in-modal.ReadyModal .modal-dialog .modal-content {
+    padding: 30px 20px 18px;
+  }
+
+  .sign-in-modal.ReadyModal .modal-dialog .modal-header {
+    padding: 0;
+    height: 0;
+  }
+
+  .sign-in-modal.ReadyModal .modal-header .close {
+    top: -25px;
+  }
+
+  .basket-banner .basket-row .summary-table h2 {
+    font-size: 36px;
+    margin-top: 68px;
+  }
+
+  .having-doughts-sec .call-session .icon {
+    left: -3px;
+  }
+
+  .increase-chart-graph {
+    padding-left: 41px;
+    margin-top: 34px;
+  }
+
+  .skill-programs-section .programs-heading h2 {
+    font-size: 38px;
+  }
+
+  .skill-programs-section .programs-heading {
+    margin-bottom: 31px;
+  }
+
+  .eligiblity-form-sec .course_right_images img {
+    margin-left: -1px;
+    margin-top: 47px;
+    width: 61% !important;
+    margin-bottom: 32px;
+  }
+  .eligiblity-block h1 {
+    font-size: 44px;
+    line-height: 50px;
+  }
+
+  .counter-section .counter-inner {
+    max-width: 100%;
+    height: 191px;
+    margin-bottom: 25px;
+  }
+
+  .counter-section .counter-inner h4 {
+    font-size: 33.6629px;
+  }
+
+  .counter-section .counter-inner p {
+    font-size: 14.0438px;
+  }
+
+  .eligiblity-form-sec.eligiblity-course-sec {
+    padding: 190px 0 60px;
+  }
+
+  .eligiblity-form-filds.pgp-mnanagement {
+    padding-top: 0px;
+  }
+
+  .eligiblity-form-filds.pgp-mnanagement .eligiblity-block {
+    text-align: left;
+  }
+
+  .eligiblity-form-filds.pgp-mnanagement .eligiblity-block h1 {
+    padding-bottom: 0px;
+    margin-bottom: 0 !important;
+  }
+
+  .eligiblity-form-filds.pgp-mnanagement .eligiblity-block img {
+    margin-bottom: -18px;
+  }
+
+  .select-program-tab-sec
+    .tab-select
+    .tab-content
+    .tab-pane
+    .theme_btn.tertiary {
+    width: fit-content;
+  }
+
+  a.move-btn {
+    top: 11%;
+  }
+
+  .select-program-tab-sec {
+    padding: 0 0 0px 0;
+  }
+
+  .select-program-tab-sec.roadmap-success-section .tab-select .tab-content {
+    max-width: 92%;
+    margin-top: 51px;
+    padding-left: 36px;
+    height: 700px;
+    overflow-x: scroll;
+  }
+
+  .select-program-tab-sec.select-program-tab-sec-2 {
+    padding: 30px 0 70px 0;
+  }
+
+  .select-program-tab-sec.select-program-tab-sec-2 h4 {
+    margin-bottom: 46px;
+  }
+
+  .m-auto.margin-auto-hide {
+    margin-top: 0 !important;
+  }
+
+  .student-dashboard.select-plan.range-slider-plan .timeline-pop {
+    margin-top: 5px;
+    margin-bottom: 49px;
+  }
+
+  .timeline-pop li p,
+  .timeline-pop li.active p {
+    font-size: 13px;
+  }
+
+  .student-dashboard.select-plan.range-slider-plan .call-btn-2 img {
+    width: 60%;
+  }
+
+  .scholarship_row .irpUny {
+    width: 100%;
+    max-width: 35vw !important;
+  }
+
+  .green_block_test p {
+    font-size: 36.3104px;
+  }
+
+  .green_block_test {
+    padding: 22px 29px;
+    width: fit-content;
+    margin-top: 21px;
+  }
+
+  .scholarship-modal.disclaimer-modal .modal-body .alert-warning p {
+    font-size: 14px;
+  }
+
+  .landing-banner .landing-banner-sec .banner-left-block h1 {
+    font-size: 44.8206px;
+  }
+
+  .landing-select-type-sec .card-container {
+    width: 100%;
+    max-width: 100%;
+  }
+
+  .landing-select-type-sec .large {
+    width: 365px;
+    height: 95%;
+    right: 47%;
+  }
+
+  .landing-placed-section .inner-wrapper .right-block {
+    justify-content: center;
+  }
+
+  .well_place_program .well_place_program_tio_margin {
+    margin-top: 66px;
+  }
+
+  .job_ready_wrapper .inner-wrapper::after {
+    right: -49px;
+  }
+
+  .learning-mathod .learning-method-wrapper {
+    padding: 21px 17px 40px;
+  }
+
+  .well_place_program .accordion.style-2 .card .collapse {
+    width: 84%;
+    transition: all 0.5s ease;
+  }
+
+  .Add_video_sec .book-slot-sec .video-box {
+    height: 260px;
+  }
+
+  .upload_docs_wrappper .upload_space {
+    margin-bottom: 16px;
+  }
+
+  .student-dashboard.select-plan.form-select-verification .range-container {
+    padding-bottom: 0;
+    margin-bottom: 0;
+  }
+
+  .student-dashboard.select-plan.form-select-verification
+    .basket-banner
+    .basket-row {
+    padding-top: 0px;
+  }
+  .upload_docs_wrappper .upload-buttons label .upload-msg p {
+    font-size: 16px;
+  }
+
+  .theme-footer .copyright-bottom {
+    display: none;
+  }
+
+  .theme-footer .logo .footer-logo-top p {
+    max-width: 100%;
+  }
+
+  .eligiblity-form-sec.student-dashboard.about_page .tab-content .right-img {
+    justify-content: center;
+  }
+
+  .eligiblity-form-sec.student-dashboard.about_page
+    .tab-content
+    .Three_sectin_about
+    .about_inner {
+    padding: 19px 0;
+  }
+
+  .contect-us-page .contect-left-wrapper img {
+    margin: 4px auto 46px;
+  }
+
+  section.direct-placement-route.direct-placement-route1.doughnut_placement_route {
+    height: 100%;
+  }
+
+  .irpUny {
+    max-width: 34vw !important;
+    height: 23vh !important;
+  }
+
+  .scholarship_row .kKESMY {
+    max-width: 34vw !important;
+    height: 26vh !important;
+    margin: auto;
+    margin-top: -40px;
+    margin-bottom: 46px;
+  }
+
+  .both-route-chart .border_radius_chart .increase-chart-graph {
+    padding: 70px 128px 60px;
+  }
+
+  .development-course .circle-img img {
+    width: 100%;
+  }
+
+  .review-sec {
+    padding: 3px 0;
+  }
+
+  .theme-footer .logo {
+    height: 100%;
+    display: flex;
+    justify-content: center;
+  }
+
+  .theme-footer {
+    padding: 50px 0 1px;
+  }
+
+  .ready_test_page .sign-in-modal .modal-dialog .modal-content {
+    padding: 6px 20px 20px;
+  }
+
+  .ready_test_page .sign-in-modal .ready-list ul {
+    max-width: 100%;
+  }
+
+  .landing-banner .landing-banner-sec .banner-img img {
+    width: 47%;
+  }
+
+  .eligiblity-form-filds.skill_based_wrapper .left_card {
+    max-width: 71% !important;
+    margin: auto;
+  }
+
+  .well_place_program .fixed_height_program {
+    margin-bottom: 40px;
+  }
+
+  .payment_model_main_wrapper .eligiblity-block {
+    padding-bottom: 24px;
+  }
+
+  .payment_model_main_wrapper .eligiblity-filds-block-1 {
+    margin-bottom: 30px;
+  }
+
+  .plan-logo-block {
+    display: flex;
+    justify-content: center;
+    padding-right: 0%;
+    margin-top: 17px;
+    width: 100%;
+  }
+
+  .payment_model_main_wrapper .row.eligiblity-form-filds .eligiblity-block-2 {
+    padding-top: 21px;
+  }
+
+  .roadmap-success-section .accordion.style-2 .card-header span {
+    margin: 0 14px 0 18px;
+    font-size: 11px;
+}
+
+.direct-placement-route.direct-placement-route1 {
+  height: 100%;
+}
+
+.select-program-tab-sec .tab-select .tab-content .tab-pane .video-box{
+  max-width: 68%;
+  height: 250px;
+}
+
+.range-input-group .css-eg0mwd-MuiSlider-thumb {
+  top: 51%;
+}
+
+.isa_agreement_pdf_section .Generate_pdf_btn {
+  justify-content: center;
+  width: auto;
+}
+
+.scholarship-table.scholarship-test-table{
+  display: none;
+}
+
+.col-lg-3.col-md-6.col-sm-6.hovered_card.hovered_card_placement {
+  flex: 1 0 31%;
+  max-width: 55%;
+}
+
+.roadmap-success-section .tab-select .tab-content .tab-pane .career-wrapper-sec .inner-wrapper ul li {
+  font-size: 11px;
+}
+
+.roadmap-success-section .career-wrapper-sec .inner-wrapper {
+  padding: 15px 19px 8px;
+}
+
+.roadmap-success-section .career-wrapper-sec .inner-wrapper p {
+  color: #0e5f59!important;
+  font-size: 11px!important;
+  line-height: 13px!important;
+}
+
+.client-section .client-card-block .client-img {
+  height: 100%;
+}
+
+.client-section .client-card-block .client-img img{
+  height: 100%;
+    object-fit: cover;
+}
+}
+
+@media (max-width: 767px) {
+  h2,
+  .about-banner-sec .section-title h1,
+  .section-title .main-title,
+  .join-program-sec .join-us-form h3,
+  .theme-banner.landing .banner-content .banner-title {
+    font-size: 34px;
+    line-height: 50px;
+  }
+
+  .increase-chart-graph {
+    padding-left: 21px;
+    margin-top: 34px;
+  }
+
+  h3 {
+    font-size: 28px;
+  }
+  h4 {
+    font-size: 20px;
+  }
+
+  .free-demo-box h3,
+  .free-demo-box h2 {
+    line-height: 45px;
+  }
+  .testimonial-slider .slick-list {
+    margin: 0 10px;
+  }
+
+  .counter-box h3 {
+    font-size: 35px;
+    margin-bottom: 8px;
+  }
+
+  .testimonial-block .quote-icon img {
+    width: 40px;
+  }
+
+  .testimonial-block p {
+    line-height: 28px;
+  }
+
+  .testimonial-slider .testimonial-block.slick-slide {
+    margin: 0 20px 94px;
+  }
+
+  .testimonial-slider .slick-list.draggable {
+    height: 435px;
+  }
+
+  .media-wrapper .media-box p {
+    min-height: auto;
+  }
+
+  #login-screen .login-main-content {
+    flex-direction: column;
+  }
+
+  #login-screen.modal-dialog .login-right-content {
+    padding: 80px 30px;
+  }
+
+  #login-screen .heading-container p {
+    text-align: center;
+    line-height: 26px;
+  }
+
+  #login-screen .form-group.otp-wrapper {
+    justify-content: flex-start;
+  }
+
+  #login-screen .form-group label {
+    margin-bottom: 20px;
+  }
+
+  #login-screen .checkbox {
+    margin-bottom: 0;
+  }
+
+  #status_review_section_show {
+    display: none;
+  }
+
+  #status_review_section_hide {
+    display: block;
+    padding-top: 16px;
+  }
+
+  .eligiblity-filds-block-2.select-status {
+    padding: 59px 74px;
+    width: 100%;
+    margin: auto;
+    margin-top: 55px;
+  }
+
+  .eligiblity-block {
+    text-align: center;
+  }
+
+  .eligiblity-filds-block-1 .eligiblity-block h1 {
+    padding-bottom: 9px;
+  }
+
+  .timeline-pop {
+    display: none;
+  }
+
+  .row.eligiblity-form-filds p {
+    font-weight: 500;
+    font-size: 20px;
+    max-width: 100%;
+  }
+
+  .select-status {
+    margin-top: 32px;
+  }
+
+  .select-status .nav-tabs .nav-item .nav-link {
+    font-size: 15px;
+    padding: 4px 35px;
+  }
+
+  .sign-in-modal .ready-list ul li {
+    font-size: 16px;
+    line-height: 33px;
+    margin: 0px 0;
+  }
+
+  .sign-in-modal#ReadyModal .modal-dialog {
+    width: 80vw;
+  }
+
+  .canvas-div #doughnut-percentage h3 {
+    font-size: 33.3003px;
+  }
+
+  .canvas-div #doughnut-percentage p {
+    font-size: 12px;
+    margin-top: -6px;
+  }
+  .eligiblity-result-modal .score-miter h6,
+  .eligiblity-result-modal .doughnut-chart h6 {
+    font-weight: 700;
+    font-size: 33px;
+  }
+
+  #FixedTimerOuterDiv {
+    display: none;
+  }
+
+  .landing-banner .landing-banner-sec .banner-left-block h1 {
+    font-size: 32.8206px;
+    margin-bottom: 13px;
+  }
+
+  .landing-banner .landing-banner-sec .banner-left-block p {
+    font-size: 15.0657px;
+    line-height: 112.5%;
+    padding: 0px 0 11px;
+  }
+
+  .theme_btn {
+    padding: 7px 24px;
+  }
+
+  .landing-banner {
+    padding: 84px 0 0;
+  }
+
+  .landing-skills {
+    margin-top: 0;
+    padding: 50px 0;
+  }
+
+  .landing-skill-h3 {
+    display: none;
+  }
+
+  .landing-skills-ways-list {
+    display: block;
+  }
+
+  .fixed-top-dsktop {
+    display: none;
+  }
+
+  .landing-skills-mobile {
+    display: block;
+  }
+
+  .landing-banner .landing-banner-sec .banner-img {
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+
+  .landing-skills.landing-skills-mobile .skill-img-sec img {
+    width: 42%;
+  }
+
+  .landing-skills .skill-img-sec.skill-img-sec-1:after {
+    display: none;
+  }
+
+  .landing-skills-mobile .rotate-img {
+    left: 46%;
+  }
+
+  .landing-section-heading h2 {
+    font-size: 45px;
+  }
+
+  .client-section .client-card-block {
+    margin-left: 2px;
+  }
+
+  .client-section {
+    padding: 40px 0 0;
+  }
+
+  .client-section .client-card-block .client-card-slide-block {
+    padding: 16px 15px 0 15px;
+  }
+
+  .client-section .client-card-block .client-img {
+    margin-top: -91px;
+    margin-left: -23px;
+  }
+
+  .career-ready-sec .career-ready-block h5 {
+    font-size: 54px;
+  }
+
+  .career-ready-sec .career-ready-block p {
+    font-size: 21px;
+    line-height: 115.5%;
+    max-width: 93%;
+  }
+
+  .job-guarantee-section .guarantee-block h2 {
+    font-size: 53px;
+  }
+
+  .landing-skills.landing-skills-mobile .skill-img-sec img.network {
+    width: 27%;
+  }
+
+  .client-section .client-card-block .card-right-content .company-logo p {
+    font-size: 14px;
+    line-height: 22px;
+    display: block;
+  }
+
+  .client-section .client-card-block .card-right-content .company-logo img {
+    margin-left: -12px;
+    margin-top: 8px;
+  }
+
+  .sign-in-modal.ReadyModal .ready-list h2 {
+    font-size: 38px;
+  }
+
+  .sign-in-modal .ready-list ul li {
+    font-size: 13px;
+    line-height: 25px;
+  }
+
+  .sign-in-modal .modal-dialog {
+    max-width: 86vw;
+  }
+
+  .show_more_btn {
+    border-radius: 0px 62px 66px 122px;
+    bottom: 9px;
+  }
+  .having-doughts-sec .call-session .icon {
+    left: 13px;
+  }
+
+  .basket-banner .basket-row {
+    padding-top: 84px;
+  }
+
+  .skill-programs-section .program-cards .top-block h4 {
+    font-size: 16.1605px;
+  }
+
+  .skill-programs-section .program-cards .top-block p {
+    font-size: 11px;
+  }
+
+  .skill-programs-section .program-cards .top-block p span {
+    font-weight: 300;
+    font-size: 8px;
+  }
+
+  .skill-programs-section .program-cards .bottom-block ul li {
+    font-size: 14px;
+  }
+
+  .skill-programs-section .program-cards .bottom-block ul li i {
+    font-size: 8px;
+  }
+
+  .skill-programs-section .program-cards .bottom-block form .form-check-label {
+    font-size: 12px;
+  }
+
+  .skill-programs-section .program-cards .bottom-block ul {
+    margin-bottom: 15px;
+  }
+
+  .skill-programs-section .programs-heading h2 {
+    font-size: 28px;
+  }
+
+  .d-flex.button_card_flexx {
+    display: block !important;
+  }
+
+  .programs-btn.transparent {
+    padding: 5px 15px;
+    margin-bottom: 10px;
+    width: 100%;
+  }
+
+  .recommended-plan.enrollment-wrapper .plan-green-block {
+    padding: 19px 13px;
+  }
+
+  .recommended-plan.enrollment-wrapper .plan-green-block .price {
+    font-size: 31px;
+  }
+
+  .recommended-plan.enrollment-wrapper .plan-green-block p span {
+    font-size: 15px;
+  }
+
+  .recommended-plan.enrollment-wrapper .plan-transprant-block {
+    padding: 15px 13px 37px;
+  }
+
+  .eligiblity-form-filds .select-plan ul li {
+    font-size: 15px;
+  }
+
+  .eligiblity-form-filds .select-plan .buttons .theme_btn.tertiary {
+    font-size: 18.5268px;
+    padding: 3px 10px;
+  }
+
+  .recommended-heading {
+    font-size: 16px;
+  }
+
+  .payment_model_main_wrapper .row.eligiblity-form-filds .eligiblity-block-2 {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+  }
+
+  .payment_model_main_wrapper .plan-logo-block {
+    display: flex;
+    justify-content: center;
+    padding-right: 0;
+    margin-top: 46px;
+    align-items: center;
+  }
+
+  .select-program-tab-sec.select-program-tab-sec-2 .tab-select {
+    padding: 32px;
+    border-radius: 40px;
+  }
+
+  .select-program-tab-sec.select-program-tab-sec-2 .tab-select .tab-content {
+    margin: 0;
+    padding-top: 20px;
+    padding-left: 0px;
+    padding-right: 0;
+  }
+  .scholarship_row .irpUny {
+    max-width: 52vw !important;
+  }
+
+  .scholarship_row {
+    padding-bottom: 60px;
+  }
+
+  .student-dashboard .tab-content .dashboard-content h2 {
+    font-size: 42.834px;
+  }
+
+  .scholarship-test {
+    margin-top: 4px;
+  }
+
+  .calculator-sec .range-container .fresher-test {
+    max-width: 100%;
+  }
+
+  .calculator-sec .range-container .theme_btn {
+    width: fit-content;
+  }
+  .all-range-inputs {
+    margin-top: 0px;
+  }
+
+  .MuiSlider-marked {
+    margin-bottom: 0px;
+  }
+
+  .MuiBox-root {
+    margin-top: 9px;
+  }
+
+  .MuiSlider-root {
+    height: 9px !important;
+  }
+
+  .basket-row.range-basket-row {
+    padding-top: 3px;
+  }
+
+  .student-dashboard.select-plan.range-slider-plan .timeline-pop {
+    display: block !important;
+  }
+
+  .timeline-pop span {
+    width: 30px;
+    height: 30px;
+  }
+
+  .timeline-pop li p,
+  .timeline-pop li.active p {
+    font-size: 12px;
+    line-height: 14px;
+    margin-top: 9px;
+  }
+  .eligiblity-form-filds .select-plan.select-plan-2 {
+    margin-top: 44px;
+  }
+
+  .client-section .client-card-block .card-right-content h4 {
+    font-size: 46.8718px;
+  }
+
+  .client-section
+    .client-card-block
+    .card-right-content
+    .card-flex
+    .right-wrapper
+    h3 {
+    font-size: 39px;
+  }
+
+  .landing-select-type-sec .select_type_timeline .timeline-pop {
+    display: block !important;
+  }
+
+  .landing-select-type-sec .small {
+    width: fit-content;
+    padding: 9px 27px;
+    height: auto;
+  }
+  .landing-select-type-sec .left_img img {
+    width: 86%;
+  }
+
+  .landing-select-type-sec .large .flip_sec_card .right_wrapper ul li {
+    font-size: 9px;
+  }
+
+  .landing-select-type-sec .large {
+    width: 333px;
+    height: 94%;
+    right: 39%;
+  }
+
+  .landing-select-type-sec .small {
+    height: 94%;
+    top: -3px;
+  }
+
+  .landing-select-type-sec .center_or {
+    padding-left: 173px;
+  }
+
+  .well_place_program .program-left-wrapper .section-heading.greens-heading {
+    font-size: 17px;
+  }
+
+  .row.eligiblity-form-filds p {
+    font-size: 13px;
+  }
+
+  .scholarship-modal.disclaimer-modal .modal-body .alert-warning {
+    display: flex;
+    align-items: flex-start;
+  }
+
+  .scholarship-modal.disclaimer-modal .modal-body .alert-warning img {
+    width: 11%;
+  }
+
+  .scholarship-modal .scholarship-table .special-inclusions-table tr td {
+    color: #0e5f59;
+    padding: 4px 7px;
+    border: 1px solid #0e5f59;
+    font-size: 13px;
+  }
+
+  .scholarship-modal .scholarship-table p {
+    font-size: 16px !important;
+    padding: 5px 0;
+  }
+
+  .scholarship-modal.disclaimer-modal .modal-body ul li {
+    font-size: 13px;
+    margin: -1px 0;
+  }
+
+  .scholarship-modal.disclaimer-modal .modal-body .header img {
+    width: 10%;
+  }
+
+  .sign-in-modal .ready-list h2 {
+    font-size: 33px;
+  }
+
+  .select-program-tab-sec .padding_fixed_mobile {
+    padding: 0 4px;
+  }
+
+  .select-program-tab-sec
+    .tab-select
+    .tab-content
+    .tab-pane
+    .row.papp_new_wrapper
+    .inner-wrapper
+    p
+    strong {
+    font-size: 19px;
+  }
+
+  .select-program-tab-sec
+    .tab-select
+    .tab-content
+    .tab-pane
+    ul.curriculum_list
+    li {
+    font-size: 33px;
+  }
+
+  .theme-header.theme_header_mobile
+    .navbar-right
+    .student-dashboard
+    .tab-content
+    .dashboard-content
+    h2.h2 {
+    font-size: 27px !important;
+  }
+
+  .both-route-chart
+    .eligiblity-form-filds
+    .select-plan.direct-placement-card
+    .plan-green-block
+    p
+    span {
+    font-size: 18px;
+  }
+
+  .learning-mathod .learning-method-wrapper h2 {
+    font-size: 26px;
+    margin: 20px 0 38px;
+  }
+
+  .learning-mathod .learning-method-wrapper .shadow_box {
+    max-width: 98%;
+  }
+
+  .calculator-sec .range-container {
+    margin-bottom: 35px;
+    border-bottom: 2px solid rgba(0, 0, 0, 0.4);
+    padding-bottom: 14px;
+  }
+
+  .css-1aznpnh-MuiSlider-root {
+    margin-bottom: 0 !important;
+  }
+
+  .calculator-sec .range-inner-wrapper .all-range-inputs h4 {
+    font-size: 19px;
+    margin-top: 8px;
+    margin-bottom: -11px;
+  }
+
+  .calculator-sec .range-inner-wrapper h4 {
+    font-size: 23px;
+    margin-bottom: 30px;
+  }
+
+  .calculator-sec .all-range-inputs .form-row.range-input-group label {
+    width: auto;
+  }
+
+  .student-dashboard.select-plan.form-select-verification
+    .tab-content
+    .verification-form
+    .upload-buttons {
+    width: 74%;
+  }
+
+  .student-dashboard.select-plan.form-select-verification .tab-content {
+    width: 100%;
+    margin-left: 0px;
+  }
+
+  .hovered_card {
+    padding: 0 7px !important;
+  }
+
+  .recommended-plan.enrollment-wrapper.direct-placement-card-2.direct-placement-width {
+    max-width: 100%;
+    margin-top: 66px !important;
+  }
+
+  .Add_video_sec .book-slot-sec {
+    max-width: 89%;
+    margin: auto;
+  }
+
+  section.Add_video_sec {
+    padding-top: 16px;
+  }
+
+  .package_select_section {
+    margin: 31px 0 9px;
+  }
+
+  .css-14pt78w-MuiSlider-rail {
+    height: 4px !important;
+    top: 45% !important;
+  }
+  .test-submit-modal.congratulations-popup.sign_popup .ready-list p {
+    font-size: 21px;
+  }
+
+  .modal.sign-in-modal.test-submit-modal.sign_popup .modal-dialog {
+    max-width: 745px;
+    margin: 1.75rem auto;
+    margin-left: 20px;
+  }
+
+  .theme-footer .footer-widget .widget-title {
+    margin-bottom: 28px;
+    font-weight: 600;
+    font-size: 25px;
+  }
+
+  .footer-widget .widget-list li a {
+    font-size: 18px;
+  }
+
+  .eligiblity-result-modal .score-miter {
+    width: 100%;
+  }
+
+  .irpUny {
+    max-width: 44vw !important;
+    height: 23vh !important;
+  }
+
+  .scholarship_row .kKESMY {
+    max-width: 44vw !important;
+    height: 23vh !important;
+    margin: auto;
+    margin-top: -40px;
+    margin-bottom: 46px;
+  }
+
+  .student-dashboard .tab-content .dashboard-content h2.h2 {
+    font-size: 29.834px;
+  }
+
+  .basket-row.dashboard_speedo_dought {
+    padding-top: 0;
+  }
+
+  .basket-row.dashboard_speedo_dought h2 {
+    margin-top: 0 !important;
+  }
+
+  .both-route-chart .border_radius_chart .increase-chart-graph {
+    padding: 70px 78px 60px;
+  }
+
+  .eligiblity-option-body .number-list .nav-pills .nav-link {
+    background: #c6c6c6;
+  }
+
+  .landing-banner .landing-banner-sec .banner-img img {
+    height: auto;
+    object-fit: cover;
+    width: 55%;
+  }
+
+  .mobile_banner_img {
+    padding: 0 !important;
+  }
+
+  .eligiblity-option-body .number-list .pills-tab-border {
+    display: flex;
+    /* justify-content: space-around; */
+    width: 96%;
+    overflow-x: scroll;
+  }
+
+  .eligiblity-option-body .number-list .pills-tab-border::-webkit-scrollbar {
+    display: none;
+  }
+
+  .eligiblity-option-body .number-list .nav-pills {
+    display: flex;
+    justify-content: flex-start;
+    padding: 6px 0px;
+    flex-wrap: nowrap;
+    overflow-x: initial;
+  }
+
+  .client-section .client-card-block .card-right-content h4 {
+    font-size: 28.8718px;
+    line-height: 24px;
+  }
+
+  .client-section .client-card-block .card-right-content .card-flex p strong {
+    font-size: 11px;
+  }
+
+  .client-section .client-card-block .card-right-content .line-para {
+    font-size: 11px;
+    line-height: 16px;
+    padding: 11px 0 3px;
+  }
+
+  .client-section
+    .client-card-block
+    .card-right-content
+    .card-flex
+    .right-wrapper
+    h3 {
+    font-size: 35px;
+    line-height: 31px;
+  }
+
+  .client-section
+    .client-card-block
+    .card-right-content
+    .card-flex
+    .right-wrapper {
+    width: 114px;
+    height: 114px;
+  }
+
+  .client-section
+    .client-card-block
+    .card-right-content
+    .card-flex
+    .right-wrapper
+    p {
+    font-size: 16.2453px;
+  }
+
+  .landing-select-type-sec .timeline-pop {
+    width: 91%;
+  }
+
+  .eligiblity-option-header .custom-container .right-para {
+    font-size: 13px;
+    line-height: 21px;
+  }
+
+  .eligiblity-form-filds.skill_based_wrapper .left_card {
+    max-width: 88% !important;
+    margin: auto;
+  }
+
+  .select-program-tab-sec.roadmap-success-section
+    .tab-select
+    .tab-content
+    .tab-pane
+    .certificate
+    img {
+    width: 72%;
+  }
+
+  .roadmap-success-section .career-wrapper-sec .inner-wrapper {
+    margin-bottom: 15px;
+    max-width: 100%;
+  }
+
+  .landing-banner.basket-banner.certificate-section-hover {
+    padding-bottom: 40px;
+    padding-top: 149px;
+  }
+
+  .basket-banner
+    .basket-row
+    .summary-table
+    .table-responsive-xl.special-inclusions-table {
+    padding: 25px;
+  }
+
+  .modal.sign-in-modal.test-submit-modal .modal-dialog {
+    max-width: 750px;
+    margin: 1.75rem 20px;
+  }
+
+  .test-submit-modal.congratulations-popup .modal-body h2 {
+    font-size: 23px;
+  }
+
+  .test-submit-modal.congratulations-popup .modal-body h2 img {
+    width: 16%;
+  }
+
+  .mobile_hundred {
+    width: 100%;
+  }
+
+  .roadmap-success-section .accordion.style-2 .card-header span {
+    margin: 0 6px 0 11px;
+    font-size: 8px;
+    line-height: 11px;
+}
+
+.select-program-tab-sec.roadmap-success-section .tab-select .tab-content {
+  margin-bottom: 13px;
+}
+
+.select-program-tab-sec .tab-select .tab-content .tab-pane .video-box {
+  max-width: 84%;
+  height: auto;
+}
+
+.both-route-chart .row.eligiblity-form-filds {
+  width: 100%;
+}
+}
+
+@media (max-width: 575px) {
+  body {
+    font-size: 16px;
+  }
+
+  .eligiblity-option-header .custom-container .left-para {
+    font-size: 21px;
+    line-height: 27px;
+  }
+
+  .eligiblity-option-header .custom-container .right-para {
+    font-size: 15px;
+    line-height: 21px;
+  }
+  h1,
+  .theme-banner .banner-content .banner-title {
+    font-size: 28px;
+  }
+  .theme-banner .banner-content h1,
+  .theme-banner .banner-content .banner-title {
+    line-height: 46px;
+  }
+
+  .theme-banner.home-version {
+    padding: 170px 0 200px;
+  }
+
+  h2,
+  .about-banner-sec .section-title h1,
+  .section-title .main-title,
+  .join-program-sec .join-us-form h3,
+  .theme-banner.landing .banner-content .banner-title {
+    font-size: 24px;
+    line-height: 38px;
+  }
+
+  .theme-banner .banner-content p {
+    font-size: 16px;
+    line-height: 21px;
+  }
+
+  h3 {
+    font-size: 22px;
+  }
+  .section-title p {
+    line-height: 28px;
+  }
+
+  .theme-banner .banner-content p {
+    margin-bottom: 20px;
+  }
+
+  .theme-banner .banner-content .banner-title {
+    margin-bottom: 18px;
+    line-height: 40px;
+  }
+
+  .free-demo-box .theme_btn {
+    padding: 10px 24px;
+  }
+  .feature-block {
+    height: auto;
+  }
+
+  .feature-block .icon {
+    margin-bottom: 28px;
+  }
+
+  .learning-sec .tab-content .texture {
+    opacity: 0.4;
+  }
+
+  .category-sec.learning-sec.home-prog-slider .nav.nav-tabs {
+    justify-content: flex-start;
+  }
+
+  .partner-sec .marquee-box img {
+    width: 170px;
+  }
+
+  .learning-sec .tab-content .subject-descr p {
+    line-height: 34px;
+    text-align: center;
+  }
+
+  .service-block {
+    margin: 30px auto 30px;
+    width: calc(100% - 70px);
+    min-height: auto;
+  }
+
+  .category-slider {
+    margin-right: 0;
+  }
+
+  .category-block .category-body h5 {
+    height: auto;
+  }
+
+  .journey-sec .journey-block .title {
+    min-height: auto;
+  }
+
+  .learning-sec .learning-image img {
+    width: 180px;
+  }
+
+  .learning-sec .learning-image img.small-width {
+    width: 220px;
+  }
+
+  .learning-sec .tab-content {
+    padding: 40px 0 40px;
+  }
+
+  .learning-sec .subject-descr {
+    text-align: center;
+    margin-bottom: 40px;
+  }
+
+  .process-block.left-border {
+    border-left: 0;
+  }
+  .process-block {
+    border-right: 0;
+    padding: 32px 32px 40px 26px;
+  }
+  .process-block .absolute-icon {
+    right: auto;
+    top: auto;
+    left: 50%;
+    transform: translate(-50%, 0);
+    bottom: -32px;
+  }
+  .process-block .absolute-icon i {
+    transform: rotate(90deg);
+  }
+  .process-block .title .number {
+    font-size: 54px;
+    line-height: 40px;
+  }
+  .process-block.extra-padding {
+    padding-left: 25px;
+  }
+
+  .theme-footer .descr-box p a {
+    display: inline;
+  }
+
+  .process-sec .row .col-xl:last-child .process-block {
+    border-bottom: 0;
+    padding-bottom: 0;
+    margin-bottom: 0;
+  }
+  .program-sec.cta h3 {
+    line-height: 35px;
+  }
+  .partner-sec .section-title.centered {
+    margin-bottom: 50px;
+  }
+  .free-demo {
+    margin-top: 68px;
+  }
+  .free-demo-box {
+    padding: 16px;
+  }
+
+  .support-sec h3 {
+    font-size: 30px;
+    font-weight: 600;
+  }
+
+  .support-sec .support-list li + li {
+    padding-top: 20px;
+    margin-top: 20px;
+  }
+
+  .free-demo-box .theme_btn {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 15px;
+    padding: 5px 10px;
+  }
+
+  .free-demo-box h3,
+  .free-demo-box h2 {
+    line-height: 38px;
+    font-size: 16px;
+  }
+
+  .alumni-sec .rating-block span {
+    font-size: 28px;
+    border-bottom: 0;
+  }
+  .alumni-sec .rating-block p {
+    margin-top: -10px;
+    margin-left: 12px;
+  }
+  .alumni-sec .rating-block {
+    display: flex;
+    justify-content: center;
+  }
+  .alumni-sec .rating-block p {
+    justify-content: center;
+    line-height: 21px;
+  }
+  .alumni-sec .rating-block + .rating-block {
+    margin-left: 0;
+  }
+  .counter-box h3 {
+    margin-bottom: 0;
+    font-size: 22px;
+  }
+  .counter-box p {
+    line-height: 26px;
+    font-size: 14px;
+  }
+
+  .support-sec .support-list li,
+  .support-sec .support-list li a,
+  .support-sec .support-list li.customer-care {
+    font-size: 20px;
+  }
+
+  .mobile-app-sec .mobile-app {
+    margin-bottom: 0;
+  }
+
+  .theme-header .navbar-right .theme_btn {
+    display: none;
+  }
+
+  .process-block {
+    min-height: auto;
+  }
+
+  .testimonial-sec .testimonial-block {
+    min-height: 326px;
+  }
+
+  .testimonial-block .user-block p {
+    line-height: 28px;
+  }
+
+  .faq-sec .card-header .plus {
+    position: relative;
+    top: 13px;
+  }
+
+  #login-screen.modal-dialog .logo-container img {
+    width: 120px;
+  }
+
+  #login-screen.modal-dialog .login-right-content {
+    padding: 40px 20px;
+  }
+
+  .verification-email {
+    flex-direction: column;
+  }
+
+  #forgetmodalpop .verification-email .form-group {
+    margin-bottom: 10px;
+  }
+
+  #forgetmodalpop .verification-email .form-group,
+  #forgetmodalpop .verification-email .form-control {
+    width: 100%;
+  }
+
+  .development-course .circle-img .list-menu {
+    display: block;
+    width: 82%;
+  }
+
+  .development-course .circle-img ul li {
+    margin: 12px 0;
+  }
+
+  .marquee-box {
+    width: 100%;
+  }
+
+  .marquee-box img {
+    margin: 0 15px;
+    width: 100%;
+  }
+
+  .development-course .circle-img .circle-img-2 {
+    display: block;
+    width: 100%;
+    margin-bottom: 30px;
+  }
+
+  .development-course .circle-img .circle-img {
+    display: none;
+  }
+
+  .development-course .circle-img {
+    flex-direction: column;
+  }
+
+  .margin_bottom_zero {
+    margin-bottom: 0 !important;
+  }
+
+  .sign-in-modal#ReadyModal .modal-dialog {
+    width: 92vw;
+    margin: auto;
+    margin-top: 34px;
+  }
+
+  .sign-in-modal .modal-dialog .modal-content {
+    padding: 20px 20px 20px;
+  }
+
+  .sign-in-modal#ReadyModal .modal-header .close {
+    top: -12px;
+    right: 3px;
+  }
+  .sign-in-modal .ready-list h2 {
+    font-size: 25px;
+    margin: 0;
+  }
+
+  .eligiblity-option-body .question-block .question {
+    font-size: 18px;
+    margin-bottom: 35px;
+  }
+  .custom-control-label {
+    font-size: 17px;
+  }
+
+  .direct-placement-route {
+    background-color: transparent;
+    margin-top: 73px;
+  }
+
+  .hide_show_navbar {
+    display: block;
+  }
+
+  .show_more_btn {
+    border-bottom: 1px solid gray;
+  }
+
+  .direct-placement-route .modal-content {
+    border-radius: 36px;
+    /* overflow: hidden; */
+    border: 0;
+  }
+
+  .eligiblity-result-modal .score-miter {
+    padding: 30px 0;
+    display: flex;
+    justify-content: flex-start;
+    align-items: flex-start;
+    text-align: left;
+    flex-direction: column;
+  }
+
+  .eligiblity-result-modal .score-miter p {
+    margin-bottom: 30px;
+    max-width: 92%;
+    line-height: 22px;
+  }
+
+  .eligiblity-result-modal .score-miter .right-block {
+    width: 100%;
+    margin: 10px 0 0;
+  }
+
+  .eligiblity-result-modal .score-miter h6 {
+    text-align: left;
+    line-height: 36px;
+    font-size: 30px;
+    margin-bottom: 8px;
+  }
+
+  .sign-in-modal.ReadyModal .modal-dialog .modal-header {
+    height: 0;
+    padding: 0;
+  }
+
+  .fresher-form input {
+    margin-top: -4px;
+  }
+
+  .sign-in-modal.ReadyModal .modal-header .close {
+    top: -21px;
+  }
+
+  .navbar {
+    justify-content: space-between !important;
+    padding: 0rem 0rem !important;
+  }
+
+  .theme-header .navbar-toggler span:nth-child(2),
+  .theme-header .navbar-toggler span:first-child,
+  .theme-header .navbar-toggler span:last-child {
+    width: 29px;
+    margin-top: 3px;
+    height: 3px;
+  }
+
+  .landing-banner .landing-banner-sec .banner-left-block {
+    padding-top: 25px;
+  }
+
+  .landing-banner .landing-banner-sec .banner-left-block h1 {
+    font-size: 37.8206px;
+    max-width: 100%;
+  }
+
+  .landing-banner .landing-banner-sec .banner-left-block p {
+    font-size: 22.0657px;
+    max-width: 80%;
+    margin-top: 44px;
+  }
+
+  .client-section .client-card-block .card-right-content .card-flex {
+    display: block;
+  }
+
+  .client-section .client-card-block .card-right-content h4 {
+    font-size: 36.8718px;
+    line-height: 42px;
+  }
+
+  .client-section .client-card-block .card-right-content .card-flex p {
+    padding-bottom: 10px;
+  }
+
+  .client-section .client-card-block .card-right-content .line-para {
+    font-size: 20px;
+  }
+
+  .full_show {
+    display: none !important;
+  }
+
+  .five_show {
+    display: block !important;
+  }
+
+  .career-ready-sec .career-right-block ul {
+    width: 90%;
+    margin: auto;
+  }
+
+  .career-ready-sec .career-right-block {
+    margin-top: 11px;
+    margin-bottom: 22px;
+    justify-content: center;
+  }
+
+  .client-section .client-card-block .card-right-content .card-flex a {
+    font-size: 15px;
+    margin-top: 0;
+  }
+
+  .client-section
+    .client-card-block
+    .card-right-content
+    .card-flex
+    .right-wrapper
+    p {
+    margin: 0;
+    padding: 0;
+    font-size: 13px;
+  }
+
+  .client-section
+    .client-card-block
+    .card-right-content
+    .card-flex
+    .right-wrapper {
+    width: 110px;
+    height: 110px;
+  }
+
+  .client-section .client-card-block .client-img img {
+    width: 63%;
+    margin-top: 28px;
+    height: auto;
+  }
+
+  .landing-select-type-sec .select-type-heading {
+    font-size: 43.8206px;
+  }
+
+  .career-ready-block {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    padding: 0 20px;
+  }
+
+  .career-ready-sec .career-ready-block p {
+    margin: 10px 0 25px;
+  }
+
+  .career-ready-sec.rendom_speedo {
+    padding: 69px 0 40px;
+  }
+  .career-ready-sec .career-ready-block h5 {
+    font-size: 46px;
+  }
+  .landing-select-type-sec .large {
+    width: 230px;
+    height: auto;
+    right: 49%;
+    border-radius: 12px;
+  }
+  .section {
+    padding: 50px 0;
+  }
+
+  .landing-select-type-sec .left_img img {
+    width: 66%;
+  }
+
+  .landing-select-type-sec .small {
+    height: auto;
+    top: -3px;
+    border-radius: 17px;
+  }
+
+  .landing-select-type-sec .card-container {
+    height: 117px;
+  }
+
+  .landing-select-type-sec .center_or {
+    padding-left: 120px;
+    font-size: 19px;
+  }
+
+  .landing-select-type-sec .cardss p {
+    font-size: 14px;
+  }
+
+  .landing-select-type-sec .large {
+    width: 239px;
+  }
+
+  .landing-select-type-sec .timeline-pop li .timeline_content p {
+    font-size: 17px;
+  }
+
+  .landing-select-type-sec .timeline-pop li .timeline_content p strong {
+    font-size: 10px;
+  }
+
+  .job-guarantee-section .guarantee-block-1 ul li:last-child {
+    display: none;
+  }
+
+  .landing-select-type-sec .timeline-pop li {
+    align-items: flex-end;
+  }
+
+  .landing-select-type-sec .timeline-pop span {
+    width: 29px;
+    height: 29px;
+    font-size: 15.152px;
+  }
+  .landing-select-type-sec .timeline-pop li .timeline_content {
+    padding-left: 11px;
+  }
+
+  .landing-select-type-sec .timeline-pop ol li:before {
+    left: 12px;
+    top: 23px;
+    width: 6px;
+    height: 438%;
+}
+
+  .landing-select-type-sec .large .flip_sec_card .right_wrapper p {
+    font-size: 12.1185px;
+    line-height: 12px;
+    margin: 0;
+  }
+  .landing-select-type-sec .large .flip_sec_card .right_wrapper ul li {
+    font-size: 7px;
+    padding: 0px 9px;
+    margin: 2px 1px;
+    line-height: 12px;
+  }
+
+  .landing-select-type-sec .large .flip_sec_card .right_wrapper p.content {
+    font-size: 10px;
+    line-height: 10px;
+    margin-top: 5px;
+  }
+
+  .job-guarantee-section .guarantee-block-1 p span {
+    font-family: "Lexend";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 105.5%;
+    letter-spacing: -0.06em;
+
+    color: #fecd08;
+  }
+
+  .job-guarantee-section .guarantee-block-1 ul li {
+    margin: 5px 21px;
+    padding: 10px 49px;
+  }
+
+  .job-guarantee-section .guarantee-block-1 p {
+    padding-bottom: 11px;
+  }
+
+  .development-course .circle-img img {
+    width: 96%;
+  }
+
+  .development-course .circle-img .list {
+    margin-top: 46px;
+  }
+
+  .development-course .circle-img ul {
+    list-style: disc;
+    display: block;
+    flex-wrap: wrap;
+    align-items: center;
+    max-width: 100%;
+  }
+
+  .review-sec {
+    padding: 0px 0;
+  }
+
+  .development-course {
+    padding: 30px 0 30px;
+  }
+  .navbar .theme-logo img {
+    width: 147px;
+    margin-left: -4px;
+  }
+
+  .theme-header .header-bottom {
+    margin-top: 0;
+    padding: 7px 2px;
+  }
+  .sign-in-modal .modal-dialog {
+    max-width: 100vw;
+  }
+
+  .sign-in-modal .modal-dialog .modal-content,
+  .sign-in-modal .sign-up-form {
+    box-shadow: none;
+    background: transparent;
+  }
+
+  .sign-in-modal .sign-up-form .otp-instructions {
+    font-size: 17px;
+    margin-bottom: 18px;
+  }
+
+  .sign-in-modal .sign-up-form .submit-box.submit-box-1 .theme_btn {
+    margin: auto;
+    display: flex;
+    margin-top: 29px;
+    width: 100%;
+    text-align: center;
+    justify-content: center;
+  }
+
+  .sign-in-modal .sign-up-form {
+    padding: 0;
+    max-width: 100%;
+  }
+
+  .sign-in-modal .pop-up-mobile-show {
+    display: flex;
+    position: relative;
+  }
+
+  .sign-in-modal .pop-up-mobile-show-1 {
+    display: flex;
+    position: relative;
+    height: 111px;
+  }
+
+  .sign-in-modal .pop-up-mobile-show-1 .five_show.img-1 {
+    display: block;
+    width: 28%;
+    position: absolute;
+    right: 0;
+    top: 0;
+  }
+
+  .sign-in-modal .five_show.img-1 {
+    display: block;
+    width: 68%;
+  }
+
+  .sign-in-modal .pop-up-mobile-show .img-2 {
+    position: absolute;
+    right: 0;
+    width: 62%;
+  }
+
+  .sign-in-modal .sign-up-form input.form-control.mobile_number_input {
+    width: 75%;
+  }
+
+  .eligiblity-result-modal .border_radius_chart {
+    overflow: inherit;
+    padding: 0;
+    width: 100% !important;
+    margin: 0;
+    margin-left: -8px;
+  }
+
+  .direct-placement-route .eligiblity-result-modal .doughnut-chart {
+    border-radius: 36px 36px 0px 0px;
+    height: 100%;
+    padding-bottom: 40px;
+  }
+
+  .show_more_btn {
+    border-radius: 0px 62px 66px 62px;
+    bottom: 9px;
+    display: none;
+  }
+
+  .increase-chart-graph {
+    padding-left: 0px;
+    margin-top: 0;
+  }
+
+  .row.eligiblity-form-filds.five_show {
+    padding-top: 0px;
+    align-items: center;
+  }
+
+  .increase-chart-graph .increase-chart-graph-slider.mobile-slide {
+    padding-bottom: 44px;
+  }
+
+  .row.eligiblity-form-filds .increase-chart-graph-slider.mobile-slide p {
+    font-weight: 500;
+    font-size: 17px;
+    padding-top: 11px;
+  }
+
+  .col-lg-6.mobile_background_chart {
+    background: rgba(14, 95, 89, 0.1);
+    border-radius: 22px 22px 0px 0px;
+    margin-top: 49px;
+    padding: 46px 19px;
+  }
+
+  .mobile_background_chart .increase-chart-graph h4 {
+    font-size: 28px;
+    line-height: 33px;
+    text-align: center;
+  }
+
+  .job_ready_wrapper .inner-wrapper::after {
+    right: -40px;
+  }
+
+  .increase-chart-graph h4 {
+    font-size: 36px;
+    line-height: 105%;
+  }
+  .having-doughts-sec .call-session .icon {
+    left: -6px;
+  }
+
+  .basket-banner .basket-row .summary-table h2 {
+    font-size: 26px;
+    margin-top: 57px;
+  }
+
+  .having-doughts-sec .call-session .number-cell a {
+    font-size: 15px !important;
+    padding: 9px 44px;
+  }
+
+  .having-doughts-sec .call-session .number-cell a {
+    font-size: 15px !important;
+    padding: 9px 44px;
+    width: 100%;
+  }
+
+  .client-logo.mt-5.five_show {
+    margin-top: 28px !important;
+  }
+
+  .skill-programs-section .program-cards .bottom-block form .form-check {
+    display: flex;
+    align-items: center;
+    margin-bottom: 4px;
+  }
+
+  .skill-programs-section .program-cards .bottom-block form .form-check-label {
+    font-size: 11px;
+  }
+
+  a.call-btn {
+    display: none;
+  }
+
+  .eligiblity-form-sec.eligiblity-course-sec {
+    padding: 120px 0 50px;
+  }
+
+  a.move-btn {
+    display: none;
+  }
+
+  .eligiblity-form-filds.pgp-mnanagement .course_right_images {
+    display: flex;
+    justify-content: center;
+  }
+
+  .eligiblity-form-sec .course_right_images img {
+    margin-bottom: 2px;
+    margin-top: 0;
+  }
+
+  .select-program-tab-sec.roadmap-success-section .tab-select .nav-link.active {
+    background-color: transparent;
+    width: fit-content;
+  }
+
+  .select-program-tab-sec.roadmap-success-section .tab-select .nav-link {
+    padding: 12px 0px;
+  }
+
+  .select-program-tab-sec.roadmap-success-section .tab-select .nav-pills {
+    width: fit-content;
+    padding: 20px 21px;
+  }
+
+  .select-program-tab-sec.roadmap-success-section .tab-select .tab-content {
+    max-width: 84%;
+    margin-top: 10px;
+    padding-left: 25px;
+    height: 600px;
+    overflow-x: scroll;
+  }
+
+  .select-program-tab-sec.roadmap-success-section
+    .tab-select
+    .tab-content
+    .tab-pane
+    ul
+    li
+    img {
+    width: 76% !important;
+  }
+
+  .select-program-tab-sec
+    .tab-select
+    .tab-content
+    .tab-pane
+    ul.curriculum_list
+    li:first-child {
+    margin-right: -3px;
+  }
+
+  .select-program-tab-sec
+    .tab-select
+    .tab-content
+    .tab-pane
+    ul.curriculum_list
+    li {
+    font-size: 25px;
+  }
+
+  .roadmap-success-section .accordion.style-2 .card-body {
+    padding: 6px 6px;
+  }
+
+  .roadmap-success-section .accordion.style-2 .card-body .financial-aid-list {
+    position: relative;
+    margin-top: 25px;
+  }
+
+  .eligiblity-option-body .number-list .pills-tab-border {
+    padding: 6px 8px;
+  }
+
+  .eligiblity-option-body .question-block .tab-content .tab-pane {
+    box-shadow: none;
+    padding: 0px 10px;
+  }
+
+  .eligiblity-option-body {
+    padding: 11px 0 41px;
+  }
+
+  .eligiblity-option-body .submit {
+    width: fit-content;
+    margin: auto;
+    margin-top: 25px;
+  }
+
+  .eligiblity-option-body .number-list p {
+    font-size: 13px;
+    line-height: 16px;
+}
+
+  .eligiblity-option-body .theme_btn.gray {
+    padding: 7px 51px;
+  }
+
+  .eligiblity-option-body .number-list {
+    margin-top: 43px;
+  }
+
+  .eligiblity-option-body .number-list .nav-pills .nav-link {
+    font-size: 14.5539px;
+    padding: 0px 11px;
+    width: 48px;
+}
+
+  .select-program-tab-sec.roadmap-success-section
+    .tab-select
+    .tab-content
+    .tab-pane
+    p {
+    font-size: 16px;
+    /* margin-bottom: 2px; */
+  }
+
+  .roadmap-success-section .tab-select .tab-content .tab-pane .career-wrapper-sec .inner-wrapper ul li {
+    font-size: 12px;
+    margin: 3px 0;
+}
+
+  .bussiness-timeline .financial-aid-list li {
+    padding-left: 30px;
+  }
+
+  .bussiness-timeline h4 {
+    font-size: 20px;
+  }
+
+  .roadmap-success-section .accordion.style-2 .card-body img {
+    display: none;
+  }
+
+  .roadmap-success-section .career-wrapper-sec .inner-wrapper {
+    padding: 1px 12px;
+    max-width: 100%;
+    margin: auto;
+    margin-bottom: 13px;
+    height: 212px;
+}
+
+  .roadmap-success-section
+    .review-wrapper-sec
+    .inner-wrapper
+    .profile-block
+    h6 {
+    font-size: 21px;
+  }
+
+  .select-program-tab-sec.roadmap-success-section
+    .tab-select
+    .tab-content
+    .tab-pane
+    p {
+    font-size: 14px;
+  }
+
+  .roadmap-success-section .review-wrapper-sec .inner-wrapper {
+    padding: 26px;
+  }
+
+  .eligiblity-form-filds .select-plan.select-plan-2 {
+    margin-top: 62px;
+  }
+
+  .eligiblity-form-filds .select-plan .buttons .view-plan {
+    font-size: 12px;
+  }
+
+  .eligiblity-form-sec.payment_model_main_wrapper {
+    padding: 56px 0 60px;
+  }
+
+  .margin_img_div {
+    margin: 0px 0 28px;
+  }
+
+  .select-program-tab-sec.select-program-tab-sec-2 h4 {
+    margin-bottom: 46px;
+    font-size: 36px;
+  }
+
+  .select-program-tab-sec.roadmap-success-section.model_papp_section_mobile
+    .tab-select
+    .tab-content {
+    height: auto;
+  }
+
+  .navbar.navbar_two_mobile_view {
+    padding: 3px 0 !important;
+  }
+
+  .shadow-add-active.theme_header_mobile {
+    box-shadow: 4.68219px 10.7021px 37.4575px 0.668884px rgb(0 0 0 / 2%);
+  }
+
+  .student-dashboard.select-plan.range-slider-plan .call-btn-2 {
+    display: none;
+  }
+
+  .eligiblity-form-sec.student-dashboard.select-plan .log-out-div {
+    display: none;
+  }
+
+  .eligiblity-form-sec.student-dashboard {
+    padding: 124px 0 0px;
+  }
+
+  .eligiblity-form-sec.student-dashboard.select-plan #v-pills-tab {
+    width: 100%;
+    display: flex;
+    flex-direction: row !important;
+    justify-content: space-around;
+    position: fixed;
+    bottom: 0;
+    background: #ffffff;
+    box-shadow: 0px -6px 15px rgb(0 0 0 / 8%);
+    padding: 7px 24px 7px 0;
+    z-index: 6;
+  }
+
+  .mobile_tab_bottom_menu {
+    margin-top: 50px;
+  }
+
+  .student-dashboard.select-plan .tab-content {
+    width: 100%;
+    margin: auto;
+    margin-left: 6px;
+    margin-bottom: 5px;
+  }
+
+  .eligiblity-form-sec.student-dashboard .nav-pills .nav-link.active {
+    background: transparent;
+  }
+
+  .eligiblity-form-sec.student-dashboard.select-plan .nav-pills .nav-link {
+    margin: 8px 0;
+    padding: 4px 14px;
+  }
+
+  .navbar.navbar-expand-lg.navbar_two_mobile_view .navbar-right {
+    margin-top: 0;
+  }
+
+  .navbar.navbar_two_mobile_view .navbar-toggler {
+    margin-left: 0;
+  }
+
+  .eligiblity-form-sec.student-dashboard .input-form .form-group input {
+    padding: 17px 10px;
+  }
+
+  .eligiblity-form-sec.student-dashboard .input-form .form-group {
+    margin-bottom: 11px;
+  }
+
+  .eligiblity-form-sec.student-dashboard.range-slider-plan .theme_btn {
+    padding: 7px 40px;
+    border-radius: 10px;
+    /* color: #fff; */
+  }
+
+  .mobile_tab_content_show .verticle-timeline .eligiblity-block {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    max-width: 98%;
+    margin: auto;
+    margin-bottom: 31px;
+  }
+
+  .mobile_tab_content_show .basket-row {
+    padding-top: 0;
+  }
+
+  .verticle-timeline .timeline {
+    position: relative;
+    padding-left: 2rem;
+  }
+
+  .verticle-timeline .timeline .timeline-container.warning .timeline-icon {
+    height: 17px;
+    width: 17px;
+    left: -38px;
+  }
+
+  .verticle-timeline .timeline .timeline-container .timeline-body h4 {
+    font-size: 20px;
+    margin-bottom: 3px;
+  }
+
+  .verticle-timeline .timeline .timeline-container .timeline-body p {
+    font-size: 15px;
+  }
+
+  .verticle-timeline .timeline .timeline-container {
+    margin-bottom: 0rem;
+  }
+
+  .student-dashboard .tab-content .dashboard-content h2 {
+    font-size: 36.834px;
+    margin-bottom: 22px;
+  }
+
+  .student-dashboard .tab-content .dashboard-content p {
+    max-width: 80%;
+    line-height: 21px;
+  }
+
+  .student-dashboard .scholarship-test {
+    margin-top: -2px;
+  }
+
+  .form-group.scholarship-select {
+    padding: 0px 0 0px;
+  }
+
+  .green_block_test p {
+    font-size: 27.3104px;
+  }
+
+  .green_block_test {
+    padding: 15px 37px;
+    width: fit-content;
+    margin-top: 25px;
+  }
+
+  .scholarship_row {
+    padding-bottom: 50px;
+  }
+
+  .scholarship_test_parawidth {
+    width: 85%;
+  }
+
+  .student-dashboard .tab-content .dashboard-content {
+    padding: 4px 0 20px;
+  }
+
+  .scholarship_row .irpUny {
+    /* width: 100% !important;
+    max-width: 60vw !important;
+    height: 30vh !important;
+    margin: auto;
+    margin-top: -26px !important; */
+  }
+
+  .dashboard-mitter {
+    margin-top: 25px;
+  }
+
+  .scholarship_row .buttons-div.mitter-btn {
+    flex-direction: column;
+  }
+
+  .scholarship_row .buttons-div.mitter-btn .right-block.fresher-test.order-1 {
+    margin: 17px 0;
+  }
+
+  .scholarship_row .buttons-div.mitter-btn .right-block {
+    width: 81%;
+    margin: auto;
+  }
+
+  .scholarship_row .buttons-div.mitter-btn .right-block .theme_btn {
+    width: 100%;
+  }
+
+  .scholarship_row .buttons-div.mitter-btn {
+    width: 96%;
+  }
+
+  .eligiblity-form-sec.student-dashboard.select-plan
+    .range-slider-tab
+    .range-slider-sec
+    .range-list
+    h3 {
+    font-size: 33px;
+  }
+
+  .eligiblity-form-filds.dashboard_plan_privacy p {
+    max-width: 100%;
+  }
+
+  .eligiblity-form-filds.dashboard_plan_privacy .plan_view_mobile {
+    flex: 0 0 100%;
+    max-width: 65%;
+    margin: auto;
+  }
+
+  .dashboard_plan_privacy .eligiblity-block {
+    text-align: center;
+    max-width: 85%;
+    margin: auto;
+  }
+
+  .calculator-sec .range-container .fresher-test {
+    max-width: 100%;
+    width: fit-content;
+    margin: auto;
+    margin-bottom: 7px;
+  }
+
+  .calculator-sec .range-container .fresher-test .theme_btn {
+    padding: 7px 10px;
+    border-radius: 31px;
+  }
+
+  .calculator-sec .range-list {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+  }
+  .eligiblity-form-sec.student-dashboard.select-plan
+    .range-slider-tab
+    .range-slider-sec
+    .range-list
+    ul {
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-bottom: 0;
+    margin: 0;
+  }
+
+  .eligiblity-form-sec.student-dashboard.select-plan
+    .range-slider-tab
+    .range-slider-sec
+    .range-list
+    ul
+    li {
+    margin: 3px 0;
+  }
+
+  .range-inner-wrapper {
+    margin-top: 42px;
+  }
+
+  .calculator-sec .range-inner-wrapper h4 {
+    font-size: 21px;
+    margin-bottom: 35px;
+    text-align: center;
+  }
+
+  .calculator-sec .form-row.range-input-group {
+    max-width: 100%;
+    margin: auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+
+  .MuiBox-root {
+    margin-top: 5px;
+  }
+
+  .range-input-group .MuiSlider-markLabel {
+    top: 38px;
+    font-size: 10px;
+  }
+
+  .MuiSlider-mark {
+    top: 15px !important;
+  }
+
+  .MuiSlider-root {
+    width: 87% !important;
+    margin: auto;
+    display: flex !important;
+  }
+
+  .student-dashboard.select-plan.range-slider-plan .timeline-pop {
+    display: block !important;
+  }
+
+  .scholarship_row .dashboard-mitter h2 {
+    font-size: 36px;
+  }
+
+  .scholarship_row .dashboard-mitter p {
+    font-weight: 500;
+    margin-bottom: 9px;
+    font-size: 15px;
+  }
+
+  .sign-in-modal.ReadyModal .modal-dialog {
+    max-width: 93vw;
+    margin: auto;
+    margin-top: 56px;
+  }
+
+  .client-section .main-heading {
+    font-size: 30px;
+    margin-bottom: 0;
+  }
+
+  .client-section .client-card-block .card-right-content .card-flex {
+    display: flex;
+  }
+
+  .skilled-based-packaged-list .buttons-div .theme_btn.tertiary {
+    padding: 10px 15px;
+    width: fit-content;
+  }
+
+  .increase-chart-graph.hiring-partner-group {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .increase-chart-graph.hiring-partner-group p {
+    font-size: 19px;
+    margin-top: 27px !important;
+  }
+
+  .increase-chart-graph.hiring-partner-group img {
+    width: 66%;
+    margin: auto;
+  }
+
+  .skilled-based-packaged-list .skilled-based-inner-wrapper {
+    padding: 0 8px;
+  }
+
+  .well_place_program
+    .program-left-wrapper
+    .skilled-based-inner-wrapper
+    .roadmap-success-section
+    .career-wrapper-sec
+    .inner-wrapper {
+    max-width: 100%;
+    padding: 11px 1px 0px;
+    height: 150px;
+  }
+
+  .well_place_program .job_ready_wrapper .inner-wrapper {
+    height: 130px;
+  }
+
+  .job_ready_wrapper .inner-wrapper p {
+    margin-bottom: 10px;
+  }
+
+  .well_place_program .program-left-wrapper .skilled-based-inner-wrapper {
+    margin-top: 11px;
+    margin-left: 0px;
+  }
+
+  .job_ready_wrapper {
+    padding-left: 0px;
+  }
+
+  section.eligiblity-form-sec.eligiblity_mobile_sec {
+    padding: 0;
+  }
+
+  .eligiblity-form-filds .select-plan ul li {
+    font-size: 10px;
+    margin: 0;
+    line-height: 13px;
+    padding: 0;
+  }
+
+  .eligiblity-form-filds .select-plan ul li img {
+    width: 7%;
+  }
+  .eligiblity-form-filds .select-plan.select-plan-1 ul {
+    padding-bottom: 44px;
+  }
+
+  .eligiblity-form-filds .select-plan {
+    background: linear-gradient(
+      149.22deg,
+      #ffffff 0%,
+      #fffefa 59.07%,
+      #f3fffe 98.93%
+    );
+  }
+
+  .scholarship-modal.disclaimer-modal .modal-dialog {
+    max-width: 100vw !important;
+    background: #fff;
+    border-radius: 40px;
+  }
+
+  .skill-programs-section .programs-heading p {
+    font-size: 13px;
+  }
+
+  .skill-programs-section .programs-heading {
+    margin-bottom: 31px;
+    margin-top: 0;
+  }
+
+  .select-program-tab-sec
+    .tab-select
+    .tab-content
+    .tab-pane
+    ul.curriculum_list.list_items {
+    padding-top: 1px;
+  }
+
+  .select-program-tab-sec
+    .tab-select
+    .tab-content
+    .tab-pane
+    .row.papp_new_wrapper {
+    max-width: 100%;
+  }
+
+  .programs-btn.program-btn-1.program-btn-2 {
+    border-radius: 9px;
+    font-size: 18px;
+    padding: 13px 10px;
+    max-width: 95%;
+    width: 100%;
+  }
+
+  .select-program-tab-sec .padding_fixed_mobile {
+    padding: 0 4px;
+  }
+
+  .mobile_tab_content_show .basket-banner {
+    padding: 0 13px;
+  }
+
+  .student-dashboard .tab-content .dashboard-content .green_block_test p {
+    max-width: 100%;
+    font-size: 20px;
+  }
+
+  .green_block_test.green_block_test_2 {
+    margin-top: -16px;
+    margin-bottom: 44px;
+  }
+
+  .scholarship-test
+    .scholarship-test-wrapper
+    .scholarship-table
+    .special-inclusions-table
+    tr
+    td {
+    padding: 7px 5px;
+  }
+
+  .both-route-chart .eligiblity-result-modal .score-miter {
+    padding: 16px 0px 0;
+  }
+
+  .row.both-skill-replace {
+    margin-right: -21px;
+    margin-left: -22px;
+  }
+
+  .landing-select-type-sec .cardss p {
+    font-size: 12px;
+    line-height: 11px;
+  }
+
+  .both-route-chart .plan_view_mobile {
+    padding: 0 4px;
+  }
+
+  .both-route-chart .row.eligiblity-form-filds {
+    width: 100%;
+  }
+
+  .both-route-chart .padding_hide {
+    padding-left: 0;
+    padding-right: 17px;
+  }
+
+  .both-route-chart .eligiblity-result-modal .score-miter {
+    padding-left: 12px;
+  }
+
+  .both-route-chart .landing-select-type-sec {
+    padding-right: 23px;
+    padding-left: 8px;
+  }
+  .eligiblity-result-modal .score-miter.failed-meter {
+    padding-top: 6px;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .eligiblity-result-modal .score-miter img {
+    /* width: 73%; */
+  }
+
+  .eligiblity-result-modal .score-miter .job_guarantee_para p {
+    margin-top: 0px;
+  }
+
+  .eligiblity-result-modal .score-miter.faild {
+    max-width: 100%;
+  }
+
+  .eligiblity-result-modal .score-miter.failed-meter {
+    max-width: 100%;
+    margin: auto;
+  }
+
+  .learning-mathod .learning-method-wrapper .shadow_box {
+    max-width: 62%;
+  }
+
+  .learning-mathod .learning-method-wrapper .shadow_box.shadow_box-1 {
+    margin-top: 86px;
+  }
+
+  .range-slider-sec.calculator-sec {
+    width: 100%;
+  }
+
+  .upload_docs_wrappper .upload-buttons {
+    padding: 7px 10px;
+    height: auto;
+    width: 70%;
+    margin: auto;
+    margin-bottom: 12px;
+  }
+
+  .calculator-sec .range-container .fresher-test .theme_btn {
+    padding: 5px 33px;
+    border-radius: 31px;
+    margin: 0;
+    font-size: 15px;
+  }
+
+  .calculator-sec .range-container {
+    margin-bottom: 27px;
+    border-bottom: 0px solid rgba(0, 0, 0, 0.4);
+    padding-bottom: 0px;
+  }
+
+  .range-input-group .css-eg0mwd-MuiSlider-thumb {
+    top: 47%;
+  }
+  .student-dashboard.select-plan.range-slider-plan .timeline-pop {
+    display: block !important;
+    margin-top: -4px;
+    width: 100%;
+  }
+
+  .student-dashboard.select-plan.form-select-verification
+    .tab-content
+    .verification-form
+    .verification-select
+    label {
+    text-align: left;
+    width: 100%;
+  }
+
+  .student-dashboard.select-plan.form-select-verification
+    .tab-content
+    .verification-form
+    .upload-buttons {
+    width: 94%;
+    margin-top: 18px;
+    margin-bottom: -22px;
+  }
+
+  .student-dashboard.select-plan.form-select-verification
+    .range-container
+    .fresher-test {
+    width: 100%;
+  }
+
+  .student-dashboard.select-plan.form-select-verification
+    .range-container
+    .theme_btn {
+    width: 100%;
+  }
+
+  .accordion.style-2 .card .card-body .new-additional-block .form-check-input {
+    position: relative;
+    top: -3px;
+    margin-right: 5px;
+  }
+
+  .accordion.style-2 .card .card-body .new-additional-block .form-check {
+    display: flex;
+    margin: 4px 0;
+  }
+
+  .accordion.style-2 .card .card-body .new-additional-block .form-check-label {
+    font-size: 10px;
+  }
+
+  .select-plan.recommended-plan.enrollment-wrapper.direct-placement-card.mobile_effact_cards
+    del {
+    color: #b3b3b3;
+  }
+  .eligiblity-form-filds .select-plan p.price {
+    font-size: 32px;
+  }
+
+  .eligiblity-form-filds
+    .select-plan.direct-placement-card
+    .plan-transprant-block
+    p
+    .offer {
+    background: #f36e2c;
+  }
+
+  .eligiblity-form-filds
+    .select-plan.direct-placement-card
+    .plan-green-block
+    p
+    span {
+    font-weight: 700;
+    font-size: 22px;
+  }
+
+  .eligiblity-form-filds
+    .select-plan.direct-placement-card
+    .plan-transprant-block
+    ul
+    li {
+    font-size: 10px;
+  }
+
+  .eligiblity-form-filds
+    .select-plan.direct-placement-card
+    .plan-transprant-block
+    .new-additional-block
+    .additional-heading
+    h6 {
+    font-size: 9px;
+  }
+
+  .eligiblity-form-filds
+    .select-plan.direct-placement-card
+    .plan-transprant-block
+    .new-additional-block
+    .form-check-input {
+    position: relative;
+    top: -4px;
+    margin-right: 4px;
+  }
+
+  .eligiblity-form-filds
+    .select-plan.direct-placement-card
+    .plan-transprant-block
+    .new-additional-block
+    .form-check-label {
+    font-family: "Lexend";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 10px;
+    line-height: 138.5%;
+  }
+
+  .eligiblity-form-filds
+    .select-plan.direct-placement-card
+    .plan-transprant-block
+    .buttons
+    .theme_btn.tertiary {
+    border-radius: 40px;
+    padding: 0px 19px;
+    margin: 0;
+    font-size: 13px;
+  }
+
+  .eligiblity-form-filds
+    .select-plan.direct-placement-card.mobile_effact_cards
+    .plan-transprant-block
+    .new-additional-block {
+    margin-bottom: 2px;
+  }
+
+  .eligiblity-form-filds
+    .select-plan.direct-placement-card.mobile_effact_cards
+    .plan-transprant-block
+    .new-additional-block
+    .additional-heading {
+    margin-bottom: 17px;
+  }
+
+  .eligiblity-form-filds
+    .select-plan.direct-placement-card
+    .plan-transprant-block
+    p
+    .offer {
+    font-size: 7px;
+  }
+
+  .hovered_card .recommended-heading {
+    font-size: 13px;
+    padding: 6px 0 29px;
+  }
+
+  .eligiblity-form-filds
+    .select-plan.direct-placement-card.mobile_effact_cards.mobile_effact_cards_dark
+    .plan-green-block {
+    background-color: #000;
+  }
+
+  .eligiblity-form-filds
+    .select-plan.direct-placement-card.mobile_effact_cards.mobile_effact_cards_dark
+    .plan-transprant-block
+    .price {
+    color: #000;
+  }
+
+  section.eligiblity-form-sec.direct-placement.five_show {
+    padding-top: 22px;
+  }
+
+  .well_place_program .nav-tabs {
+    padding: 0 5px;
+    border-bottom: 0;
+    justify-content: center;
+    width: 68%;
+    margin: auto;
+  }
+
+  .well_place_program .nav-tabs .package_select_section p {
+    font-size: 13px;
+  }
+
+  .well_place_program .nav-tabs .nav-item.nav-link,
+  .well_place_program .nav-tabs .nav-link.active,
+  .well_place_program .nav-tabs .nav-item.nav-link:focus,
+  .well_place_program .nav-tabs .nav-link.active:focus {
+    border: 0 !important;
+    outline: none;
+    border-color: transparent;
+  }
+
+  .well_place_program .nav-tabs .nav-item.show .nav-link,
+  .well_place_program .nav-tabs .nav-link.active,
+  .well_place_program .nav-tabs .nav-item.show .nav-link:focus,
+  .well_place_program .nav-tabs .nav-link.active:focus {
+    border: 0 !important;
+    outline: none;
+    border-color: transparent;
+  }
+
+  .well_place_program .program-left-wrapper {
+    padding: 0 0px;
+  }
+
+  .well_place_program .accordion.style-2 .card .collapse {
+    width: 100%;
+  }
+
+  .well_place_program .tab-content {
+    margin-top: 15px;
+    width: 100%;
+  }
+
+  .well_place_program
+    .accordion.style-2
+    .card
+    .card-body
+    .program-left-wrapper
+    .skilled-based-inner-wrapper {
+    margin-top: 19px;
+    margin-left: 0px;
+    padding: 0px 0 10px 0;
+  }
+
+  .well_place_program .program-left-wrapper .card-header {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+  }
+
+  .well_place_program .program-left-wrapper .card-header .section-heading,
+  .well_place_program
+    .program-left-wrapper.program-last-wrapper.placement-wrapper
+    .section-heading {
+    text-align: center;
+    font-size: 15px;
+  }
+
+  .well_place_program .program-left-wrapper .section-heading span {
+    font-size: 19px;
+    height: 28px;
+    width: 30px;
+  }
+
+  .well_place_program .program-left-wrapper .card-header i {
+    font-size: 17px;
+  }
+
+  .well_place_program
+    .program-left-wrapper
+    .skilled-based-inner-wrapper
+    .inner-item
+    p {
+    font-size: 12px !important;
+  }
+
+  .increase-chart-graph .increase-chart-graph-slider {
+    padding-bottom: 26px;
+  }
+
+  .increase-chart-graph .increase-chart-graph-slider h4 {
+    font-size: 45px;
+    line-height: 91%;
+    margin-bottom: 16px;
+  }
+
+  .client-section
+    .client-card-block
+    .card-right-content
+    .card-flex
+    .right-wrapper.lpa-percentage
+    h3 {
+    font-size: 28px;
+    line-height: 32px;
+  }
+
+  .increase-chart-graph .increase-chart-graph-slider p {
+    font-size: 19px;
+  }
+
+  .client-section
+    .client-card-block
+    .card-right-content
+    .card-flex
+    .right-wrapper.lpa-percentage
+    p {
+    font-size: 12.2453px;
+  }
+
+  .well_place_program .section-heading p {
+    font-size: 15px;
+    line-height: 21px;
+    max-width: 80%;
+    margin: auto;
+  }
+
+  .direct-placement.well_place_mobile_slider
+    .increase-chart-graph-slider
+    p.main-para {
+    font-family: "Lexend";
+    font-style: normal;
+    font-weight: 600;
+    font-size: 25px;
+    line-height: 27px;
+    text-align: center;
+    margin: 0;
+    color: #0e5f59;
+  }
+
+  .direct-placement.well_place_mobile_slider .increase-chart-graph {
+    padding-left: 0px;
+    margin-top: 0;
+  }
+
+  .increase-chart-graph .increase-chart-graph-slider ul li p {
+    margin: 0;
+  }
+
+  .landing-banner.well_place_having_dought .basket-row {
+    padding-top: 4px;
+    margin-top: -16px;
+  }
+
+  .landing-banner.well_place_having_dought .basket-row .client-logo {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .landing-banner.well_place_having_dought .basket-row .client-logo p {
+    margin: 0;
+  }
+
+  .landing-banner.well_place_having_dought .basket-row .summary-table h2 {
+    font-size: 26px;
+    margin-top: 41px;
+  }
+
+  .landing-banner.well_place_having_dought
+    .basket-row
+    .summary-table
+    .table-responsive-xl.special-inclusions-table {
+    background: #f3f7f7;
+    border-radius: 24px;
+    padding: 43px;
+    width: 392px;
+  }
+
+  .expand-button.call-btn.youtube {
+    display: block;
+    position: fixed;
+    top: 25%;
+  }
+
+  .expand-button.call-btn.youtube .expand-img {
+    width: 36px !important;
+    height: 36px;
+    opacity: 1;
+  }
+
+  .expand-button.call-btn.youtube p {
+    display: none;
+    color: #0e5f59;
+  }
+
+  .expand-button.call-btn.youtube:hover p {
+    display: block;
+    background-color: transparent;
+  }
+
+  .expand-button.call-btn.youtube:hover {
+    background-color: transparent;
+  }
+
+  .moda_video_sec .modal-header {
+    height: 0;
+    padding: 0;
+    border: 0;
+  }
+
+  .moda_video_sec .modal-header .close {
+    position: absolute;
+    right: 4px;
+  }
+
+  .moda_video_sec {
+    background-color: rgba(14, 95, 89, 1);
+  }
+
+  .moda_video_sec .modal-content {
+    background-color: transparent;
+    border: 0;
+  }
+
+  .upload_docs_wrappper .upload-buttons label img {
+    width: 36px;
+    margin-right: 9px;
+  }
+
+  .upload_docs_wrappper .upload-buttons label .upload-msg p {
+    font-size: 16px;
+  }
+
+  .calculator-sec .all-range-inputs .form-row.range-input-group label {
+    width: 195px;
+  }
+
+  .range-input-group .css-eg0mwd-MuiSlider-thumb {
+    background: #fecd08;
+  }
+
+  .range-input-group .css-nnid7-MuiSlider-valueLabel.MuiSlider-valueLabelOpen {
+    color: #fecd08;
+    font-size: 13px;
+  }
+
+  .range-input-group .css-eg0mwd-MuiSlider-thumb {
+    width: 12px;
+    height: 12px;
+   top: 44% !important;
+  }
+
+  .range-input-group .css-1aznpnh-MuiSlider-root {
+    color: #fecd08;
+  }
+
+  .test-submit-modal.congratulations-popup.sign_popup .ready-list p {
+    font-size: 15px;
+  }
+
+  .test-submit-modal.congratulations-popup.sign_popup .ready-list img {
+    width: 27%;
+  }
+
+  .scholarship-test .scholarship-test-wrapper {
+    margin-top: 15px;
+  }
+
+  .student-dashboard.about_page .tab-content .dashboard-content {
+    padding: 3px 0 1px;
+  }
+
+  .theme-footer .social-media {
+    display: flex;
+    align-items: center;
+    margin-bottom: 10px;
+    justify-content: center;
+  }
+
+  .theme-footer .logo .footer-logo-top p {
+    max-width: 81%;
+    margin: auto;
+    margin-top: 30px;
+    margin-bottom: 7px;
+    font-size: 18px;
+  }
+
+  .theme-footer .footer-widget {
+  }
+
+  .student-dashboard.about_page .tab-content .dashboard-content p {
+    font-size: 16.7489px;
+    line-height: 24px;
+    max-width: 100%;
+  }
+  .eligiblity-form-sec.student-dashboard.about_page
+    .tab-content
+    .Three_sectin_about {
+    padding: 48px 0 23px;
+  }
+
+  .eligiblity-form-sec.student-dashboard.about_page .tab-content {
+    width: 100%;
+  }
+
+  .contect-us-page .contect-left-wrapper.img-wrapper {
+    display: flex;
+    justify-content: center;
+  }
+
+  .contect-us-page .contect-left-wrapper.img-wrapper img {
+    margin: 66px auto 26px;
+    width: 68%;
+  }
+
+  .contect-us-page {
+    padding: 100px 0 60px;
+  }
+  .direct-placement-route.direct-placement-route1 {
+    background-color: #fff !important;
+    padding-top: 75px;
+  }
+
+  .direct-placement-route.direct-placement-route1.doughnut_placement_route {
+    padding-top: 81px;
+    height: 100%;
+  }
+
+  .direct-placement-route.direct-placement-route1.doughnut_placement_route
+    .eligiblity-result-modal
+    .score-miter {
+    width: 100%;
+  }
+
+  .irpUny {
+    width: 100%;
+    max-width: 51vw !important;
+    height: 27vh !important;
+  }
+
+  #basket_payment_zoom_hover_popup {
+    width: 37%;
+  }
+
+  #basket_payment_zoom_hover_popup .thumbnail-container img {
+    width: 86%;
+  }
+
+  section.eligiblity-form-sec.direct-placement-route.both-route-chart {
+    padding-top: 9px;
+  }
+
+  .both-route-chart .eligiblity-result-modal .score-miter {
+    padding-left: 12px;
+    width: 100%;
+  }
+
+  section.logo-slide.section.five_show {
+    padding-top: 0;
+  }
+
+  .landing-banner .landing-banner-sec .banner-left-block p {
+    font-size: 16.0657px;
+    max-width: 80%;
+    margin-top: 29px;
+    margin-bottom: 0;
+  }
+
+  .client-section .client-card-block .card-right-content h4 {
+    font-size: 28.8718px;
+    line-height: 29px;
+  }
+
+  .banne-outer-timer .theme_btn {
+    font-size: 15.8897px;
+    padding: 6px 20px;
+  }
+
+  .career-ready-sec .career-right-block ul li {
+    font-size: 17px;
+    padding: 16px 20px;
+    margin: 18px 0;
+  }
+
+  .career-ready-sec .career-ready-block p {
+    margin: 10px 0 0px;
+  }
+
+  .career-ready-sec .career-ready-block img {
+    width: 57%;
+    margin: auto;
+  }
+
+  .landing-placed-section .inner-wrapper .right-block .theme_btn {
+    font-size: 16px;
+    padding: 6px 14px;
+  }
+
+  .landing-section-heading.hiring-box {
+    padding-bottom: 0px;
+  }
+
+  section.video-section {
+    padding: 30px 0 0;
+  }
+
+  .landing-faq.faq-sec .card-header {
+    font-size: 15px;
+    padding: 17px 10px;
+  }
+
+  .faq-sec .card-header .plus {
+    top: 2px;
+  }
+
+  .footer-widget .widget-list li a {
+    font-size: 15px;
+  }
+
+  .footer-widget .widget-list li + li {
+    margin-top: 2px;
+  }
+
+  .theme-footer .footer-widget .widget-title {
+    margin-bottom: 13px;
+    font-weight: 600;
+    font-size: 22px;
+  }
+
+  .landing-select-type-sec .timeline-pop li {
+    align-items: baseline;
+  }
+
+  .landing-banner .landing-banner-sec .banner-img img {
+    width: 100%;
+  }
+
+  .client-section .client-card-block .card-right-content .line-para {
+    font-size: 16px;
+    line-height: 20px;
+  }
+
+  .eligiblity-option-body .question-block .tab-content .tab-pane .submit .theme_btn.submit-btn {
+    padding: 6px 44px;
+    width: 70%;
+    margin: auto;
+    margin-bottom: -10px;
+    margin-top: 8px;
+}
+
+  .eligiblity-option-body .question-block .tab-content .tab-pane .submit {
+    margin-top: 40px;
+    margin-bottom: 19px;
+}
+
+  .sign-in-modal .theme-logo img {
+    width: 57%;
+  }
+
+  .sign-in-modal.verify-phone-number .modal-dialog {
+    /* max-width: 62vw; */
+    margin-top: 11px;
+  }
+
+  /* .sign-in-modal.verify-phone-number .sign-up-form {
+  margin-top: 11px;
+} */
+
+  .well_place_program {
+    padding-bottom: 0;
+  }
+
+  .well_place_program .fixed_height_program {
+    margin-bottom: 0px;
+  }
+
+  .increase-chart-graph .increase-chart-graph-slider h4 {
+    font-size: 38px;
+  }
+  .increase-chart-graph .increase-chart-graph-slider ul {
+    margin-top: 47px;
+  }
+
+  .skill-programs-section .program-cards {
+    border-radius: 18px;
+    overflow: hidden;
+  }
+
+  .skill-programs-section .program-cards .top-block {
+    border-radius: 0;
+  }
+
+  .eligiblity-form-sec {
+    padding: 141px 0 30px;
+  }
+
+  .counter-section .counter-inner .counter-img img {
+    width: 70%;
+    padding-top: 0 !important;
+  }
+
+  .counter-section .counter-inner {
+    max-width: 73%;
+    height: 151px;
+  }
+
+  #imageMagnifyer > div button {
+    border: 0;
+    outline: none;
+  }
+
+  .magnifying_popup_mobile .modal-header .close {
+    position: absolute;
+    font-size: 36px;
+    top: -13%;
+    background: #fff;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    width: 44px;
+    height: 44px;
+    padding: 0;
+    line-height: 6;
+    /* height: 100%; */
+    right: 48%;
+  }
+
+  .magnifying_popup_mobile .modal-header .close span {
+    margin-top: -10px;
+  }
+
+  .scholarship_row .irpUny {
+    height: 22vh !important;
+    margin: auto;
+    margin-top: -49px !important;
+  }
+
+  .scholarship_row .buttons-div .right-block.fresher-test a.tertiary {
+    width: 100%;
+    padding: 12px 20px;
+  }
+
+  .scholarship_row .buttons-div .right-block.fresher-test a.tertiary img {
+    width: 39px;
+  }
+
+  .having_dought_mobile .inner_wrapper p {
+    font-size: 12px;
+  }
+
+  .theme_btn.tertiary img {
+    width: 26px;
+  }
+
+  .student-dashboard .tab-content .dashboard-content p.para {
+    max-width: 99%;
+  }
+
+ .direct_payment .accordion.style-2 .card .card-body .new-additional-block .form-group{
+     display: block;
+  }
+
+  .select-plan.mt-5.recommended-plan.enrollment-wrapper.direct-placement-card.direct-placement-width.mobile_effact_cards{
+    margin-top: 57px!important;
+  }
+
+  section.main-body-content {
+    padding: 65px 13px 0px;
+}
+
+.agreement-header h1 {
+  font-size: 23px;
+}
+
+section.main-body-content {
+  padding: 33px 13px 0px;
+}
+
+.isa_agreement_pdf_section .main-section header {
+  margin-top: 10px;
+}
+
+.isa_agreement_pdf_section .main-body-content .main-title{
+  line-height: 81%;
+}
+
+.isa_agreement_pdf_section .main-body-content .main-title span{
+  font-size: 25px!important;
+  line-height: 22px;
+}
+
+.eligiblity-option-body .question-block .tab-content .tab-pane .submit.five_show{
+  display: flex!important;
+  justify-content: space-between;
+  width: 100%;
+}
+
+.both-route-chart .eligiblity-form-filds .select-plan.select-plan-2 {
+  margin-top: 52px;
+}
+
+.direct-placement .row.eligiblity-form-filds{
+  align-items: flex-end;
+}
+
+.fotter_mobile_alignment{
+  display: flex;
+  justify-content: center;
+}
+
+.eligiblity_logo_mobile{
+  width: 40%;
+}
+
+.ready_test_page .sign-in-modal .modal-dialog {
+  margin-top: 0;
+}
+
+.ready_test_page .sign-in-modal .ready-list ul li {
+  font-size: 12px;
+  line-height: 20px;
+  margin: 9px 0;
+}
+
+.ready_test_page .sign-in-modal .ready-list ul {
+  max-width: 100%;
+  padding: 12px 0 10px;
+}
+
+.ready_test_page .sign-in-modal .ready-list .good_luck{
+  font-size: 13px;
+    margin-bottom: 10px;
+}
+
+section.ready_test_page {
+  padding-top: 105px;
+  padding-bottom: 61px;
+}
+
+.eligiblity-option-body.eligiblity-test-body {
+  padding: 0px 0 70px;
+}
+.roadmap-success-section .accordion.style-2 .card-header span {
+  letter-spacing: -0.1px;
+}
+
+.submitTestModal.warning-msg .modal-dialog {
+  max-width: 90%;
+  height: 80%;
+  margin: auto;
+}
+
+.skill-programs-section .program-cards .bottom-block ul li {
+  font-size: 10px;
+}
+
+.skill-programs-section .program-cards .bottom-block {
+  padding: 6px 10px 16px;
+}
+
+.skill-programs-section .program-cards .bottom-block form {
+  padding-bottom: 8px;
+}
+
+.pgp_management_detail .row.eligiblity-form-filds.pgp-mnanagement .eligiblity-block-2 {
+  padding-top: 16px;
+}
+
+.select-program-tab-sec .tab-select .tab-content .tab-pane .theme_btn.tertiary {
+  font-size: 14.8072px;
+  border-radius: 8px;
+  padding: 10px 44px;
+  margin-top: 0px;
+  width: 98%;
+}
+
+.client-section .client-card-block .card-right-content .company-logo p {
+  font-size: 14px;
+  line-height: 22px;
+  display: block;
+  text-align: right;
+  display: flex;
+  justify-content: flex-end;
+  flex-direction: column;
+  align-items: flex-end;
+}
+
+.client-section .client-card-block .card-right-content .company-logo img {
+  /* margin-top: 3px; */
+  width: 35%;
+  position: relative;
+  right: 0px;
+  display: flex;
+  justify-content: flex-end;
+  /* margin: auto; */
+}
+
+.client-section.Client-section_mobile_fixed .client-card-block .client-img img{
+  width: 100%;
+}
+
+.button_card_flexx.disable-gray-btn .programs-btn {
+  width: 100%;
+}
+
+.select-program-tab-sec .padding_fixed_mobile .inner-wrapper img {
+  width: 37%;
+  margin-bottom: 8px;
+}
+
+.select-program-tab-sec .tab-select .tab-content .tab-pane .row.papp_new_wrapper .inner-wrapper {
+ 
+  padding: 0 5px;
+}
+
+.select-program-tab-sec .tab-select .tab-content .tab-pane .row.papp_new_wrapper p{
+  text-align: center!important;
+}
+
+.direct-placement-width.mobile_effact_cards.new_placement_change_wrapper ul {
+  padding: 21px 0 29px;
+}
+}
+
+@media (max-width: 520px) {
+  .recharts-wrapper {
+    width: 300px !important;
+    height: 200px !important;
+    margin: auto;
+  }
+
+  svg.recharts-surface {
+    width: 300px !important;
+    height: 200px !important;
+    margin: auto;
+  }
+
+  .row.eligiblity-form-filds {
+    padding-top: 59px;
+  }
+
+  .landing-placed-section .inner-wrapper h4 {
+    text-align: center;
+    font-size: 36px;
+  }
+
+  .client-section .client-card-block .card-right-content .line-para {
+    font-size: 15px;
+    line-height: 22px;
+  }
+
+  .client-section .client-card-block .card-right-content .company-logo {
+    margin-top: 15px;
+}
+
+}
+
+@media (max-width: 480px) {
+  .eligiblity-form-filds
+    .select-plan.direct-placement-card
+    .plan-green-block
+    .price-tag {
+    font-size: 9px;
+    padding: 1px 11px;
+  }
+
+  .select-program-tab-sec
+    .tab-select
+    .tab-content
+    .tab-pane
+    .row.papp_new_wrapper
+    .inner-wrapper {
+    width: 100%;
+  }
+
+  .both-route-chart .eligiblity-result-modal .score-miter p {
+    margin-bottom: 11px;
+    max-width: 94%;
+    line-height: 19px;
+    font-size: 13px;
+  }
+
+  .select-program-tab-sec
+    .tab-select
+    .tab-content
+    .tab-pane
+    .row.papp_new_wrapper
+    .inner-wrapper
+    p
+    strong {
+    font-size: 19px;
+  }
+
+  .select-program-tab-sec .tab-select .tab-content .tab-pane .row.papp_new_wrapper p {
+    font-size: 10px;
+    text-align: center!important;
+}
+
+  .eligiblity-filds-block-2.select-status {
+    padding: 53px 27px;
+    margin-top: 55px;
+  }
+
+  .col-6.flex_width_hundred {
+    flex: 0 0 100%;
+    /* max-width: 80%; */
+    /* margin: auto; */
+    padding: 0 3px;
+  }
+
+  .eligiblity-option-header .custom-container .right-para {
+    font-size: 15px;
+    line-height: 19px;
+  }
+
+  .select-status .element-select-status {
+    margin-top: 35px;
+  }
+  .eligiblity-block h1 {
+    font-size: 40px;
+    padding-bottom: 0 !important;
+  }
+  .row.eligiblity-form-filds p {
+    font-weight: 500;
+    font-size: 16px;
+  }
+
+  .select-status .nav-tabs .nav-item .nav-link {
+    font-size: 17px;
+  }
+
+  .eligiblity-option-body .number-list .nav-pills {
+    padding: 0px 0px;
+  }
+
+  .select-status .custom-control-label {
+    font-size: 14px;
+    line-height: 26px;
+  }
+
+  .eligiblity-filds-block-2 .right-block .theme_btn.tertiary {
+    font-size: 15px;
+  }
+
+  .sign-in-modal .ready-list ul li {
+    font-size: 12px;
+    line-height: 21px;
+    margin: 0px 0;
+  }
+  .sign-in-modal .ready-list ul {
+    padding-top: 20px;
+    padding-bottom: 12px;
+  }
+
+  .client-section .client-card-block .client-img img {
+    /* width: 51%; */
+}
+
+  .client-section .client-card-block .card-right-content .company-logo img {
+    margin-left: -12px;
+    margin-top: 3px;
+  }
+
+  .client-section .client-card-block .client-card-slide-block {
+    margin-bottom: 56px;
+  }
+
+  .career-ready-sec .career-ready-block h5 {
+    font-size: 38px;
+  }
+
+  .logo-slide {
+    padding-top: 0;
+  }
+
+  .landing-section-heading.hiring-box {
+    padding-top: 31px;
+    padding-bottom: 0px;
+  }
+
+  .landing-placed-section .inner-wrapper h4 {
+    font-size: 41px;
+  }
+
+  .review-sec .review-slide {
+    margin-right: 0px;
+    margin-left: -4px;
+  }
+
+  .development-course .circle-img .list-menu {
+    width: 78%;
+  }
+
+  .job-guarantee-section .guarantee-block h2 {
+    font-size: 43px;
+  }
+
+  .landing-skills-ways-list ul li {
+    width: 48%;
+  }
+
+  .landing-banner .landing-banner-sec .banner-left-block h1 {
+    font-size: 27.8206px;
+    max-width: 88%;
+  }
+
+  .landing-banner .landing-banner-sec .banner-left-block p {
+    font-size: 18.0657px;
+    max-width: 93%;
+  }
+
+  .job-guarantee-section .guarantee-block-1 {
+    align-items: flex-start;
+  }
+
+  .landing-section-heading h2 {
+    font-size: 27px;
+  }
+
+  .landing-section-heading p {
+    font-size: 17px;
+  }
+
+  .landing-placed-section .right-block .theme_btn.tertiary {
+    width: fit-content;
+    font-size: 19px;
+  }
+
+  .landing-placed-section {
+    padding: 27px 0 !important;
+  }
+
+  .job-guarantee-section .guarantee-block-1 h6 {
+    font-size: 27.2063px;
+  }
+
+  .job-guarantee-section .guarantee-block p {
+    padding-top: 6px;
+    margin: 0;
+  }
+
+  .landing-faq.faq-sec .card-header .plus {
+    top: 2px;
+  }
+
+  .landing-faq {
+    padding: 10px 0 50px !important;
+  }
+
+  .landing-faq.faq-sec .card-header {
+    font-size: 22px;
+  }
+
+  .client-section .client-card-block .card-right-content h4 {
+    font-size: 19.8718px;
+    line-height: 21px;
+}
+
+  .client-section .client-card-block .card-right-content .card-flex p strong {
+    font-size: 11px;
+  }
+
+  .client-section
+    .client-card-block
+    .card-right-content
+    .card-flex
+    .right-wrapper
+    h3 {
+    font-size: 29px;
+    line-height: 34px;
+  }
+
+  .client-section
+    .client-card-block
+    .card-right-content
+    .card-flex
+    .right-wrapper
+    p {
+    font-size: 11px;
+  }
+
+  .client-section .client-card-block .card-right-content .line-para {
+    font-size: 12px;
+    line-height: 16px;
+}
+
+  section.video-section {
+    padding: 36px 0 0;
+  }
+
+  .landing-section-heading {
+    margin-bottom: 18px;
+  }
+
+  .review-sec .review-slide .review-content .stroke-2 {
+    display: none;
+  }
+
+  .login-warning-msg {
+    font-size: 17px;
+    line-height: 18px;
+    padding: 10px 31px;
+    display: flex;
+    align-items: center;
+  }
+  .skilled-based-packaged ul {
+    padding-left: 1px;
+  }
+  .skilled-based-packaged ul li p b {
+    font-size: 11.8026px;
+    line-height: 15px;
+}
+
+.row.eligiblity-form-filds .skilled-based-packaged ul li p {
+  font-size: 10.1px;
+}
+
+  .skilled-based-packaged-list .buttons-div .theme_btn.tertiary {
+    border-radius: 12px;
+    padding: 8px 3px;
+    width: fit-content;
+    font-size: 14px;
+    border-radius: 6px;
+  }
+
+  .skilled-based-packaged
+    .buttons-div
+    .right-block.fresher-test
+    .theme_btn.transparent {
+    font-size: 14px;
+    padding: 5px 17px;
+    width: fit-content;
+    border-radius: 8px;
+  }
+
+  .skilled-based-packaged-list .skilled-based-inner-wrapper h6 {
+    font-size: 13px;
+  }
+
+  .recharts-wrapper {
+    width: 300px;
+    height: 600px;
+  }
+
+  .increase-chart-graph h4 {
+    font-size: 33px;
+  }
+
+  .increase-chart-graph .increase-chart-graph-slider ul li p {
+    font-weight: 500;
+    font-size: 14.6818px;
+  }
+
+  .basket-banner
+    .basket-row
+    .special-inclusions
+    .special-inclusions-table
+    .table
+    tr
+    td
+    p {
+    font-size: 10px;
+  }
+
+  .accordion.style-2 .card .card-body li {
+    margin: 1px 0;
+  }
+
+  .accordion.style-2 .card .card-body ul {
+    font-size: 13px;
+  }
+
+  .accordion.style-2
+    .card
+    .card-body
+    .new-additional-block
+    .additional-heading
+    h6 {
+    font-size: 11px;
+  }
+
+  .accordion.style-2 .card .card-body .new-additional-block .form-check-label {
+    font-size: 12px;
+  }
+
+  .basket-banner .accordion.style-2 .card .card-body {
+    padding: 6px 11px;
+  }
+
+  .basket-banner .basket-row {
+    padding-top: 40px;
+  }
+
+  .basket-banner .basket-row .special-inclusions .heading p {
+    font-size: 21px;
+  }
+
+  .basket-table .table tr.bg-blue-line-1 p input::placeholder {
+    font-size: 13px;
+  }
+
+  .basket-table .table tr.bg-blue-line-1 p input {
+    margin-left: 8px;
+  }
+
+  .skill-programs-section .program-cards .top-block h4 {
+    font-size: 13.1605px;
+  }
+
+  .skill-programs-section .program-cards .top-block {
+    padding: 15px 15px 10px;
+  }
+
+  .programs-btn.transparent {
+    font-size: 12px;
+  }
+
+  .skill-programs-section .program-cards .top-block p {
+    margin-bottom: 11px;
+  }
+
+  .skill-programs-section .programs-heading h2 {
+    font-size: 25px;
+  }
+
+  .skill-programs-section .programs-heading {
+    margin-bottom: 8px;
+  }
+
+  .eligiblity-form-filds.pgp-mnanagement .eligiblity-block h1 {
+    padding-bottom: 0px;
+    margin-bottom: 0 !important;
+    line-height: 35px;
+    font-size: 31px;
+}
+
+  .roadmap-success-section .review-wrapper-sec .inner-wrapper {
+    max-width: 100%;
+  }
+
+  .programs-btn.program-btn-1 {
+    max-width: 95%;
+    width: 88%;
+  }
+
+  .having_dought_mobile .inner_wrapper p {
+    margin: 0;
+    font-size: 10px;
+  }
+
+  .having_dought_mobile .inner_wrapper.full_inner_1 {
+    padding: 20px 10px;
+  }
+
+  .eligiblity-form-filds .select-plan ul li img {
+    margin-right: 5px;
+    width: 7%;
+  }
+
+  .recommended-plan.enrollment-wrapper .plan-green-block p span {
+    font-size: 11px;
+  }
+
+  .recommended-plan.enrollment-wrapper .plan-green-block p {
+    font-size: 10px;
+  }
+
+  .recommended-heading {
+    font-size: 12px;
+    padding: 8px 0px 30px;
+  }
+
+  .eligiblity-form-filds .select-plan ul li {
+    font-size: 12px;
+  }
+
+  .eligiblity-form-filds .select-plan .buttons .view-plan {
+    font-size: 10px;
+  }
+
+  .eligiblity-form-filds .select-plan .buttons .theme_btn.tertiary {
+    font-size: 13.5268px;
+    padding: 0px 10px;
+  }
+
+  .eligiblity-form-filds .select-plan ul li {
+    font-size: 12px;
+    padding: 3px 0;
+  }
+
+  .dashboard-profile-div {
+    height: 40px;
+    width: 40px;
+  }
+
+  .eligiblity-form-sec.student-dashboard
+    .input-form
+    .form-group
+    input::placeholder {
+    font-size: 15px;
+  }
+
+  .mobile_tab_content_show .basket-row {
+    padding-top: 0;
+  }
+
+  .eligiblity-form-sec.student-dashboard.select-plan
+    .mobile_tab_content_show
+    .eligiblity-block
+    h1 {
+    font-size: 25px;
+    line-height: 29px;
+    margin: 2px 0 15px !important;
+  }
+
+  .mobile_tab_content_show .basket-banner {
+    padding-bottom: 0px;
+  }
+
+  .mobile_tab_content_show .basket-row {
+    padding-top: 0;
+    flex: 0 0 96.666667%;
+    /* max-width: 74.666667%; */
+  }
+
+  .scholarship_row .irpUny {
+    width: 100% !important;
+    max-width: 67vw !important;
+    height: 30vh !important;
+    margin: auto;
+    margin-top: -50px !important;
+  }
+
+  .mobile_tab_content_show .basket-row.scholarship_basket_row {
+    padding-top: 0;
+    flex: 0 0 96.666667%;
+    max-width: 74.666667%;
+  }
+
+  .green_block_test p {
+    font-size: 22.3104px;
+  }
+
+  .calculator-sec .all-range-inputs .form-row.range-input-group {
+    margin: 10px 0;
+  }
+
+  .calculator-sec .all-range-inputs .form-row.range-input-group label {
+    font-size: 16px;
+  }
+
+  .development-course .circle-img .list-menu {
+    width: 91%;
+  }
+  .landing-placed-section .inner-wrapper h4 {
+    font-size: 23px;
+  }
+
+  .career-ready-sec .career-ready-block h5 {
+    font-size: 35px;
+  }
+
+  .landing-placed-section .inner-wrapper img {
+    /* width: 44%; */
+    margin: auto;
+  }
+  .landing-select-type-sec .left_img img {
+    width: 60%;
+  }
+
+  .landing-select-type-sec .select-type-heading {
+    font-size: 27.8206px;
+    margin-bottom: 23px;
+
+  }
+
+  .landing-select-type-sec .select_type_timeline .banne-outer-timer {
+    margin-top: 36px;
+}
+
+  .landing-select-type-sec .small {
+    height: auto;
+    top: -3px;
+    border-radius: 17px;
+    padding: 9px 14px;
+  }
+
+  .landing-select-type-sec .large {
+    width: 236px;
+    right: auto;
+  }
+
+  .landing-select-type-sec .center_or {
+    padding-left: 120px;
+    font-size: 16px;
+  }
+
+  .landing-select-type-sec .timeline-pop ol li:before {
+    left: 12px;
+    top: 19px;
+    width: 6px;
+    height: 403%;
+}
+
+  .client-section .main-heading {
+    font-size: 23px;
+  }
+
+  .well_place_program .section-heading h1 {
+    font-size: 33px;
+  }
+
+  .well_place_program .section-heading p {
+    font-size: 17px;
+    line-height: 23px;
+  }
+
+  .well_place_program .program-left-wrapper .section-heading.greens-heading {
+    font-size: 18px;
+  }
+
+  .well_place_program .program-left-wrapper .section-heading {
+    font-size: 20px;
+  }
+
+  .well_place_program .program-left-wrapper .section-heading span {
+    font-size: 22px;
+    height: 29px;
+    width: 29px;
+  }
+
+  .well_place_program .program-left-wrapper .section-heading {
+    margin: 42px 0 34px;
+  }
+
+  .well_place_program .well_place_program_tio_margin {
+    margin-top: 39px;
+  }
+
+  .well_place_program
+    .program-left-wrapper
+    .skilled-based-inner-wrapper
+    .inner-item
+    .technical-list
+    ul.skill-list
+    li {
+    padding: 2px 12px;
+  }
+
+  .select-program-tab-sec
+    .tab-select
+    .tab-content
+    .tab-pane
+    ul.curriculum_list.list_items
+    li {
+    font-size: 13px;
+    margin: 7px 0;
+  }
+
+  .select-program-tab-sec
+    .tab-select
+    .tab-content
+    .tab-pane
+    ul.curriculum_list.list_items.list_items_1 {
+    padding-left: 28px;
+  }
+
+  .both-route-chart
+    .eligiblity-form-filds
+    .select-plan.direct-placement-card
+    .plan-green-block
+    p
+    span {
+    font-size: 15px;
+  }
+
+  .both-route-chart
+    .eligiblity-form-filds
+    .select-plan.direct-placement-card
+    .plan-green-block
+    .price-tag {
+    font-size: 6px;
+    line-height: 93.5%;
+  }
+
+  .both-route-chart
+    .eligiblity-form-filds
+    .select-plan.direct-placement-card
+    .plan-transprant-block
+    p {
+    font-size: 9px;
+  }
+
+  .both-route-chart
+    .eligiblity-form-filds
+    .select-plan.direct-placement-card
+    .plan-transprant-block
+    .price {
+    padding: 0px 0;
+    font-size: 26px;
+  }
+
+  .both-route-chart
+    .eligiblity-form-filds
+    .select-plan.direct-placement-card
+    .plan-transprant-block
+    ul
+    li {
+    padding: 2px 0;
+    font-size: 9px;
+  }
+
+  .both-route-chart
+    .eligiblity-form-filds
+    .select-plan.direct-placement-card
+    .plan-transprant-block
+    ul
+    li
+    img {
+    margin-right: 5px;
+    width: 5%;
+    position: relative;
+    top: 2px;
+  }
+
+  .both-route-chart
+    .eligiblity-form-filds
+    .select-plan.direct-placement-card
+    .plan-transprant-block
+    .buttons
+    .theme_btn.tertiary {
+    padding: 1px 19px;
+    font-size: 11px;
+    line-height: 19px;
+  }
+
+  .both-route-chart
+    .recommended-heading.recommended-heading-1.direct-placement-heading {
+    padding: 5px 0 28px;
+    font-size: 10px;
+  }
+
+  .learning-mathod
+    .learning-method-wrapper
+    .recommended-plan.enrollment-wrapper
+    .plan-green-block
+    h3 {
+    font-size: 22px;
+  }
+
+  .upload_docs_wrappper .upload-buttons label {
+    font-size: 16px;
+  }
+
+  .accordion.style-2 .card .card-body .new-additional-block .form-check-label {
+    font-size: 10px;
+  }
+
+  .basket-banner
+    .basket-row
+    .special-inclusions
+    .special-inclusions-table
+    .table
+    tr
+    td {
+    /* vertical-align: middle; */
+    padding: 6px 5px;
+    border: 0;
+  }
+
+  .basket-banner
+    .basket-row
+    .special-inclusions
+    .special-inclusions-table
+    .table
+    tr
+    td
+    h4 {
+    font-size: 16px;
+  }
+
+  .accordion.style-2 .card-header {
+    font-size: 13px;
+  }
+
+  .basket-banner .basket-row .summary-table h2 {
+    font-size: 26px;
+    margin-top: 32px;
+  }
+
+  .well_place_program .accordion.style-2 .card .card-body {
+    padding: 5px 0px 18px;
+  }
+
+  .direct-placement .increase-chart-graph h4 {
+    font-size: 35px;
+    line-height: 91%;
+    margin-bottom: 12px;
+  }
+
+  .direct-placement .increase-chart-graph .increase-chart-graph-slider p {
+    font-size: 13px;
+    padding: 0 0px;
+    line-height: 14px;
+  }
+
+  .landing-banner.well_place_having_dought
+    .basket-row
+    .summary-table
+    .table-responsive-xl.special-inclusions-table {
+    width: 392px;
+    margin: auto;
+    margin-left: -18px;
+  }
+
+  .well_place_program .nav-tabs {
+    width: 81%;
+  }
+
+  .contect-us-page .contect-right-wrapper {
+    padding: 30px;
+  }
+
+  .irpUny {
+    width: 100%;
+    max-width: 60vw !important;
+    margin-bottom: 28px;
+  }
+
+  .career-ready-sec .career-ready-block p {
+    margin: 0px 0 0px;
+    font-size: 15px;
+  }
+
+  .landing-faq.faq-sec .card-header {
+    font-size: 15px;
+  }
+
+  .landing-faq.faq-sec .card .card-body p {
+    line-height: 22px;
+    padding-left: 14px;
+    margin-bottom: 0;
+    font-size: 16px;
+  }
+
+  .landing-faq.faq-sec .card .card-body {
+    padding: 18px 8px 20px 26px;
+  }
+
+  .select-program-tab-sec.roadmap-success-section .tab-select .tab-content {
+    max-width: 83%;
+  }
+
+  .basket-banner.certificate-section-hover .basket-row .basket-table {
+    max-width: 100%;
+  }
+
+  .modal.sign-in-modal.test-submit-modal p {
+    font-size: 11px;
+  }
+
+  .modal.sign-in-modal.test-submit-modal.congratulations-popup
+    .modal-dialog
+    .modal-content {
+    padding: 17px 20px 10px;
+  }
+
+  .sign-in-modal .ready-list .test-box .theme_btn.tertiary {
+    font-size: 17.1904px;
+    line-height: 28px;
+    padding: 1px 27px;
+  }
+
+  section.eligiblity-form-sec.papp_firm_sec {
+    padding-top: 84px;
+  }
+
+  .scholarship-modal.disclaimer-modal .modal-body .alert-warning {
+    width: 100%;
+  }
+
+  .scholarship-modal.disclaimer-modal .modal-body ul {
+    max-width: 88%;
+  }
+
+  .scholarship-modal.disclaimer-modal .modal-body ul li {
+    font-size: 10px;
+    margin: 0px 0px;
+    line-height: 14px;
+  }
+
+  .scholarship-modal.disclaimer-modal .modal-body .scholarship-table {
+    width: 100%;
+    width: 100%;
+  }
+
+  .sign-in-modal.test-submit-modal.scholarship-modal.disclaimer-modal
+    .test-box {
+    padding-top: 0px;
+  }
+
+  .scholarship-modal.disclaimer-modal .modal-body .header h2 {
+    font-size: 27px;
+    margin-bottom: 10px;
+  }
+
+  .sign-in-modal.test-submit-modal.scholarship-modal.disclaimer-modal
+    .modal-dialog
+    .modal-content {
+    padding: 2px 7px 5px;
+    border-radius: 71px;
+  }
+
+  .eligiblity-option-header .logo{
+    width: 150px;
+  }
+
+  .landing-banner .landing-banner-sec .banner-left-block .theme_btn img {
+    width: 19%;
+}
+
+.landing-banner .landing-banner-sec .banner-left-block .trusted-para {
+  padding-top: 33px;
+  font-size: 15px;
+}
+
+.client-section .client-card-block .card-right-content .company-logo p {
+  font-size: 14px;
+  line-height: 22px;
+  display: block;
+  text-align: right;
+  display: flex;
+  justify-content: flex-end;
+  flex-direction: column;
+  align-items: flex-end;
+}
+
+section.eligiblity-form-sec.select_status_modile {
+  padding: 91px 0 30px;
+}
+
+section.eligiblity-form-sec.select_status_modile .row.eligiblity-form-filds p {
+  font-size: 12px;
+  line-height: 13px;
+  margin-top: 12px;
+}
+
+.eligiblity-block h1 {
+  font-size: 26px;
+  margin: 0;
+  padding-bottom: 0 !important;
+  line-height: 24px;
+}
+
+.eligiblity-filds-block-2.select-status {
+  padding: 14px 26px 30px;
+  margin-top: 39px;
+}
+
+.eligiblity-filds-block-2.select-status p {
+  font-size: 15px!important;
+}
+
+.select-status .element-select-status img {
+  width: 41%;
+}
+
+.select-status .element-select-status img {
+  width: 43%;
+}
+
+.select-status .element-select-status a {
+  font-size: 15px;
+  line-height: 19px;
+}
+
+.select-status .element-select-status {
+  margin-top: 20px;
+  padding: 11px 16px;
+  width: 94%;
+  margin: auto;
+  margin-top: 20px;
+  border-radius: 12px;
+}
+
+.row.eligiblity-form-filds .eligiblity-block-2 .number {
+  font-size: 24px;
+  line-height: 25px;
+  margin-top: -2px;
+}
+
+section.eligiblity-form-sec.select_status_modile .row.eligiblity-form-filds .tab-pane p{
+  margin-top: 0;
+}
+
+.increase-chart-graph .increase-chart-graph-slider h4{
+  font-size: 25px;
+    padding-left: 0;
+    /* margin-top: -16px; */
+    margin-bottom: 10px;
+}
+
+.increase-chart-graph .increase-chart-graph-slider.mobile-slide {
+  padding-bottom: 20px;
+}
+
+.skilled-based-packaged h3 {
+  font-size: 18px;
+}
+
+.row.eligiblity-form-filds .skilled-based-packaged p {
+  font-size: 9px;
+  padding: 0 10px;
+  line-height: 12px;
+}
+
+.skilled-based-packaged-list {
+  padding: 20px 9px 14px;
+}
+
+.eligiblity-form-sec.programs_page_mobile {
+  padding: 96px 0 41px;
+}
+.roadmap-success-section .accordion.style-2 .card-header span {
+  margin: 0 5px 0 8px;
+  font-size: 7px;
+  line-height: 8px;
+  letter-spacing: 0.8px;
+}
+
+.select-program-tab-sec .tab-select .tab-content .tab-pane .role-category-sec ul li {
+  font-size: 13px;
+  padding: 13px 11px;
+  margin: 7px 8px;
+}
+
+.eligiblity-form-filds.pgp-mnanagement .eligiblity-block img {
+  padding: 0 0 19px!important;
+}
+
+.row.eligiblity-form-filds.pgp-mnanagement .eligiblity-block-2 {
+  padding-top: 4px;
+}
+
+section.eligiblity-form-sec.papp_firm_sec {
+  padding-bottom: 18px;
+}
+
+.select-program-tab-sec.roadmap-success-section.model_papp_section_mobile .tab-select .tab-content {
+  padding-top: 20px;
+}
+
+.eligiblity-form-sec.payment_model_main_wrapper {
+  padding: 56px 0 30px;
+}
+
+.payment_model_main_wrapper .eligiblity-block {
+  padding-bottom: 4px;
+}
+
+.having_dought_mobile .inner_wrapper img {
+  padding-top: 10px;
+  width: 44%;
+}
+
+.landing-banner.basket-banner.certificate-section-hover {
+  padding-bottom: 2px;
+  padding-top: 98px;
+}
+
+.client-logo.mt-5.five_show {
+  margin-top: 5px !important;
+}
+
+.programs-btn img {
+  width: 25px;
+  height: 11px;
+}
+
+.programs-btn {
+  padding: 6px 4px;
+  font-size: 10px;
+}
+
+.skill-programs-section .program-cards .bottom-block ul li i {
+  font-size: 5px;
+}
+
+.skill-programs-section .program-cards .bottom-block form input[type="checkbox"] {
+  height: 8px;
+  width: 10px;
+}
+
+section.eligiblity-form-sec.student-dashboard.select-plan.range-slider-plan.five_show {
+  padding-top: 97px;
+}
+
+.green_block_test {
+  padding: 6px 17px;
+  margin-top: 12px;
+}
+
+.green_block_test.green_block_test_2 {
+  margin-top: -42px;
+  margin-bottom: 19px;
+}
+
+.eligiblity-form-sec.student-dashboard.select-plan .mobile_tab_content_show .eligiblity-block h1 {
+  font-size: 18px;
+  line-height: 18px;
+}
+
+.eligiblity-form-sec.student-dashboard.select-plan .mobile_tab_content_show .eligiblity-block p{
+  font-size: 15px;
+}
+
+.direct-placement-route1 .eligiblity-result-modal .score-miter p{
+  /* margin-bottom: 6px; */
+}
+.upload_docs_wrappper {
+  margin-top: 24px;
+  margin-bottom: 6px;
+}
+
+.upload_docs_wrappper .upload-buttons {
+  /* margin-bottom: 0px; */
+  padding: 3px 10px;
+}
+
+.range-inner-wrapper {
+  margin-top: 17px;
+}
+
+.submitTestModal.warning-msg .modal-body p {
+  font-size: 13px;
+}
+
+.counter-section .counter-inner h4 {
+  font-size: 25.6629px;
+  line-height: 18px;
+}
+
+.counter-section .counter-inner {
+  height: 128px;
+}
+
+.edit_dashboard_content .upload_docs_wrappper .upload-buttons {
+  width: 88%;
+}
+
+.eligiblity-form-filds .select-plan.direct-placement-card .plan-transprant-block .price {
+  padding: 9px 0 3px;
+  font-size: 30px;
+  line-height: 30px;
+}
+
+.client-section .client-card-block .card-right-content .company-logo img {
+  /* margin-top: 3px; */
+  width: 35%;
+}
+
+.eligiblity-form-filds .select-plan.direct-placement-card .plan-transprant-block .new-additional-block .form-check-input {
+  top: -6px;
+  width: 9px;
+}
+
+.eligiblity-form-sec.student-dashboard.select-plan .range-slider-tab .range-slider-sec .range-list p{
+  margin-top: 0px!important;
+}
+
+.student-dashboard.select-plan.form-select-verification .tab-content .verification-form .upload-buttons {
+  width: 92%;
+  margin-top: 4px;
+  margin-bottom: 9px;
+  margin-left: 15px;
+}
+
+.student-dashboard.select-plan.form-select-verification .tab-content .verification-form .upload-buttons img {
+  width: 16%;
+}
+
+.range-input-group .css-eg0mwd-MuiSlider-thumb {
+  top: 52% !important;
+}
+
+.contect-us-page .contect-left-wrapper h1 {
+  font-size: 32px;
+}
+
+.contect-us-page .contect-left-wrapper p {
+  margin: 16px 0 35px;
+}
+
+}
+
+@media (max-width: 430px) {
+  .theme_btn.tertiary img {
+    width: 32px;
+  }
+  .development-course .circle-img .list-menu {
+    width: 100%;
+  }
+
+  .select-program-tab-sec.roadmap-success-section .tab-select .tab-content {
+    max-width: 79%;
+  }
+  .basket-banner
+    .basket-row
+    .summary-table
+    .table-responsive-xl.special-inclusions-table {
+    background: #f3f7f7;
+    border-radius: 24px;
+    padding: 39px 21px;
+  }
+
+  .skill-programs-section .program-cards .bottom-block form .form-check-label {
+    font-size: 9px;
+  }
+
+  .programs-btn {
+    padding: 7px 4px;
+  }
+
+  .skill-programs-section .program-cards .top-block h4 {
+    font-size: 12.1605px;
+  }
+  .row.eligiblity-form-filds p {
+    font-size: 14px;
+  }
+
+  .counter-section {
+    padding-bottom: 50px;
+  }
+
+  .roadmap-success-section .career-wrapper-sec .full_break {
+    flex: 0 0 100%;
+    max-width: 50%;
+    margin: auto;
+  }
+
+  .eligiblity-form-sec .plan_view_mobile {
+    flex: 0 0 100%;
+    /* max-width: 74%; */
+    /* margin: auto; */
+    padding: 0 3px;
+  }
+
+  .eligiblity-form-filds .select-plan.select-plan-2 {
+    margin-top: 26px;
+  }
+
+
+  .eligiblity-form-filds .select-plan .buttons .view-plan {
+    margin-bottom: 7px;
+  }
+
+  .green_block_test p {
+    font-size: 19.3104px;
+  }
+
+ 
+
+  .scholarship_row .irpUny {
+    width: 100% !important;
+    max-width: 76vw !important;
+    height: 30vh !important;
+    margin: auto;
+    margin-top: -67px !important;
+    background: transparent !important;
+  }
+
+  .eligiblity-form-filds.dashboard_plan_privacy .plan_view_mobile {
+    flex: 0 0 100%;
+    max-width: 73%;
+    margin: auto;
+  }
+
+  .eligiblity-form-filds .select-plan.select-plan-1 ul {
+    padding-bottom: 14px;
+  }
+
+  .basket-banner
+    .basket-row
+    .summary-table
+    .table-responsive-xl.special-inclusions-table {
+    width: 312px;
+    margin: auto;
+  }
+
+  .calculator-sec .all-range-inputs .form-row.range-input-group {
+    max-width: 100%;
+    margin: auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: nowrap;
+    margin: 10px 0;
+  }
+
+  .review-sec .review-slide .review-content p {
+    font-size: 13px;
+    line-height: 21px;
+  }
+
+  .review-sec .review-slide .review-content {
+    padding: 23px 20px 15px;
+  }
+
+  .career-ready-sec .career-ready-block p {
+    font-size: 17px;
+    margin-bottom: 0;
+  }
+
+  .client-section
+    .client-card-block
+    .card-right-content
+    .card-flex
+    .right-wrapper {
+    width: 82px;
+    height: 82px;
+  }
+
+  .scholarship-modal.disclaimer-modal .modal-body ul {
+    padding: 0px 0 13px;
+    padding-left: 18px;
+  }
+
+  .scholarship-modal.disclaimer-modal .modal-body ul li {
+    font-size: 11px;
+    text-align: left;
+    line-height: 19px;
+  }
+
+  .scholarship-modal.disclaimer-modal .modal-body p {
+    margin: 0;
+  }
+
+  .scholarship-modal.disclaimer-modal .modal-body .header {
+    margin-bottom: 9px;
+  }
+
+  .scholarship-modal.disclaimer-modal .modal-body .alert-warning p {
+    font-size: 12px;
+    text-align: left !important;
+    padding-left: 8px;
+    line-height: 16px;
+    margin: 0;
+  }
+
+  .scholarship-modal .scholarship-table .special-inclusions-table tr td {
+    padding: 0px 5px;
+    font-size: 11px;
+  }
+
+  .scholarship-modal.disclaimer-modal .modal-body .theme_btn {
+    padding: 0 10px;
+    line-height: 12px;
+    margin: 0;
+    font-size: 13px;
+    height: 31px;
+    display: flex;
+    align-items: center;
+  }
+
+  .learning-mathod .learning-method-wrapper .shadow_box {
+    max-width: 75%;
+  }
+
+  .well_place_program
+    .skilled-based-packaged-list.program-left-wrapper.program-last-wrapper
+    .right-block
+    a {
+    font-size: 14px;
+    text-align: center;
+    justify-content: center;
+  }
+
+  .landing-banner.well_place_having_dought
+    .basket-row
+    .summary-table
+    .table-responsive-xl.special-inclusions-table {
+    width: 339px;
+    margin: auto;
+    margin-left: -18px;
+    padding: 20px;
+  }
+
+  .client-section
+    .client-card-block
+    .card-right-content
+    .card-flex
+    .right-wrapper.lpa-percentage
+    p {
+    font-size: 10.2453px;
+  }
+
+  .client-section .client-card-block .card-right-content .company-logo img {
+    width: 49%;
+    /* margin: auto; */
+  }
+
+  .client-section .client-card-block .card-right-content .company-logo p {
+    font-size: 14px;
+    line-height: 22px;
+    display: block;
+    text-align: right;
+    display: flex;
+    justify-content: flex-end;
+    flex-direction: column;
+    align-items: flex-end;
+  }
+
+  .irpUny {
+    width: 100%;
+    max-width: 66vw !important;
+  }
+
+  .select-status .element-select-status {
+    margin-top: 20px;
+    padding: 11px 16px;
+  }
+
+
+
+  .roadmap-success-section .career-wrapper-sec .inner-wrapper {
+    padding: 1px 12px;
+    max-width: 100%;
+    height: 181px;
+  }
+
+  .roadmap-success-section .tab-select .tab-content .tab-pane .career-wrapper-sec .inner-wrapper ul li {
+    font-size: 8px;
+}
+
+  .select-program-tab-sec.roadmap-success-section
+    .tab-select
+    .tab-content
+    .tab-pane
+    p {
+    font-size: 11px;
+  }
+
+  .roadmap-success-section
+    .review-wrapper-sec
+    .inner-wrapper
+    .profile-block
+    h6 {
+    font-size: 16px;
+  }
+
+  .counter-section .counter-inner {
+    max-width: 87%;
+  }
+
+  .student-dashboard
+    .tab-content.edit_dashboard_content
+    .range-list
+    .upload_profile
+    p {
+    font-size: 12px;
+  }
+
+  .student-dashboard .tab-content.edit_dashboard_content .circle {
+    width: 107px;
+    height: 112px;
+  }
+
+  .direct-placement-route.direct-placement-route1 .eligiblity-result-modal .score-miter .right-block.fresher-test {
+    width: 89%;
+  }
+
+  section.eligiblity-form-sec.select_status_modile {
+    padding: 91px 0 30px;
+  }
+  
+  section.eligiblity-form-sec.select_status_modile .row.eligiblity-form-filds p {
+    font-size: 12px;
+    line-height: 13px;
+    margin-top: 12px;
+  }
+  
+  .eligiblity-block h1 {
+    font-size: 26px;
+    margin: 0;
+    padding-bottom: 0 !important;
+    line-height: 24px;
+  }
+  
+  .eligiblity-filds-block-2.select-status {
+    padding: 14px 26px 30px;
+    margin-top: 39px;
+  }
+  
+  .eligiblity-filds-block-2.select-status p {
+    font-size: 15px!important;
+  }
+  
+  .select-status .element-select-status img {
+    width: 41%;
+  }
+  
+  .select-status .element-select-status img {
+    width: 43%;
+  }
+  
+  .select-status .element-select-status a {
+    font-size: 15px;
+    line-height: 19px;
+  }
+  
+  .select-status .element-select-status {
+    margin-top: 20px;
+    padding: 11px 16px;
+    width: 94%;
+    margin: auto;
+    margin-top: 20px;
+    border-radius: 12px;
+  }
+  
+  .row.eligiblity-form-filds .eligiblity-block-2 .number {
+    font-size: 24px;
+    line-height: 25px;
+    margin-top: -2px;
+  }
+}
+
+@media (max-width: 400px) {
+  .landing-select-type-sec .center_or {
+    padding-left: 108px;
+    font-size: 16px;
+  }
+  .landing-select-type-sec .large {
+    width: 203px;
+    right: auto;
+  }
+
+  .landing-select-type-sec .large .flip_sec_card .right_wrapper p.content {
+    font-size: 7px;
+    line-height: 8px;
+    margin-top: 3px;
+  }
+
+  .landing-select-type-sec .large .flip_sec_card .right_wrapper ul li {
+    font-size: 6px;
+    padding: 0px 5px;
+    margin: 1px 1px;
+    line-height: 12px;
+  }
+
+  .landing-select-type-sec .small {
+    padding: 4px 14px;
+  }
+
+  .landing-select-type-sec .cardss p {
+    font-size: 14px;
+    margin: 5px 0 6px;
+  }
+
+  .landing-select-type-sec .large .flip_sec_card .right_wrapper {
+    padding: 0;
+  }
+
+  .client-section .client-card-block .card-right-content h4 {
+    font-size: 22.8718px;
+  }
+
+  .client-section .client-card-block .card-right-content .card-flex p strong {
+    font-size: 8px;
+  }
+  .client-section .client-card-block .card-right-content .card-flex p {
+    padding-bottom: 5px;
+  }
+
+  .eligiblity-form-filds.pgp-mnanagement .eligiblity-block h1 {
+    font-size: 34px;
+  }
+
+  .scholarship-test .scholarship-test-wrapper h6 {
+    font-size: 27px;
+  }
+
+  .scholarship-test
+    .scholarship-test-wrapper
+    .scholarship-table
+    .special-inclusions-table
+    tr
+    td {
+    font-size: 14px;
+    white-space: nowrap;
+  }
+  .having_dought_mobile .inner_wrapper p {
+    margin: 0;
+    font-size: 9px;
+  }
+
+  .client-section .client-card-block .card-right-content .company-logo img {
+    /* margin-top: 3px; */
+    /* width: 60%; */
+    position: relative;
+    right: 0px;
+    display: flex;
+    justify-content: flex-end;
+    /* margin: auto; */
+  }
+
+  .client-section .client-card-block .card-right-content .company-logo p {
+    text-align: right;
+  }
+
+  .well_place_program .section-heading p {
+    font-size: 12px;
+    line-height: 18px;
+  }
+
+  .eligiblity-form-filds
+    .select-plan.direct-placement-card
+    .plan-green-block
+    .price-tag {
+    font-weight: 400;
+    font-size: 7px;
+  }
+
+  .eligiblity-form-filds
+    .select-plan.direct-placement-card
+    .plan-transprant-block
+    ul
+    li {
+    font-size: 8px;
+  }
+
+  .eligiblity-form-filds .select-plan ul li img {
+    margin-right: 5px;
+    width: 7%;
+    position: relative;
+    top: 3px;
+  }
+  .eligiblity-form-filds
+    .select-plan.direct-placement-card
+    .plan-transprant-block
+    .new-additional-block
+    .form-check-label {
+    font-size: 8px;
+  }
+
+  .eligiblity-form-filds
+    .select-plan.direct-placement-card
+    .plan-transprant-block
+    .buttons
+    .theme_btn.tertiary {
+    font-size: 13px;
+    line-height: 23px;
+  }
+
+  .client-section
+    .client-card-block
+    .card-right-content
+    .card-flex
+    .right-wrapper.lpa-percentage
+    p {
+    font-size: 9.2453px;
+  }
+
+  .landing-banner.well_place_having_dought
+    .basket-row
+    .summary-table
+    .table-responsive-xl.special-inclusions-table {
+    width: 344px;
+    margin: auto;
+    margin-left: -18px;
+    padding: 20px;
+  }
+  .irpUny {
+    width: 100%;
+    max-width: 68vw !important;
+    margin-bottom: 28px;
+  }
+
+  .recommended-plan.enrollment-wrapper .plan-green-block {
+    padding: 9px 13px;
+  }
+
+  .eligiblity-form-filds
+    .select-plan.direct-placement-card
+    .plan-green-block
+    p
+    span {
+    font-weight: 700;
+    font-size: 16px;
+  }
+  .landing-select-type-sec .timeline-pop ol li:before {
+    left: 12px;
+    top: 28px;
+    width: 6px;
+    height: 381%;
+}
+
+  .roadmap-success-section
+    .review-wrapper-sec
+    .inner-wrapper
+    .profile-block
+    img {
+    width: 33%;
+  }
+
+  
+.fotter_mobile_alignment{
+  display: flex;
+  justify-content: center;
+}
+}
+
+@media (max-width: 380px) {
+  .development-course .circle-img ul li {
+    margin: 12px 0;
+    font-size: 11px;
+  }
+
+  .sign-in-modal .sign-up-form input.form-control.mobile_number_input {
+    width: 100%;
+  }
+
+  .sign-in-modal .sign-up-form label.enter_number {
+    font-size: 17px;
+    margin-bottom: 8px;
+  }
+
+  .sign-in-modal .modal-body {
+    padding: 10px 0;
+  }
+
+  .login-warning-msg {
+    font-size: 15px;
+  }
+
+  .eligiblity-block h1 {
+    font-size: 34px;
+    padding-bottom: 0 !important;
+  }
+
+  .eligiblity-form-sec {
+    padding: 141px 0 160px;
+  }
+
+  .select-status .nav-tabs .nav-item .nav-link {
+    font-size: 13px;
+    padding: 0px 27px;
+    line-height: 25px;
+  }
+
+  .custom-control {
+    margin: 1px 0;
+  }
+
+  .eligiblity-filds-block-2 .right-block .theme_btn.tertiary {
+    font-size: 13px;
+  }
+
+  .sign-in-modal .ready-list h2 {
+    font-size: 27px;
+    margin: 0;
+  }
+
+  .landing-banner .landing-banner-sec .banner-left-block h1 {
+    font-size: 22.8206px;
+    max-width: 100%;
+  }
+  .landing-banner .landing-banner-sec .banner-left-block p {
+    font-size: 15.0657px;
+    max-width: 93%;
+  }
+
+  .landing-skills-ways-list ul li p {
+    font-size: 24px;
+  }
+
+  .landing-skills-mobile {
+    margin-bottom: 38px;
+  }
+
+  .landing-section-heading h2 {
+    font-size: 31px;
+    margin: 0;
+  }
+
+  .landing-section-heading {
+    margin-bottom: 16px;
+  }
+
+  .client-section .client-card-block .card-right-content h4 {
+    font-size: 32.8718px;
+  }
+
+  .client-section .client-card-block .card-right-content h4 {
+    font-size: 15.8718px;
+    line-height: 11px;
+  }
+
+  .client-section
+    .client-card-block
+    .card-right-content
+    .card-flex
+    .right-wrapper
+    h3 {
+    font-size: 22px;
+    line-height: 25px;
+  }
+
+  .client-section .client-card-block .card-right-content .card-flex a {
+    font-size: 12px;
+    margin-top: 0;
+    padding: 0 7px;
+    line-height: 20px;
+  }
+
+  .landing-select-type-sec .timeline-pop li .timeline_content p {
+    font-size: 14px;
+  }
+
+  .client-section .client-card-block .card-right-content .line-para {
+    font-size: 11px;
+    line-height: 15px;
+    padding-bottom: 20px;
+  }
+
+  .client-section .client-card-block .card-right-content .company-logo p {
+    font-size: 14px;
+    line-height: 22px;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    align-items: flex-end;
+  }
+
+  .client-section .client-card-block .card-right-content .company-logo img {
+    width: 44%;
+  }
+
+  .career-ready-sec .career-ready-block h5 {
+    font-size: 29px;
+  }
+
+  .career-ready-block {
+    padding: 0 0px;
+  }
+
+  .career-ready-sec .career-right-block ul {
+    width: 100%;
+  }
+
+  .career-ready-sec .career-ready-block p {
+    font-size: 17px;
+  }
+
+  .landing-section-heading p {
+    font-size: 15px;
+  }
+
+  .landing-placed-section .inner-wrapper h4 {
+    font-size: 23px;
+    margin: 0;
+  }
+
+  .job-guarantee-section .guarantee-block h2 {
+    font-size: 34px;
+  }
+
+  .job-guarantee-section .guarantee-block h2 span {
+    margin-left: 10px;
+  }
+
+  .job-guarantee-section .guarantee-block-1 h6 {
+    font-size: 23.2063px;
+  }
+
+  .job-guarantee-section .guarantee-block-1 p {
+    font-size: 14px;
+  }
+
+  .job-guarantee-section .guarantee-block-1 ul li {
+    margin: 5px 16px;
+    padding: 6px 44px;
+  }
+
+  .job-guarantee-section .guarantee-block-1 {
+    padding-bottom: 21px;
+  }
+
+  .development-course .circle-img ul li {
+    font-size: 11px;
+  }
+
+  .development-course .circle-img .list {
+    margin-top: 22px;
+  }
+
+  .review-sec .review-slide .review-content .img {
+    margin-top: 5px;
+  }
+
+  .section-title.centered {
+    margin: 0 auto 30px;
+  }
+
+  .navbar .theme-logo img {
+    width: 187px;
+  }
+
+  .landing-banner .landing-banner-sec .banner-left-block {
+    padding-top: 31px;
+  }
+
+  .client-section .client-card-block .card-right-content .card-flex p {
+    line-height: 16px;
+  }
+
+  .skilled-based-packaged-list .buttons-div .theme_btn.tertiary {
+    padding: 8px 0px;
+    font-size: 11px;
+  }
+
+  .skilled-based-packaged h3 {
+    font-size: 20px;
+    padding: 6px 10px;
+  }
+
+  .skilled-based-packaged
+    .buttons-div
+    .right-block.fresher-test
+    .theme_btn.transparent {
+    font-size: 12px;
+    padding: 5px 10px;
+  }
+
+  .increase-chart-graph h4 {
+    font-size: 25px;
+  }
+  .row.eligiblity-form-filds .increase-chart-graph-slider.mobile-slide p {
+    font-size: 13px;
+    line-height: 20px;
+    padding: 0;
+  }
+
+  .having-doughts-sec .call-session .icon {
+    left: -9px;
+    width: 28%;
+    top: 5px;
+  }
+
+  .having-doughts-sec .call-session .number-cell a {
+    font-size: 13px !important;
+  }
+
+  .basket-banner
+    .basket-row
+    .summary-table
+    .table-responsive-xl.special-inclusions-table
+    p {
+    font-size: 13px;
+  }
+
+  .basket-table .right-block .theme_btn.tertiary {
+    font-size: 19px;
+    padding: 8px 14px;
+    border-radius: 7px;
+  }
+
+  .col-6.flex_width_hundred {
+    flex: 0 0 100%;
+    /* max-width: 80%; */
+    /* margin: auto; */
+    padding: 0 3px;
+  }
+
+  .skill-programs-section .program-cards .top-block h4 {
+    font-size: 15.1605px;
+  }
+
+  .skill-programs-section .program-cards .bottom-block form .form-check {
+    margin-bottom: 7px;
+  }
+
+  .skill-programs-section .program-cards .bottom-block form .form-check-label {
+    font-size: 8px;
+  }
+
+  .skill-programs-section .programs-heading {
+    margin-bottom: 8px;
+    margin-top: 0;
+  }
+
+  a.move-btn {
+    display: none;
+  }
+
+  .programs-btn.program-btn-1 {
+    max-width: 100%;
+    width: 100%;
+  }
+
+  .row.eligiblity-form-filds .eligiblity-block-2 {
+    padding-top: 34px;
+  }
+
+  .counter-section .counter-inner .counter-img img {
+    width: 55%;
+  }
+
+  .counter-section .counter-inner h4 {
+    font-size: 25.6629px;
+  }
+
+  .counter-section .counter-inner p {
+    font-size: 11.0438px;
+  }
+
+  .counter-section .counter-inner {
+    max-width: 84%;
+    height: 126px;
+    margin-bottom: 20px;
+  }
+
+  .eligiblity-form-filds.pgp-mnanagement .eligiblity-block h1 {
+    margin-bottom: 0 !important;
+    line-height: 35px;
+    font-size: 28px;
+  }
+
+  .roadmap-success-section .accordion.style-2 .card-header {
+    font-size: 19px;
+    padding: 3px 9px;
+}
+
+  .select-program-tab-sec.roadmap-success-section
+    .tab-select
+    .tab-content
+    .tab-pane
+    ul
+    li
+    img {
+    width: 65% !important;
+  }
+
+  .select-program-tab-sec
+    .tab-select
+    .tab-content
+    .tab-pane
+    ul.curriculum_list
+    li {
+    font-size: 22px;
+  }
+
+  .select-program-tab-sec.roadmap-success-section
+    .tab-select
+    .tab-content
+    .tab-pane
+    p {
+    font-size: 14px;
+    margin-bottom: 11px;
+  }
+
+  .select-program-tab-sec
+    .tab-select
+    .tab-content
+    .tab-pane
+    .theme_btn.tertiary {
+    width: fit-content;
+    font-size: 16px;
+    padding: 11px 35px;
+  }
+
+  .having_dought_mobile .absolute_div {
+    position: absolute;
+    left: 42%;
+    top: 47%;
+  }
+
+  .having_dought_mobile .full-inner {
+    flex: 0 0 46.666667%;
+    max-width: 46.666667%;
+    margin: auto;
+  }
+
+  .having_dought_mobile .absolute_div p {
+    font-size: 17px;
+  }
+
+  .having_dought_mobile .inner_wrapper p {
+    font-size: 10px;
+  }
+
+  .having_dought_mobile .heading_section h5 {
+    font-family: "Lexend";
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 109.5%;
+    color: #0e5f59;
+  }
+
+  .having_dought_mobile .heading_section p {
+    font-family: "Lexend";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 109.5%;
+    color: #0e5f59;
+  }
+
+  .eligiblity-block h1 {
+    font-size: 29px;
+  }
+
+  .verticle-timeline .timeline .timeline-container .timeline-body h4 {
+    font-size: 18px;
+    line-height: 21px;
+  }
+
+  .verticle-timeline .timeline .timeline-container .timeline-body p {
+    font-size: 13px;
+    line-height: 18px;
+    margin-bottom: 6px;
+  }
+
+  .eligiblity-form-sec.student-dashboard.select-plan
+    .having-doughts-sec
+    .call-session
+    .icon {
+    top: 1px;
+  }
+
+  .green_block_test p {
+    font-size: 18.3104px;
+  }
+
+  .student-dashboard .tab-content .dashboard-content h2 {
+    font-size: 32.834px;
+    margin-bottom: 12px;
+  }
+
+  .student-dashboard .tab-content .dashboard-content p {
+    max-width: 95%;
+    line-height: 20px;
+    font-size: 15px;
+  }
+
+  .form-group.scholarship-select {
+    padding: 0px 0 0px;
+    margin-bottom: 6px;
+  }
+
+  .scholarship_row .irpUny {
+    width: 100% !important;
+    max-width: 83vw !important;
+  }
+
+  .scholarship_row .buttons-div.mitter-btn .right-block {
+    width: 81%;
+    margin: auto;
+  }
+
+  .scholarship_row .buttons-div.mitter-btn .right-block .theme_btn {
+    width: 100%;
+  }
+
+  .scholarship_row .buttons-div.mitter-btn {
+    width: 96%;
+  }
+
+  .student-dashboard .tab-content .dashboard-content h2.h2 {
+    font-size: 30.834px;
+  }
+
+  .student-dashboard .tab-content .dashboard-content p.para {
+    max-width: 89%;
+    line-height: 18px;
+  }
+
+  .scholarship_row .irpUny {
+    height: 31vh !important;
+  }
+
+  .basket-banner
+    .basket-row
+    .summary-table
+    .table-responsive-xl.special-inclusions-table {
+    width: 275px;
+  }
+
+  .MuiSlider-mark {
+    width: 9px !important;
+    height: 9px !important;
+    top: 16px !important;
+  }
+
+  .MuiSlider-thumb {
+    width: 9px;
+    height: 9px;
+    margin-top: -4px;
+  }
+
+  .eligiblity-form-sec.student-dashboard.select-plan
+    .range-slider-tab
+    .range-slider-sec
+    .range-list
+    h3 {
+    font-size: 29px;
+  }
+  .eligiblity-form-sec.student-dashboard.select-plan
+    .range-slider-tab
+    .range-slider-sec
+    .range-list
+    ul
+    li {
+    margin: 3px 0;
+    font-size: 16px;
+  }
+
+  .calculator-sec .range-container .fresher-test .theme_btn {
+    font-size: 17px;
+  }
+
+  .MuiSlider-marked {
+    margin-bottom: 0px;
+  }
+
+  .all-range-inputs {
+    margin-top: 0px;
+  }
+
+  .job_ready_wrapper .col-4 {
+    padding: 0 5px;
+  }
+
+  .well_place_program
+    .program-left-wrapper
+    .skilled-based-inner-wrapper
+    .roadmap-success-section
+    .career-wrapper-sec
+    .row {
+    margin: 0 -5px;
+  }
+
+  .well_place_program
+    .program-left-wrapper
+    .skilled-based-inner-wrapper
+    .roadmap-success-section
+    .career-wrapper-sec
+    .col-4 {
+    padding: 0 4px;
+  }
+
+  .job_ready_wrapper .inner-wrapper::after {
+    right: -24px;
+  }
+
+  .well_place_program
+    .skilled-based-packaged-list.program-left-wrapper.program-last-wrapper
+    .right-block
+    a {
+    margin-top: 27px;
+    font-size: 16px;
+  }
+
+  .well_place_program
+    .program-left-wrapper
+    .skilled-based-inner-wrapper
+    .inner-item
+    p {
+    font-size: 13px;
+    line-height: 17px;
+    margin-top: 6px;
+  }
+
+  .well_place_program
+    .program-left-wrapper
+    .skilled-based-inner-wrapper
+    .roadmap-success-section
+    .career-wrapper-sec
+    .inner-wrapper
+    p {
+    font-size: 8.843px;
+    margin-bottom: 3px;
+  }
+
+  .well_place_program .program-left-wrapper .skilled-based-inner-wrapper .roadmap-success-section .career-wrapper-sec .inner-wrapper ul li {
+    font-size: 5.8692px;
+    margin: 2px 0;
+}
+
+  .well_place_program
+    .program-left-wrapper
+    .skilled-based-inner-wrapper
+    .roadmap-success-section
+    .career-wrapper-sec
+    .inner-wrapper {
+    height: 122px;
+    border-radius: 10px;
+  }
+  .skilled-based-packaged h3 {
+    font-size: 16px;
+    padding: 6px 10px;
+    line-height: 22px;
+    padding: 0;
+  }
+
+  .increase-chart-graph {
+    padding-left: 0px;
+    margin-top: 0;
+  }
+
+  section.eligiblity-form-sec.chart_mobile_padding {
+    padding: 108px 0 43px;
+  }
+
+  .row.eligiblity-form-filds p {
+    font-size: 11px;
+    padding: 0 10px;
+  }
+
+  .well_place_program .section-heading h1 {
+    font-size: 28px;
+  }
+
+  .well_place_program .section-heading p {
+    font-size: 15px;
+    line-height: 20px;
+  }
+
+  .well_place_program .program-left-wrapper .section-heading {
+    font-size: 16px;
+  }
+  .well_place_program .program-left-wrapper .section-heading.greens-heading {
+    font-size: 13px;
+  }
+
+  .well_place_program .program-left-wrapper .section-heading {
+    margin: 23px 0 22px;
+  }
+
+  .well_place_program
+    .program-left-wrapper
+    .skilled-based-inner-wrapper
+    .inner-item
+    .technical-list
+    p {
+    font-size: 11px;
+    padding: 1px 14px;
+  }
+
+  .well_place_program
+    .program-left-wrapper
+    .skilled-based-inner-wrapper
+    .inner-item
+    .technical-list
+    ul
+    li {
+    font-size: 12px;
+    line-height: 15px;
+  }
+
+  .well_place_program
+    .program-left-wrapper
+    .skilled-based-inner-wrapper
+    .inner-item
+    p {
+    font-size: 11px;
+    line-height: 11px;
+    margin: 5px 0;
+  }
+
+  .well_place_program
+    .program-left-wrapper
+    .skilled-based-inner-wrapper
+    .inner-item
+    .technical-list
+    ul.skill-list
+    li
+    a {
+    font-size: 10px;
+    line-height: 13px;
+  }
+
+  .job_ready_wrapper .col-4 {
+    padding: 0 0px;
+  }
+
+  .center-down-arrow {
+    margin: 5px 0 0;
+  }
+
+  .well_place_program .job_ready_wrapper .inner-wrapper {
+    height: 117px;
+    max-width: 89%;
+  }
+
+  .well_place_program {
+    padding-top: 53px;
+  }
+
+  .col-lg-6.mobile_background_chart {
+    margin-top: 4px;
+  }
+
+  .increase-chart-graph .increase-chart-graph-slider ul li p {
+    text-align: left;
+  }
+  .well_place_program
+    .program-left-wrapper
+    .skilled-based-inner-wrapper
+    .inner-item
+    .technical-list
+    ul
+    li {
+    font-size: 9px;
+    line-height: 13px;
+  }
+
+  .well_place_program
+    .program-left-wrapper
+    .skilled-based-inner-wrapper
+    .inner-item
+    .technical-list
+    ul.skill-list {
+    margin-bottom: 6px;
+  }
+
+  .job_ready_wrapper .inner-wrapper ul li {
+    font-size: 8.7863px;
+  }
+
+  .recommended-plan.enrollment-wrapper .plan-green-block p {
+    font-size: 7px;
+    line-height: 12px;
+  }
+
+  .recommended-plan.enrollment-wrapper .plan-green-block p span {
+    font-size: 9px;
+    line-height: 7px;
+  }
+
+  .recommended-plan.enrollment-wrapper .plan-green-block .price {
+    font-size: 22px;
+  }
+
+  .recommended-plan.enrollment-wrapper .plan-green-block {
+    padding: 8px 13px;
+  }
+
+  .recommended-heading.recommended-heading-1.sec-1 {
+    padding: 4px 0px 27px;
+  }
+
+  .eligiblity-form-filds .select-plan ul li {
+    font-size: 9px;
+    padding: 1px 0;
+  }
+  .eligiblity-form-filds .select-plan .buttons .theme_btn.tertiary {
+    font-size: 13.5268px;
+    padding: 0px 10px;
+    line-height: 21px;
+  }
+
+  .eligiblity-form-filds .select-plan.select-plan-2 {
+    margin-top: 63px;
+  }
+
+  .eligiblity-form-filds .select-plan.select-plan-1 ul {
+    padding-bottom: 62px;
+  }
+
+  .skill-programs-section .program-cards .bottom-block {
+    padding: 10px 10px;
+  }
+
+  .skill-programs-section .program-cards .top-block h4 {
+    font-size: 11.1605px;
+    margin-bottom: 5px;
+  }
+
+  .skill-programs-section .program-cards .top-block p {
+    margin-bottom: 8px;
+  }
+
+  .skill-programs-section .program-cards .bottom-block ul li {
+    font-size: 8px;
+    margin: 2px 0;
+}
+  .skill-programs-section .program-cards .bottom-block form {
+    padding-bottom: 8px;
+  }
+
+  .programs-btn {
+    padding: 3px 4px;
+    font-size: 10px;
+  }
+
+  .programs-btn.transparent {
+    font-size: 12px;
+    padding: 3px 10px;
+  }
+
+  .select-program-tab-sec
+    .tab-select
+    .tab-content
+    .tab-pane
+    .row.papp_new_wrapper
+    .inner-wrapper
+    p
+    strong {
+    font-size: 15px;
+  }
+
+  .select-program-tab-sec
+    .tab-select
+    .tab-content
+    .tab-pane
+    .row.papp_new_wrapper
+    .inner-wrapper {
+    width: 100%;
+    height: 84px;
+  }
+
+
+
+  .select-program-tab-sec .padding_fixed_mobile .inner-wrapper img {
+    width: 37%;
+    margin-bottom: 8px;
+  }
+
+  .scholarship-test .scholarship-test-wrapper ul li {
+    font-size: 15px;
+    line-height: 21px;
+  }
+
+  .direct-placement-route {
+    margin-top: 84px;
+    padding-top: 0 !important;
+  }
+
+  .both-route-chart
+    .eligiblity-form-filds
+    .select-plan.direct-placement-card
+    .plan-green-block
+    p
+    span {
+    font-size: 11px;
+  }
+
+  .learning-mathod .learning-method-wrapper h2 {
+    font-size: 22px;
+    margin: 24px 0 38px;
+  }
+
+  .learning-mathod .learning-method-wrapper .shadow_box {
+    max-width: 90%;
+  }
+
+  .student-dashboard.select-plan.form-select-verification
+    .tab-content
+    .verification-form
+    .verification-select
+    label {
+    font-size: 14px;
+    line-height: 14px;
+  }
+
+  .student-dashboard.select-plan.form-select-verification
+    .tab-content
+    .verification-form
+    .verification-select
+    select {
+    font-size: 15px;
+    line-height: 22px;
+  }
+
+  .student-dashboard.select-plan.form-select-verification
+    .tab-content
+    .verification-form
+    .verification-select
+    .form-group {
+    margin-bottom: 9px;
+  }
+
+  .student-dashboard.select-plan.form-select-verification
+    .tab-content
+    .verification-form
+    .verification-select
+    .select-down {
+    top: 4px;
+    right: 14px;
+    font-size: 26px;
+  }
+
+  
+  .student-dashboard.select-plan.form-select-verification .tab-content .verification-form {
+    margin-top: 19px;
+}
+
+  .timeline-pop span {
+    width: 22px;
+    height: 22px;
+  }
+
+  .timeline-pop li:before {
+    top: 26%;
+  }
+
+  .timeline-pop li p,
+  .timeline-pop li.active p {
+    font-size: 9px;
+  }
+
+  .upload_docs_wrappper .upload-buttons {
+    width: 90%;
+  }
+
+  .range-input-group .css-eg0mwd-MuiSlider-thumb {
+    top: 54%!important;
+  }
+
+  section.eligiblity-form-sec.direct-placement.five_show {
+    padding-top: 22px;
+    padding-bottom: 40px;
+  }
+
+  .eligiblity-form-filds
+    .select-plan.direct-placement-card
+    .plan-green-block
+    .price-tag {
+    font-size: 6px;
+    line-height: 97.5%;
+  }
+
+  .eligiblity-form-filds
+    .select-plan.direct-placement-card
+    .plan-green-block
+    p
+    span {
+    font-size: 15px;
+  }
+
+  .eligiblity-form-filds .select-plan p.price {
+    font-size: 25px;
+  }
+
+  .eligiblity-form-filds
+    .select-plan.direct-placement-card
+    .plan-transprant-block
+    ul
+    li {
+    font-size: 7px;
+  }
+
+  .eligiblity-form-filds .select-plan ul li img {
+    margin-right: 5px;
+    width: 5%;
+    position: relative;
+    top: 3px;
+  }
+
+  .eligiblity-form-filds
+    .select-plan.direct-placement-card
+    .plan-transprant-block
+    .new-additional-block
+    .additional-heading
+    h6 {
+    font-size: 8px;
+    padding: 0 8px;
+    line-height: 96%;
+  }
+
+  .eligiblity-form-filds
+    .select-plan.direct-placement-card
+    .plan-transprant-block
+    .new-additional-block
+    .form-check-label {
+    font-size: 7px;
+    line-height: 118.5%;
+  }
+
+  .eligiblity-form-filds
+    .select-plan.direct-placement-card
+    .plan-transprant-block
+    .new-additional-block
+    .form-check-input {
+    position: relative;
+    top: -6px;
+  }
+
+  .recommended-plan.enrollment-wrapper.direct-placement-card .plan-transprant-block {
+    padding: 8px 7px 9px;
+}
+  .client-section
+    .client-card-block
+    .card-right-content
+    .card-flex
+    .right-wrapper.lpa-percentage
+    h3 {
+    font-size: 22px;
+    line-height: 25px;
+  }
+
+  .client-section
+    .client-card-block
+    .card-right-content
+    .card-flex
+    .right-wrapper.lpa-percentage
+    p {
+    font-size: 9.2453px;
+  }
+
+  .increase-chart-graph .increase-chart-graph-slider {
+    padding-bottom: 0px;
+  }
+
+  .landing-banner.well_place_having_dought
+    .basket-row
+    .summary-table
+    .table-responsive-xl.special-inclusions-table {
+    width: 327px;
+    margin: auto;
+    margin-left: -18px;
+    padding: 36px 36px;
+  }
+
+  .having-doughts-sec .call-session .icon {
+    left: -9px;
+    width: 26%;
+    top: 4px;
+  }
+
+  .well_place_program
+    .accordion.style-2
+    .card
+    .card-body
+    .job_ready_wrapper.job_ready_green_wrapper
+    .inner-wrapper::after {
+    width: 23px;
+    background-color: #38ab23;
+  }
+
+  .well_place_program
+    .program-left-wrapper
+    .skilled-based-inner-wrapper
+    .roadmap-success-section
+    .career-wrapper-sec
+    .inner-wrapper {
+    height: 137px;
+  }
+
+  .well_place_program .nav-tabs .package_select_section p {
+    font-size: 10px;
+  }
+
+  .direct-placement .increase-chart-graph .placement-content-wrapper {
+    width: 90%;
+  }
+
+  .direct-placement .increase-chart-graph .placement-content-wrapper ul li {
+    font-size: 13px;
+    line-height: 13px;
+  }
+
+  .direct-placement .increase-chart-graph .placement-content-wrapper ul li i {
+    color: #fecd08;
+    margin-right: 10px;
+    font-size: 9px;
+    position: relative;
+    top: 1px;
+  }
+
+  .theme-footer .logo .footer-logo-top p {
+    margin-top: 25px;
+    margin-bottom: 1px;
+    font-size: 14px;
+  }
+
+  .theme-footer .footer-widget .widget-title {
+    margin-bottom: 28px;
+    font-weight: 500;
+    font-size: 23px;
+  }
+
+  .footer-widget .widget-list li a {
+    font-size: 16px;
+  }
+
+  .contect-us-page .contect-left-wrapper h1 {
+    font-size: 28px;
+  }
+
+  .contect-us-page .contect-left-wrapper p {
+    font-size: 13.0657px;
+    margin: 17px 0 33px;
+  }
+
+  .contect-us-page .contect-right-wrapper .contect-submit button {
+    font-size: 21.1411px;
+  }
+
+  .contect-us-page .contect-right-wrapper .form-control {
+    padding: 16px 20px;
+  }
+
+  .direct-placement-route.direct-placement-route1.doughnut_placement_route {
+    padding-top: 74px !important;
+    height: 100%;
+  }
+
+  .irpUny {
+    width: 100%;
+    max-width: 77vw !important;
+  }
+
+  .eligiblity-result-modal .score-miter h6 {
+    font-size: 26px;
+  }
+
+  .eligiblity-result-modal .score-miter p {
+    margin-bottom: 30px;
+    max-width: 92%;
+    font-size: 14px;
+    line-height: 18px;
+  }
+
+  .hovered_card .recommended-heading {
+    font-size: 10px;
+    padding: 2px 0 26px;
+  }
+
+  .recommended-plan.enrollment-wrapper .plan-transprant-block {
+    padding: 5px 13px 12px;
+  }
+
+  .eligiblity-form-filds .select-plan p.price {
+    font-size: 25px;
+  }
+
+  .eligiblity-form-filds
+    .select-plan.direct-placement-card.mobile_effact_cards
+    .plan-transprant-block
+    .new-additional-block
+    .additional-heading {
+    margin-bottom: 11px;
+  }
+
+  .client-section
+    .client-card-block
+    .card-right-content
+    .card-flex
+    .right-wrapper {
+    width: 69px;
+    height: 69px;
+  }
+
+  .client-section
+    .client-card-block
+    .card-right-content
+    .card-flex
+    .right-wrapper
+    p {
+    font-size: 9px;
+  }
+
+  .landing-banner .landing-banner-sec .banner-left-block .trusted-para {
+    padding-top: 33px;
+  }
+
+  .landing-select-type-sec .cardss p {
+    font-size: 11px;
+  }
+
+  .landing-select-type-sec .card-container {
+    height: 90px;
+  }
+
+  .landing-select-type-sec .timeline-pop span {
+    width: 29px;
+    height: 29px;
+    position: relative;
+    top: 6px;
+  }
+
+  .career-ready-sec.rendom_speedo {
+    padding: 41px 0 4px;
+  }
+
+  .select-status .element-select-status a {
+    font-size: 16px;
+  }
+
+  .eligiblity-form-sec.select_status_modile {
+    padding: 107px 0 50px;
+  }
+
+  .select_status_modile .row.eligiblity-form-filds p {
+    font-size: 14px;
+    padding: 0 2px;
+    padding-top: 4px;
+  }
+
+  .sign-in-modal .sign-up-form .otp-instructions {
+    font-size: 13px;
+  }
+
+  .navbar .theme-logo img {
+    width: 140px;
+  }
+
+  .theme-header.absolute-header {
+    padding: 7px 0 7px;
+  }
+
+  .eligiblity-form-sec {
+    padding: 141px 0 60px;
+  }
+
+  .row.eligiblity-form-filds.pgp-mnanagement p {
+    font-size: 11px;
+    padding: 0 0px;
+  }
+
+  .special-inclusions-table .certificate_background_sec .card-body ul li p {
+    font-size: 10px;
+  }
+
+  .skill-programs-section .program-cards .bottom-block ul {
+    margin-bottom: 11px;
+    margin-top: 0;
+  }
+
+  .recommended-plan.enrollment-wrapper {
+    padding: 0;
+    border-radius: 17px;
+  }
+
+  .recommended-plan.enrollment-wrapper .plan-green-block {
+    border-radius: 17px 17px 0 0;
+  }
+
+  .sign-in-modal.test-submit-modal.scholarship-modal.disclaimer-modal
+    .modal-dialog
+    .modal-content {
+    padding: 2px 17px 5px;
+    border-radius: 6px;
+  }
+
+  .sign-in-modal.test-submit-modal.scholarship-modal.disclaimer-modal
+    .modal-dialog {
+    border-radius: 26px;
+  }
+
+  .sign-in-modal.test-submit-modal.scholarship-modal.disclaimer-modal
+    .test-box {
+    padding-top: 10px;
+  }
+  .student-dashboard .tab-content.edit_dashboard_content .range-list h5 {
+    font-size: 20px;
+    margin-bottom: 13px;
+  }
+
+  .student-dashboard
+    .tab-content.edit_dashboard_content
+    .dashboard-content
+    h2.h2 {
+    font-size: 28px;
+  }
+
+
+.roadmap-success-section .accordion.style-2 .card-header i {
+  font-size: 17px;
+}
+
+.direct-placement-route.direct-placement-route1 {
+  padding-top: 60px!important;
+}
+
+.eligiblity-form-filds .select-plan.direct-placement-card .plan-transprant-block .price {
+  font-size: 22px!important;
+  padding: 0!important;
+}
+
+.select-program-tab-sec .tab-select .tab-content .tab-pane .video-box {
+  max-width: 91%;
+  /* height: 140px; */
+}
+
+.select-program-tab-sec.roadmap-success-section .tab-select .tab-content .tab-pane .faculty-list li {
+  font-size: 11px;
+}
+
+.ready_test_page .sign-in-modal .modal-dialog {
+
+  margin-top: 14px;
+}
+
+
+.fotter_mobile_alignment{
+  display: flex;
+  justify-content: center;
+}
+
+.landing-select-type-sec .timeline-pop ol li:before {
+  left: 12px;
+  top: 37px;
+  width: 6px;
+  height: 333%;
+}
+
+}
+
+@media (max-width: 362px) {
+  .landing-select-type-sec .large {
+    width: 184px;
+    right: auto;
+    padding-right: 19px;
+  }
+
+  .landing-banner.well_place_having_dought
+    .basket-row
+    .summary-table
+    .table-responsive-xl.special-inclusions-table {
+    width: 297px;
+    margin: auto;
+    margin-left: -18px;
+    padding: 36px 20px;
+  }
+
+  .landing-select-type-sec .center_or {
+    padding-left: 91px;
+  }
+
+  .well_place_program .section-heading h1 {
+    font-size: 25px;
+  }
+
+  .row.eligiblity-form-filds .skilled-based-packaged ul li p {
+    font-size: 10.1px;
+    line-height: 13px;
+  }
+
+  .skilled-based-packaged-list {
+    padding: 23px 15px;
+  }
+
+  .skilled-based-packaged-list .buttons-div {
+    margin-top: 15px;
+  }
+
+  .well_place_program .section-heading p {
+    font-size: 11px;
+    line-height: 16px;
+  }
+
+  .well_place_program
+    .program-left-wrapper
+    .skilled-based-inner-wrapper
+    .roadmap-success-section
+    .career-wrapper-sec
+    .inner-wrapper
+    p {
+    font-size: 8.843px !important;
+  }
+
+  .eligiblity-form-filds
+    .select-plan.direct-placement-card
+    .plan-transprant-block
+    p
+    .offer {
+    font-size: 5px;
+    padding: 2px 10px;
+  }
+
+  .well_place_program
+    .skilled-based-packaged-list.program-left-wrapper.program-last-wrapper
+    .right-block
+    a {
+    margin-top: 27px;
+    font-size: 13px;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+  }
+
+  .hovered_card .recommended-heading {
+    font-size: 10px;
+    padding: 5px 0 28px;
+  }
+
+  .direct-placement .increase-chart-graph h4 {
+    font-size: 31px;
+  }
+  .client-section .client-card-block .card-right-content .company-logo img {
+    width: 47%;
+  }
+
+  .landing-banner.well_place_having_dought .basket-row .client-logo p {
+    margin: 0;
+    text-align: center;
+    font-size: 14px;
+  }
+}
+
+@media (max-width: 350px) {
+  .mobile_tab_content_show .basket-row {
+    max-width: 100.666667%;
+  }
+
+  .skilled-based-packaged ul li p b {
+    font-size: 11.8026px;
+  }
+
+  .range-input-group .css-eg0mwd-MuiSlider-thumb {
+    top: 53% !important;
+}
+}

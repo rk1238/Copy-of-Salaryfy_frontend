@@ -1,0 +1,164 @@
+.jobSwitch_container {
+    /* width: 1289px; */
+    height: 632px;
+    left: 118px;
+    top: 181px;
+
+    background: #FFFFFF;
+    box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.08);
+    border-radius: 15px;
+    margin: 150px 0px 50px 0px;
+}
+
+.jobSwitch_title {
+
+    font-family: 'Lexend';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 28px;
+    line-height: 101%;
+    /* or 28px */
+
+
+    color: #005F59;
+
+}
+
+
+.jobSwitch_description {
+    font-family: 'Lexend';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 138.5%;
+    /* or 19px */
+
+    margin: 5px;
+    color: #5B5B5B;
+}
+
+.jobSwitch_title_container {
+    padding: 20px;
+
+}
+
+
+.jobSwitch_inner_container {
+    margin: auto;
+    width: 660px;
+    height: 482px;
+    left: 426px;
+    top: 289px;
+
+    background: linear-gradient(180deg, rgba(254, 205, 8, 0.07) 0%, rgba(14, 95, 89, 0.19) 100%);
+    border: 1px solid rgba(14, 95, 89, 0.1);
+    border-radius: 15px;
+}
+
+
+.jobSwitch_inner_container_title {
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 660px;
+    height: 84px;
+    /* left: 426px; */
+    /* top: 289px; */
+
+    background: #000000;
+    border: 1px solid rgba(14, 95, 89, 0.1);
+    border-radius: 15px 15px 0px 0px;
+}
+
+.jobSwitch_title_bar_title {
+    font-style: normal;
+    font-weight: 600;
+    font-size: 28px;
+    /* line-height: 138.5%; */
+    /* or 39px */
+
+
+    color: #FFFFFF;
+}
+
+
+.jobSwitch_next_container {
+    position: relative;
+    width: 90%;
+    margin:100px auto
+}
+
+.fifteen_days {
+    font-family: 'Lexend';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 34px;
+    line-height: 138.5%;
+    /* or 47px */
+
+    text-align: center;
+
+    color: #005F59;
+}
+
+.thousand_strike {
+
+    font-family: 'Lexend';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 28px;
+    line-height: 138.5%;
+    /* identical to box height, or 39px */
+
+    text-align: center;
+
+    color: rgba(0, 0, 0, 0.4);
+}
+
+.five_hundred_strike {
+    font-family: 'Lexend';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 28px;
+    line-height: 138.5%;
+    /* identical to box height, or 39px */
+
+    text-align: center;
+
+    color: #504B4B;
+}
+
+.jobSwitch_left_list>div{
+    display: flex;
+    gap: 5px;
+    align-items: center;
+}
+
+.jobSwitch_left_list>div>p{
+    margin: 13px 0px;
+}
+
+.jobSwitch_right_list>div{
+    display: flex;
+    gap: 5px;
+    align-items: center;
+}
+
+.jobSwitch_right_list>div>p{
+    margin: 13px 0px;
+}
+
+
+
+.jobSwitch_left_right_container{
+ display: flex;
+ align-items: center;
+ justify-content: space-between;
+}
+
+.jobSwitch_access_button{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    margin: 20px auto;
+}

@@ -1,0 +1,593 @@
+.eligibility-fresher-container {
+    position: relative;
+    border-radius: 13px;
+    border: 1px solid #FECD08;
+    display: flex;
+    margin-top: 150px;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    padding: 15px;
+    align-items: center;
+}
+
+.eligibility-fresher-container-medium {
+    position: relative;
+    border-radius: 13px;
+    border: 1px solid #FECD08;
+    display: flex;
+    margin-top: 150px;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    padding: 15px;
+    align-items: center;
+}
+
+.eligibility-fresher-container-small {
+    position: relative;
+    border-radius: 13px;
+    border: 1px solid #FECD08;
+    display: flex;
+    margin-top: 100px;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    padding: 15px;
+    align-items: center;
+}
+
+.eligibility-fresher-left-side>h2 {
+    /* Fresher */
+
+
+    width: 152px;
+    height: 50.07px;
+    left: 149px;
+    top: 174px;
+
+    font-family: 'Lexend';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 138.5%;
+    /* or 55px */
+
+
+    color: #0E5F59;
+}
+
+.eligibility-fresher-left-side>p {
+
+    width: 679px;
+    height: 22.76px;
+    left: 149px;
+    top: 229.81px;
+
+    font-family: 'Lexend';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 138.5%;
+    color: #0E5F59;
+
+}
+
+.eligibility-fresher-right-side-row>p {
+
+
+    width: 111px;
+    height: 20px;
+    left: 1262px;
+    top: 234px;
+
+    font-family: 'Lexend';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 20px;
+    /* identical to box height */
+margin: 0px !important;
+
+    color: #0E5F59;
+}
+
+.eligibility-fresher-right-side-row{
+    display: flex;
+    gap: 5px;
+    align-items: center;
+}
+
+
+.eligibility-fresher-left-side-medium>h2 {
+    /* Fresher */
+
+
+    width: 152px;
+    height: 50.07px;
+    left: 149px;
+    top: 174px;
+
+    font-family: 'Lexend';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 138.5%;
+    /* or 55px */
+
+
+    color: #0E5F59;
+}
+
+.eligibility-fresher-left-side-medium>p {
+
+    width: 679px;
+    height: 22.76px;
+    left: 149px;
+    top: 229.81px;
+
+    font-family: 'Lexend';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 10.5%;
+    color: #0E5F59;
+
+}
+
+.eligibility-fresher-right-side-row-medium>p {
+
+
+    width: 111px;
+    height: 20px;
+    left: 1262px;
+    top: 234px;
+
+    font-family: 'Lexend';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 20px;
+    /* identical to box height */
+margin: 0px !important;
+
+    color: #0E5F59;
+}
+
+
+.eligibility-fresher-right-side-row-medium{
+    display: flex;
+    gap: 5px;
+    align-items: center;
+}
+
+
+.eligibility-fresher-left-side-small>h2 {
+    /* Fresher */
+
+
+    font-family: 'Lexend';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 23px;
+    line-height: 138.5%;
+    /* or 55px */
+
+
+    color: #0E5F59;
+}
+
+.eligibility-fresher-left-side-small>p {
+
+    font-family: 'Lexend';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 13px;
+    color: #0E5F59;
+
+}
+
+.eligibility-fresher-right-side-row-small>p {
+
+    font-family: 'Lexend';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 20px;
+    /* identical to box height */
+margin: 0px !important;
+
+    color: #0E5F59;
+}
+
+
+.eligibility-fresher-right-side-row-small{
+    display: flex;
+    gap: 5px;
+    align-items: center;
+}
+
+.roadMap-section{
+    margin-top: 10px;
+    margin-left: -15px;
+}
+
+.eligibility-form-container{
+    box-shadow: 0px 0px 20px 0px #00000014;
+    border-radius: 15px;
+    background: #FFFFFF;
+    padding: 50px;
+    margin: 50px 0px;
+}
+
+@media screen and (max-width:500px){
+
+    .eligibility-form-container{
+        box-shadow: 0px 0px 20px 0px #00000014;
+        border-radius: 15px;
+        background: #FFFFFF;
+        padding: 20px;
+        margin: 50px 0px;
+    }
+}
+
+.eligibility-form-first-row{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.eligibility-form-second-row{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-top: 30px;
+}
+
+.eligibility-form-third-row{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-top: 30px;
+}
+
+.eligibility-form-four-row{
+    margin-top: 30px;
+}
+
+
+.eligibility-form-label-container>label{
+    color: #0E5F59;
+
+font-family: 'Lexend';
+font-style: normal;
+font-weight: 600;
+font-size: 20px;
+line-height: 25px;
+/* identical to box height */
+
+/* text-align: center; */
+
+color: #0E5F59;
+}
+
+
+.eligibility-form-label-container>input{
+   width: 400px;
+    border: 0px;
+    outline: 0px;
+    box-shadow: 0px 0px 20px 0px #0000001f;
+    padding: 10px 20px;
+    border-radius: 10px;
+    border: 1px solid #0E5F59;
+    font-family: "Lexend";
+    font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 25px;
+
+
+
+}
+
+
+.eligibility-form-label-container>div>input{
+    width: 250px;
+    border: 0px;
+    outline: 0px;
+    box-shadow: 0px 0px 20px 0px #00000018;
+    padding: 10px 20px;
+    border-radius: 10px;
+    border: 1px solid #0E5F59;
+    font-family: "Lexend";
+    font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 25px;
+    
+}
+
+.eligibility-form-label-container>div>button{
+    /* height: 100%; */
+     height: 45px;
+background: #0E5F59;
+border-radius: 10px;
+width: 140px;
+margin-left: 10px;
+font-family: 'Lexend';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 20px;
+/* identical to box height */
+
+
+color: #FECD08;
+}
+
+
+
+.eligiblity-next-button{
+    width: 186px;
+height: 54px;
+left: 678px;
+top: 865px;
+
+background: #0E5F59;
+border-radius: 9px;
+
+
+font-family: 'Lexend';
+font-style: normal;
+font-weight: 500;
+font-size: 20.247px;
+line-height: 25px;
+text-align: center;
+
+color: #FFFFFF;
+}
+
+.eligiblity-next-button-container{
+    display: flex;
+    justify-content:center;
+    margin-top: 40px;
+}
+
+
+
+
+
+
+
+
+.select-container{
+    width: 400px;
+    font-family: 'Lexend' !important;
+
+}
+
+.select-container-select{
+    font-family: 'Lexend' !important;
+    border-radius: 10px !important;
+    border: 1px solid #0E5F59 !important;
+    outline: 0px !important;
+    box-shadow: 0px 0px 20px 0px #0000000a !important;
+    height: 48px !important;
+    font-family: 'Lexend';
+    font-style: normal;
+    font-weight: 400 !important;
+    font-size: 20px !important;
+    line-height: 25px !important;
+
+}
+
+.select-container-items{
+    font-family: 'Lexend' !important;
+}
+
+.select-container-label{
+    font-family: 'Lexend' !important;
+}
+
+
+/* for medium eligiblility form */
+
+
+
+.eligibility-form-label-container-medium>label{
+    color: #0E5F59;
+
+font-family: 'Lexend';
+font-style: normal;
+font-weight: 600;
+font-size: 20px;
+line-height: 25px;
+/* identical to box height */
+
+/* text-align: center; */
+
+color: #0E5F59;
+margin-top: 30px;
+}
+
+
+.eligibility-form-label-container-medium>input{
+   width: 100%;
+    border: 0px;
+    outline: 0px;
+    box-shadow: 0px 0px 20px 0px #0000001f;
+    padding: 10px 20px;
+    border-radius: 10px;
+    border: 1px solid #0E5F59;
+    font-family: "Lexend";
+    font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 25px;
+
+
+
+}
+
+
+.eligibility-form-label-container-medium>div>input{
+    width: 75%;
+    border: 0px;
+    outline: 0px;
+    box-shadow: 0px 0px 20px 0px #00000018;
+    padding: 10px 20px;
+    border-radius: 10px;
+    border: 1px solid #0E5F59;
+    font-family: "Lexend";
+    font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 25px;
+    
+}
+.eligibility-form-label-container-medium>div{
+    width: 100% !important;
+}
+
+.eligibility-form-label-container-medium>div>button{
+    /* height: 100%; */
+     height: 47px;
+background: #0E5F59;
+border-radius: 10px;
+width: 23%;
+margin-left: 10px;
+font-family: 'Lexend';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 20px;
+/* identical to box height */
+
+
+color: #FECD08;
+}
+
+
+
+/* small eligilibility form */
+
+.eligibility-form-label-container-small>label{
+    color: #0E5F59;
+
+font-family: 'Lexend';
+font-style: normal;
+font-weight: 600;
+font-size: 20px;
+line-height: 25px;
+/* identical to box height */
+
+/* text-align: center; */
+
+color: #0E5F59;
+margin-top: 30px;
+}
+
+
+.eligibility-form-label-container-small>input{
+   width: 100%;
+    border: 0px;
+    outline: 0px;
+    box-shadow: 0px 0px 20px 0px #0000001f;
+    padding: 10px 20px;
+    border-radius: 10px;
+    border: 1px solid #0E5F59;
+    font-family: "Lexend";
+    font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 25px;
+
+
+
+}
+
+
+.eligibility-form-label-container-small>div>input{
+    width: 70%;
+    border: 0px;
+    outline: 0px;
+    box-shadow: 0px 0px 20px 0px #00000018;
+    padding: 10px 20px;
+    border-radius: 10px;
+    border: 1px solid #0E5F59;
+    font-family: "Lexend";
+    font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 25px;
+    
+}
+.eligibility-form-label-container-small>div{
+    width: 100% !important;
+}
+
+.eligibility-form-label-container-small>div>button{
+    /* height: 100%; */
+     height: 47px;
+background: #0E5F59;
+border-radius: 10px;
+width: 23%;
+margin-left: 10px;
+font-family: 'Lexend';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 20px;
+/* identical to box height */
+
+
+color: #FECD08;
+}
+
+
+
+.eligibility-form-upload-document-container{
+    width: 400px;
+    border: 0px;
+    outline: 0px;
+    box-shadow: 0px 0px 5px 0px #0000007c;
+    padding: 10px 20px;
+    border-radius: 10px;
+    /* border: 1px solid #0E5F59; */
+    font-family: "Lexend";
+    font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 25px;
+margin-top: 50px;
+cursor: pointer;
+}
+
+
+@media screen and (max-width:500px) {
+
+    .eligibility-form-upload-document-container{
+        width: 100% !important;
+        border: 0px;
+        outline: 0px;
+        box-shadow: 0px 0px 5px 0px #0000007c;
+        padding: 10px 20px;
+        border-radius: 10px;
+        /* border: 1px solid #0E5F59; */
+        font-family: "Lexend";
+        font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 25px;
+    margin-top: 50px;
+    cursor: pointer;
+    }
+    
+}
+
+
+
+.otp-container{
+    background-color: #F4F4F4;
+    width: max-content;
+    padding: 30px 30px;
+    border-radius: 20px;
+    margin: 20px 0px;
+}

@@ -1,0 +1,278 @@
+.fresher_placement_company_title_container {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: auto;
+    width: 100%;
+    background: linear-gradient(180deg, rgba(254, 205, 8, 0.07) 0%, rgba(14, 95, 89, 0.19) 100%);
+    /* opacity: 0.5; */
+    border: 1px solid rgba(14, 95, 89, 0.1);
+    border-radius: 13px;
+    padding: 20px 50px;
+}
+
+.fresher_placement_company_container {
+    display: flex;
+    gap: 100px;
+    margin: 40px 0px;
+    /* justify-content: space-between; */
+}
+
+.fresher-placement-drive-container {
+    width: 70%;
+    margin: auto;
+}
+
+.fresher_placement_company_container_left {
+    background: #FFFFFF;
+    box-shadow: 0px 0px 19px rgba(0, 0, 0, 0.09);
+    border-radius: 13px;
+    padding: 80px 60px;
+    width: 25%;
+    height: max-content;
+}
+
+.fresher_placement_company_container_right {
+    width: 75%;
+}
+
+.fresher_placement_company_job_title {
+
+    font-family: 'Lexend';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 25px;
+    /* identical to box height */
+
+    /* text-align: center; */
+
+    color: #005F59;
+
+
+    /* Inside auto layout */
+
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+}
+
+.fresher_placement_company_job_input_container {
+    display: flex;
+    align-items: center;
+    gap: 20px;
+    width: 100%;
+}
+
+.fresher_placement_company_job_input_container_input {
+    width: 85%;
+    height: 36px;
+    border-radius: 10.1235px;
+    border: 1px solid #005F59;
+    font-family: 'Lexend';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 22px;
+    /* identical to box height */
+
+    padding: 0px 20px;
+    color: #B3B3B3;
+
+
+    /* Inside auto layout */
+
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+}
+
+.fresher_placement_company_job_input_container_button {
+    width: 10%;
+    width: 74px;
+    height: 36px;
+    left: 1323px;
+    top: 558px;
+
+    background: #005F59;
+    border-radius: 10.1235px;
+    font-family: 'Lexend';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 22px;
+    /* identical to box height */
+
+    text-align: center;
+
+    color: #FFFFFF;
+}
+
+.fresher_placement_company_inner_container_position {
+    font-family: 'Lexend';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 25px;
+    /* identical to box height */
+
+
+    color: #005F59;
+
+}
+
+
+.fresher_placement_company_inner_container_company {
+    font-family: 'Lexend';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 138.5%;
+    /* identical to box height, or 25px */
+
+
+    color: #5B5B5B;
+
+}
+
+
+.fresher_placement_company_inner_container_interview {
+
+    font-family: 'Lexend';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 138.5%;
+    /* or 19px */
+
+
+    color: #5B5B5B;
+}
+
+
+
+.fresher_placement_company_inner_container_date {
+    font-family: 'Lexend';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 138.5%;
+    /* or 19px */
+    padding: 5px 20px;
+    border-radius: 30px;
+    border: 1px solid #EA4335;
+    width: max-content;
+    color: #EA4335;
+
+
+    /* Inside auto layout */
+
+}
+
+.fresher_placement_company_inner_container_flex {
+    display: flex;
+    align-items: center;
+    gap: 20px;
+}
+
+.fresher_placement_company_flex_container {
+    display: flex;
+    justify-content: space-between
+}
+
+
+.fresher_placement_comapany_flex_inner_container {
+    display: flex;
+    gap: 20px;
+    align-items: center;
+}
+
+.fresher_placement_company_inner_main_container {
+    background: #FFFFFF;
+    box-shadow: 0px 4px 19px rgba(0, 0, 0, 0.09);
+    border-radius: 13px;
+    padding: 30px;
+    margin: 30px 0px;
+}
+
+.fresher_placement_company_inner_map_container {
+    margin-top: 50px;
+    overflow: scroll;
+    height: 400px;
+    overflow-x: hidden;
+}
+
+.fresher_placement_company_inner_map_container::-webkit-scrollbar{
+    display: none;
+  }
+
+.fresher_placement_company_inner_container_second_flex {
+    display: flex;
+}
+
+.fresher_placement_company_inner_container_flex_second_container {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-top: 20px
+}
+
+.fresher_placement_company_inner_container_location {
+    font-family: 'Lexend';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 138.5%;
+    /* or 22px */
+
+
+    color: #5B5B5B;
+}
+
+.fresher_placement_company_inner_container_job_type {
+    font-family: 'Lexend';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 138.5%;
+    /* or 22px */
+
+
+    color: #5B5B5B;
+}
+
+
+.fresher_placement_company_inner_container_posts {
+    font-family: 'Lexend';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 138.5%;
+    /* or 22px */
+
+
+    color: #5B5B5B;
+
+}
+
+
+.fresher_placement_company_location, .fresher_placement_company_job_type, .fresher_placement_company_company {
+    font-family: 'Lexend';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 25px;
+    /* identical to box height */
+
+    text-align: left;
+
+    color: #005F59;
+
+
+    /* Inside auto layout */
+
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+    margin-top: 20px;
+}

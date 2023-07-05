@@ -1,0 +1,30 @@
+.instant-skill-container{
+    display:flex;
+    align-items:center;
+    justify-content:space-around;
+    flex-wrap: wrap;
+}
+
+.getAccessButton{
+    display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 5px 10px 7px;
+gap: 10px;
+
+width: 161px;
+height: 31px;
+left: 358px;
+top: 438px;
+
+background: #FECD08;
+border-radius: 5px;
+
+}
+
+.getAccessButtonContainer{
+    margin:20px auto;
+    display:flex;
+    justify-content:center;
+}

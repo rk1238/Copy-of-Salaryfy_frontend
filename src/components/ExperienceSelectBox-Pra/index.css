@@ -1,0 +1,190 @@
+.experience_check_category_side_container>p {
+    font-family: 'Lexend';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 138.5%;
+    /* or 19px */
+
+    margin: 2px;
+    color: #5B5B5B;
+}
+
+.experience_check_category_side_container>h3 {
+
+    font-family: 'Lexend';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 28px;
+    line-height: 101%;
+    /* or 28px */
+
+
+    color: #005F59;
+}
+
+.experience_check_category_super_fast_container {
+
+    box-sizing: border-box;
+
+    width: 303.97px;
+    height: 511.68px;
+    left: 633px;
+    top: 502.8px;
+
+    background: linear-gradient(180deg, rgba(254, 205, 8, 0.07) 0%, rgba(14, 95, 89, 0.19) 100%);
+    border: 1px solid rgba(14, 95, 89, 0.1);
+    border-radius: 15px;
+}
+
+
+.experience_recommended {
+    width: 303.97px;
+    height: 26.6px;
+    left: 633px;
+    top: 480px;
+    margin: 0px;
+    background: #FECD08;
+    border-radius: 13px 12px 0px 0px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+.experience_days {
+
+
+    font-family: 'Lexend';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 34px;
+    line-height: 138.5%;
+    /* or 47px */
+
+    text-align: center;
+    margin: 3px;
+    color: #005F59;
+}
+
+
+.experience_job_change {
+
+    margin: 3px;
+
+    font-family: 'Lexend';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 138.5%;
+    /* or 22px */
+    position: relative;
+    text-align: center !important;
+
+    color: #5B5B5B;
+}
+
+.experience_strike_container {
+    display: flex;
+    justify-content: center
+}
+
+.experience_strike_container>strike {
+    width: 81px;
+    height: 39px;
+    left: 705px;
+    top: 670px;
+
+    font-family: 'Arial';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 28px;
+    line-height: 138.5%;
+    /* identical to box height, or 39px */
+
+    text-align: center;
+
+    color: rgba(0, 0, 0, 0.4);
+}
+
+.experience_strike_container>span {
+    width: 71px;
+    height: 39px;
+    left: 793.12px;
+    top: 670px;
+
+    font-family: 'Arial';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 28px;
+    line-height: 138.5%;
+    /* identical to box height, or 39px */
+
+    text-align: center;
+
+    color: #504B4B;
+}
+
+.experience_lists {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    margin: 10px;
+}
+
+.experience_lists>p {
+    width: 200px;
+    height: 19px;
+    left: 705.18px;
+    top: 727.95px;
+    margin: 0px;
+    font-family: 'Lexend';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 138.5%;
+    /* or 21px */
+
+
+    color: #5B5B5B;
+}
+
+.experience_view_full_container {
+    display: flex;
+    justify-content: center;
+    margin-top: 10px !important;
+}
+
+.experience_view_full {
+    color: green;
+    text-align: center !important;
+    border-bottom: 1px solid green;
+
+}
+
+.experience_access_now_button {
+    display: flex;
+    justify-content: center;
+    margin-top: 25px;
+}
+
+
+.experience_check_category_main_container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    padding: 20px;
+    box-shadow: 0px 0px 5px rgba(128, 128, 128, 0.342);
+    margin: 20px;
+    border-radius: 20px;
+}
+
+
+.experience_check_category_inner_container{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    justify-content: center;
+    align-items: flex-end;
+}

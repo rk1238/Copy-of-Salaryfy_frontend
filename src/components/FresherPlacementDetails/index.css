@@ -1,0 +1,234 @@
+.fresher_placement_details_flex_container {
+    display: flex;
+    width: 100%;
+}
+
+.fresher_placement_details_main_container {
+    width: 80%;
+    margin: 200px auto;
+
+}
+
+.fresher_placement_details_profile_icon {
+    position: absolute;
+    bottom: -50%;
+    left: 5%;
+    transform: translateY(-50%)
+}
+
+.fresher_placement_details_job_interview {
+    font-family: 'Lexend';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 138.5%;
+    /* or 19px */
+    margin: 0px;
+    color: #FFFFFF;
+
+}
+
+.fresher_placement_details_left{
+    width: 25%;
+}
+
+.fresher_placement_details_right{
+    width: 75%;
+}
+
+.fresher_placement_details_job_date {
+    font-family: 'Lexend';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 138.5%;
+    /* or 19px */
+
+    color: #FFFFFF;
+
+    margin: 0px;
+
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+    padding: 3px 20px;
+    border: 2px solid white;
+    width: max-content;
+    border-radius: 20px;
+}
+
+
+.fresher_placement_details_cover_container {
+    display: flex;
+    align-items: center;
+    gap: 20px;
+    position: absolute;
+    bottom: 10%;
+    right: 2%;
+}
+
+.fresher_placement_details__profile_title {
+    font-family: 'Lexend';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 138.5%;
+    /* identical to box height, or 25px */
+
+
+    color: #0E5F59;
+}
+
+.fresher_placement_details_profile_bottom_container {
+    position: relative;
+    background: linear-gradient(180deg, rgba(254, 205, 8, 0.07) 0%, rgba(14, 95, 89, 0.19) 100%);
+    /* opacity: 0.5; */
+    border: 1px solid rgba(14, 95, 89, 0.1);
+    border-radius: 0px;
+    padding-top: 30px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    padding-bottom: 20px;
+
+}
+
+.fresher_placement_details__profile_job_title {
+    font-family: 'Lexend';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 101%;
+    /* or 20px */
+
+
+    color: #000000;
+}
+
+
+.fresher_placement_job_location,
+.fresher_placement_job_salary,
+.fresher_placement_job_type,
+.fresher_placement_job_posts {
+
+    font-family: 'Lexend';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 138.5%;
+    /* or 19px */
+
+    margin: 0px;
+    color: #5B5B5B;
+
+}
+
+.fresher_placement_job_location_second,
+.fresher_placement_job_salary_second,
+.fresher_placement_job_type_second,
+.fresher_placement_job_posts_second {
+    font-family: 'Lexend';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 138.5%;
+    /* or 19px */
+
+    margin: 0px;
+    color: #005F59;
+
+}
+
+.fresher_placement_job_location_container,
+.fresher_placement_job_salary_container,
+.fresher_placement_job_type_container,
+.fresher_placement_job_posts_container {
+    display: flex;
+    align-items: center;
+}
+
+.fresher_placement_details_container_flex {
+    display: flex;
+    align-items: center;
+}
+
+
+.fresher_placement_job_content_container {
+
+    background: #FFFFFF;
+    box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.08);
+    border-radius: 15px;
+}
+
+.fresher_placement_job_flex_container {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    /* width: 90%;
+    margin: auto; */
+
+}
+
+.fresher_placement_job_flex_container>div {
+    display: flex;
+    align-items: center;
+    gap: 20px;
+}
+
+.fresher_placement_job_title {
+    font-family: 'Lexend';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 138.5%;
+    /* identical to box height, or 28px */
+
+
+    color: #005F59;
+}
+
+
+.fresher_placement_job_first_para{
+    text-indent: 0%;
+    width: 900%;
+}
+
+.fresher_placement_job_flex_container_first{
+    display: flex;
+    align-items: center;
+    gap: 20px;
+}
+
+.fresher_placement_job_ordered_list{
+    font-family: 'Lexend';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 138.5%;
+/* or 22px */
+
+margin-top: 10px;
+color: #000000;
+
+}
+
+.fresher_placement_job_ordered_list>li{
+    line-height: 25px;
+    margin-left: 40px;
+
+}
+
+
+.placement_content{
+    
+font-family: 'Lexend';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 138.5%;
+/* or 22px */
+margin-top: 10px;
+width: 100%;
+color: #000000;
+margin-left: 25px;
+}
